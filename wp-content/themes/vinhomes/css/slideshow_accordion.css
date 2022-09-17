@@ -1,0 +1,40 @@
+/* ======================================================================================================================================================
+AVIACCORDION
+====================================================================================================================================================== */
+
+.aviaccordion{
+	position: relative; 
+	overflow: hidden;
+	clear: both;
+}
+
+.avia-accordion-slider-wrap{border:none; z-index: 2;}
+.avia-accordion-slider-wrap.el_after_av_slideshow_accordion{ box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4); }
+
+.aviaccordion-inner, .aviaccordion-slide, .aviaccordion-slide-link{position: absolute; margin:0; padding:0; width:100%; height:100%; list-style-type: none;}
+.aviaccordion-slide img{ height:100%; position: absolute; display:block; opacity: 0; filter:alpha(opacity=0); }
+.aviaccordion-slide{ box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.4);  z-index: 2; overflow: hidden;}
+.aviaccordion-preview{position: absolute; z-index: 10; height:100%;}
+.aviaccordion-preview-title-pos{ position: absolute; bottom: 0; left:0; z-index: 10;  width:100%; height:100%; opacity: 0; filter:alpha(opacity=0);}
+.aviaccordion-preview-title-wrap{ position: relative; display: table; height:100%; width:100%; background:#000; background: rgba(0,0,0,0.5); padding:0; filter:alpha(opacity=60);}
+.aviaccordion-preview-title{display: table-cell; vertical-align: middle; color:#fff;  -webkit-font-smoothing: subpixel-antialiased;  padding:10%;}
+.aviaccordion-preview-title h3{color:#fff;}
+.aviaccordion-excerpt{line-height: 1.65em;}
+.aviaccordion .av-accordion-text-center{text-align: center;}
+
+.aviaccordion-title{text-transform: uppercase;  font-size: 14px;}
+
+.aviaccordion-title-on-hover .aviaccordion-preview{opacity: 0; filter:alpha(opacity=0); text-align: center;}
+.aviaccordion-title-on-hover .aviaccordion-active-slide .aviaccordion-preview{opacity: 1; filter:alpha(opacity=100);}
+
+.aviaccordion.av-animation-active .aviaccordion-slide, .aviaccordion-title-on-hover .aviaccordion-preview{
+-webkit-transition: all 0.7s cubic-bezier(0.230, 1.000, 0.320, 1.000);
+transition: 		all 0.7s cubic-bezier(0.230, 1.000, 0.320, 1.000);
+}
+
+@media only screen and (max-width: 767px)
+{
+	.responsive .aviaccordion-title-no-mobile .aviaccordion-preview-title-pos{
+		display:none;
+	}
+}

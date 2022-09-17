@@ -1,0 +1,46 @@
+/* ======================================================================================================================================================
+Partner/Logo Slider + Content Slider
+====================================================================================================================================================== */
+
+/*shared styles*/
+.avia-smallarrow-slider  {position: relative; overflow: visible;}
+.avia-smallarrow-slider  .avia-slideshow-arrows {position: relative; width:51px; top:-3px; left:0; height: 24px;}
+.avia-smallarrow-slider  .avia-slideshow-arrows a{opacity: 1; margin:0; width:24px; height:24px; line-height: 25px; font-size: 10px; top:0;}
+.avia-smallarrow-slider  .avia-slideshow-arrows a:hover{opacity: 0.5;}
+.avia-smallarrow-slider  .avia-slideshow-arrows a:before{line-height: 25px; border-radius: 1px;}
+.avia-smallarrow-slider  .slide-image, .avia-logo-element-container img{margin:0 auto; display: block; width:auto; width: 100%\9;}
+.avia-smallarrow-slider-heading{display: table; width:100%;}
+.avia-smallarrow-slider-heading> div{display: table-cell;}
+.avia-smallarrow-slider-heading h3{top:-3px; position: relative;}
+.avia-logo-grid .slide-entry-wrap{margin:0;}
+.avia-smallarrow-slider  .avia-slideshow-dots{position: relative; width:100%; left:0; bottom:0; margin-top: 10px;}
+.avia-smallarrow-slider  .avia-slideshow-dots a{border-style: solid; border-width: 1px; bottom: 0;}
+.avia-smallarrow-slider  .avia-slideshow-dots a.active, .avia-logo-element-container .avia-slideshow-dots a:hover{background: #aaa; }
+
+/*content only*/
+.avia-content-slider-element-container .avia-slideshow-dots{left:0; text-align: right; width: auto;}
+
+
+/*partner only*/
+.avia-logo-element-container .slide-entry { padding:1px; }
+.avia-logo-element-container img, .av-partner-fake-img{ box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3); }
+.av-border-deactivate.avia-logo-element-container img, .av-border-deactivate .av-partner-fake-img{ box-shadow: none; }
+.avia-logo-element-container .slide-image{overflow: visible;}
+.av-partner-fake-img{width:100%; display: block; position: relative; background-size: contain; background-repeat: no-repeat;}
+
+@media only screen and (max-width: 767px)
+{
+	.responsive .avia-smallarrow-slider  .flex_column{
+		margin: 0px;
+		width:50%;
+	}
+}
+
+@media only screen and (max-width: 479px)
+{
+	.responsive #wrap_all .avia-logo-element-container.avia-logo-grid .flex_column{margin:0;}
+}
+
+
+
+.avia-content-slider-element-container .avia-slideshow-dots a.active, .avia-content-slider-element-container .avia-slideshow-dots a:hover{background: #aaa;}
