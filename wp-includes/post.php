@@ -21,6 +21,30 @@ function create_initial_post_types() {
 	WP_Post_Type::reset_default_labels();
 
 	register_post_type(
+		'post',
+		array(
+			'labels'                => array(
+				'name_admin_bar' => _x( 'Post', 'add new from admin bar' ),
+			),
+			'public'                => true,
+			'_builtin'              => true, /* internal use only. don't use this when registering your own post type. */
+			'_edit_link'            => 'post.php?post=%d', /* internal use only. don't use this when registering your own post type. */
+			'capability_type'       => 'post',
+			'map_meta_cap'          => true,
+			'menu_position'         => 5,
+			'menu_icon'             => 'dashicons-admin-post',
+			'hierarchical'          => false,
+			'rewrite'               => false,
+			'query_var'             => false,
+			'delete_with_user'      => true,
+			'supports'              => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'trackbacks', 'custom-fields', 'comments', 'revisions', 'post-formats' ),
+			'show_in_rest'          => true,
+			'rest_base'             => 'posts',
+			'rest_controller_class' => 'WP_REST_Posts_Controller',
+		)
+	);
+
+	register_post_type(
 		'page',
 		array(
 			'labels'                => array(
