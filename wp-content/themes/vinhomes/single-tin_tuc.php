@@ -9,8 +9,7 @@
 
 get_header();
 ?>
-
-
+    <?php get_tenplate_part('templates-du_an-id/du_an', ) ?>
 
 <?php
 get_footer();
