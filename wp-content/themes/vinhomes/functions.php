@@ -61,29 +61,13 @@ function test_setup() {
 		'html5',
 		array(
 			'search-form',
-			'comment-form',
-			'comment-list',
 			'gallery',
-			'caption',
 			'style',
-			'script',
 		)
 	);
 
-	// Set up the WordPress core custom background feature.
-	add_theme_support(
-		'custom-background',
-		apply_filters(
-			'test_custom_background_args',
-			array(
-				'default-color' => 'ffffff',
-				'default-image' => '',
-			)
-		)
-	);
 
 	// Add theme support for selective refresh for widgets.
-	add_theme_support( 'customize-selective-refresh-widgets' );
 
 	/**
 	 * Add support for core custom logo.
@@ -193,7 +177,6 @@ function cw_post_type_du_an() {
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
-	'comments', // post comments
 	'revisions', // post revisions
 	'post-formats', // post formats
 	);
@@ -235,7 +218,6 @@ function cw_post_type_tin_tuc() {
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
-	'comments', // post comments
 	'revisions', // post revisions
 	'post-formats', // post formats
 	);
