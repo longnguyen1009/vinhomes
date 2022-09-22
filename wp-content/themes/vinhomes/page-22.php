@@ -30,11 +30,11 @@ get_header();
                     <div class="entry-content-wrapper clearfix">
                         <div class="flex_column av_one_half  flex_column_div av-zero-column-padding first  avia-builder-el-0  el_before_av_one_half  avia-builder-el-first  "
                             style="border-radius:0px; ">
-                            <?php get_template_part('template-parts/content', 'contact'); ?>
+                            <?php get_template_part('templates-part/content', 'contact'); ?>
                         </div>
                         <div class="flex_column av_one_half  flex_column_div av-zero-column-padding   avia-builder-el-2  el_after_av_one_half  avia-builder-el-last  "
                             style="border-radius:0px; ">
-                            <?php get_template_part('template-parts/content', 'account'); ?>
+                            <?php get_template_part('templates-part/content', 'account'); ?>
                         </div>
                         <p></p>
                     </div>
@@ -45,11 +45,12 @@ get_header();
         <!--end builder template-->
     </div>
 
+    <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
 
     <!-- end main -->
 </div>
 
-<?php get_template_part('template-parts/content', 'listProDuctByYear'); ?>
+<?php get_template_part('templates-part/content', 'fixed'); ?>
 
 <?php
 get_footer();

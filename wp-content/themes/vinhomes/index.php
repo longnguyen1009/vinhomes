@@ -15,12 +15,15 @@
 get_header();
 ?>
 <main id="primary" class="site-main">
-    <?php get_template_part('template-parts/content', 'mainSlider'); ?>
-    <?php get_template_part('template-parts/content', 'listProDuctByAddress'); ?>
-    <?php get_template_part('template-parts/content', 'listNews'); ?>
-    <?php get_template_part('template-parts/content', 'listProDuctByYear'); ?>
+    <?php get_template_part('templates-part/content', 'mainSlider'); ?>
+    <?php get_template_part('templates-part/content', 'listProDuctByAddress'); ?>
+    <?php get_template_part('templates-part/content', 'listNews'); ?>
+    <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
     
 </main><!-- #main -->
+
+<?php get_template_part('templates-part/content', 'fixed'); ?>
+
 
 <?php
 

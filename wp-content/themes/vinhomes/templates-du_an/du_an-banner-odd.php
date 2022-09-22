@@ -1,11 +1,6 @@
 <?php
-/**
- * Template part for displaying a image du an banner
- *
- * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
- *
- * @package VinHomes
- */
+$id = get_the_ID();
+$du_an_banner = get_field('du_an_banner', $id);
 
 ?>
 
@@ -19,10 +14,10 @@
                 itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                 <div class="avia-image-container-inner">
                     <div class="avia-image-overlay-wrap"><img loading="lazy" class="wp-image-29323 avia_image"
-                            src="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background.jpg"
+                            src="<?php echo $du_an_banner['url']; ?>"
                             alt="vinhomes-symphony-background" title="Vinhomes Symphony Background" height="600"
                             width="1500" itemprop="thumbnailUrl"
-                            srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-768x307.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-1030x412.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-705x282.jpg 705w"
+                            srcset="<?php echo $du_an_banner['url']; ?> 1500w, <?php echo $du_an_banner['url']; ?> 768w, <?php echo $du_an_banner['url']; ?> 1030w, <?php echo $du_an_banner['url']; ?> 705w"
                             sizes="(max-width: 1500px) 100vw, 1500px"></div>
                 </div>
             </div>

@@ -38,7 +38,7 @@
 	</footer><!-- .entry-footer -->
 
 	<?php if ( ! is_singular( 'attachment' ) ) : ?>
-		<?php get_template_part( 'template-parts/post/author-bio' ); ?>
+		<?php get_template_part( 'templates-part/post/author-bio' ); ?>
 	<?php endif; ?>
 
 </article><!-- #post-<?php the_ID(); ?> -->

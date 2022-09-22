@@ -11,28 +11,10 @@
 
 <div id="main" class="all_colors" data-scroll-offset="88">
 
-    <?php get_tenplate_part('templates-du_an/du_an', 'breadcrumb') ?>
+    <?php get_template_part('templates-du_an/du_an', 'breadcrumb'); ?>
 
-    <div id="av-layout-grid-1"
-        class="av-layout-grid-container entry-content-wrapper main_color av-flex-cells     avia-builder-el-0  el_before_av_textblock  avia-builder-el-first  container_wrap sidebar_right"
-        style=" ">
-        <div class="flex_cell no_margin av_one_full  avia-builder-el-1  avia-builder-el-no-sibling   av-zero-padding "
-            style="vertical-align:top; padding:0px; ">
-            <div class="flex_cell_inner">
-                <div class="avia-image-container  av-styling-    avia-builder-el-2  avia-builder-el-no-sibling  avia-align-center "
-                    itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
-                    <div class="avia-image-container-inner">
-                        <div class="avia-image-overlay-wrap"><img loading="lazy" class="wp-image-29323 avia_image"
-                                src="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background.jpg"
-                                alt="vinhomes-symphony-background" title="Vinhomes Symphony Background" height="600"
-                                width="1500" itemprop="thumbnailUrl"
-                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-768x307.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-1030x412.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-background-705x282.jpg 705w"
-                                sizes="(max-width: 1500px) 100vw, 1500px"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php get_template_part('templates-du_an/du_an', 'banner-odd'); ?>
+    
     <div id="after_submenu_1" class="main_color av_default_container_wrap container_wrap sidebar_right" style=" ">
         <div class="container">
             <div class="template-page content  av-content-small alpha units">
@@ -41,13 +23,10 @@
                         <section class="av_textblock_section " itemscope="itemscope"
                             itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
                             <div class="avia_textblock  " itemprop="text">
-                                <p><strong>Vinhomes Symphony là tổ hợp căn hộ cao cấp, văn phòng nằm trên đường Chu Huy
-                                        Mân, đối diện với trung tâm thương mại Vincom Plaza, thuộc khu đô thị Vinhomes
-                                        Riverside Long Biên. Hòa mình giữa miền thiên nhiên thuần khiết của “xứ sở thanh
-                                        bình” Vinhomes Riverside, nơi được mệnh danh là “Venice thu nhỏ giữa lòng Hà
-                                        Nội”, chung cư Vinhomes Symphony Riverside tựa như một bản giao hưởng ngọt ngào,
-                                        mang đến cho những chủ nhân nơi đây một cuộc sống yên bình, trọn vẹn.</strong>
-                                </p>
+
+                                <?php get_template_part('templates-du_an/du_an', 'intro'); ?>
+
+
                                 <div id="toc_container" class="no_bullets">
                                     <p class="toc_title">Mục lục <span class="toc_toggle">[<a href="#">Ẩn</a>]</span>
                                     </p>
@@ -102,51 +81,9 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <h2><span id="Tong_quan_Vinhomes_Symphony_Riverside">Tổng quan Vinhomes Symphony
-                                        Riverside</span></h2>
-                                <p><strong>Chủ đầu tư:</strong>&nbsp;Vingroup</p>
-                                <p><strong>Tổng diện tích đất dự án:</strong>&nbsp;4.3 ha</p>
-                                <p><strong>Mật độ xây dựng:</strong>&nbsp;28.5%</p>
-                                <p><strong>Quy mô phát triển:</strong>&nbsp;6 tòa căn hộ, 1 tòa văn phòng</p>
-                                <p><strong>Loại hình phát triển:</strong>&nbsp;Chung cư</p>
-                                <p><strong>Thời điểm khởi công:&nbsp;</strong>Năm 2019</p>
-                                <p><strong>Thời điểm bàn giao:</strong>&nbsp;Năm 2020</p>
-                                <div id="attachment_29161" style="width: 810px" class="wp-caption alignnone"><img
-                                        aria-describedby="caption-attachment-29161" class="wp-image-29161 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony.jpg"
-                                        alt="vinhomes-symphony" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-705x397.jpg 705w"
-                                        sizes="(max-width: 800px) 100vw, 800px">
-                                    <p id="caption-attachment-29161" class="wp-caption-text">Phối cảnh dự án Vinhomes
-                                        Symphony</p>
-                                </div>
-                                <h2><span id="Vi_tri_du_an_Vinhomes_Symphony">Vị trí dự án Vinhomes Symphony</span></h2>
-                                <p>Vinhomes Symphony tọa lạc tại điểm giao giữa 2 tuyến đường Chu Huy Mân và Hội Xá,
-                                    thuộc phường Phúc Lợi, quận Long Biên, Hà Nội. Sở hữu hạ tầng giao thông phát triển,
-                                    với nhiều tuyến đường rộng lớn với 6 – 8 làn xe như Chu Huy Mân, Đoàn Khuê, Nguyễn
-                                    Văn Linh, Ngô Gia Tự… chung cư Vinhomes Riverside dễ dàng kết nối tới cả trung tâm
-                                    thành phố cũng như các tỉnh thành lân cận như Bắc Ninh, Bắc Giang, Hưng Yên, Hải
-                                    Dương, Hải Phòng…</p>
-                                <p>Bên cạnh đó, đây còn là một trong những vị trí rất đẹp trong <a
-                                        href="https://vinhomesland.vn/vinhomes-riverside/">khu đô thị Vinhomes
-                                        Riverside</a>, bởi ngay đối diện là khu trung tâm thương mại Vincom Plaza sầm
-                                    uất, với vô số các cửa hàng mua sắm, nhà hàng ẩm thực, siêu thị, rạp chiếu phim và
-                                    đặc biệt là&nbsp;<strong>bể bơi vô cực rộng 2.580 m2</strong>&nbsp;nằm trên tầng
-                                    mái.</p>
-                                <div id="attachment_30120" style="width: 1510px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony.jpg"
-                                        style="position: relative; overflow: hidden;"><img
-                                            aria-describedby="caption-attachment-30120" loading="lazy"
-                                            class="wp-image-30120 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony.jpg"
-                                            alt="vi-tri-vinhomes-symphony" width="1500" height="1250"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony-768x640.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony-1030x858.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/vi-tri-vinhomes-symphony-705x588.jpg 705w"
-                                            sizes="(max-width: 1500px) 100vw, 1500px"><span
-                                            class="image-overlay overlay-type-image"><span
-                                                class="image-overlay-inside"></span></span></a>
-                                    <p id="caption-attachment-30120" class="wp-caption-text">Vị trí dự án Vinhomes
-                                        Symphony</p>
-                                </div>
+
+                                <?php get_template_part('templates-du_an/du_an', 'des-odd'); ?>
+
                                 <h2><span id="Quy_mo_chung_cu_Vinhomes_Symphony">Quy mô chung cư Vinhomes
                                         Symphony</span></h2>
                                 <p>Vinhomes Symphony Riverside được phát triển với 7 tòa tháp cao từ 10 – 15 tầng: S1,
@@ -157,7 +94,8 @@
                                         trung tâm thương mại Vincom Plaza Long Biên.</li>
                                     <li>Tòa <a href="https://vinhomesland.vn/toa-s6-vinhomes-symphony/">S6.A</a> và tòa
                                         <a href="https://vinhomesland.vn/toa-s6-vinhomes-symphony/">S6.B</a> cùng chung
-                                        khối đế, nằm trên đường Hội Xá.</li>
+                                        khối đế, nằm trên đường Hội Xá.
+                                    </li>
                                     <li>Tòa <a href="https://vinhomesland.vn/toa-s1-vinhomes-symphony/">S1</a>, <a
                                             href="https://vinhomesland.vn/toa-s2-vinhomes-symphony/">S2</a>, <a
                                             href="https://vinhomesland.vn/toa-s3-vinhomes-symphony/">S3</a> nằm bên
@@ -554,7 +492,8 @@
                                     <strong>hệ thống shophouse sầm uất tại tầng 1 mỗi tòa căn hộ</strong>…. Nếu bạn đang
                                     tìm kiếm một khu căn hộ cao cấp, vừa sở hữu quần thể xanh rộng lớn, tiện ích dịch vụ
                                     đẳng cấp, vừa đủ gần để dễ dàng kết nối tới trung tâm Hà Nội, chung cư Vinhomes
-                                    Riverside Long Biên chính là sự lựa chọn hoàn hảo, không thể bỏ lỡ.</p>
+                                    Riverside Long Biên chính là sự lựa chọn hoàn hảo, không thể bỏ lỡ.
+                                </p>
                                 <div id="attachment_29324" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-29324" loading="lazy"
                                         class="wp-image-29324 size-full"
@@ -666,6 +605,7 @@
             <aside class="sidebar sidebar_right  smartphones_sidebar_active alpha units" role="complementary"
                 itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
                 <div class="inner_sidebar extralight-border">
+
                     <div id="nav_menu-94" class="widget clearfix widget_nav_menu">
                         <h3 class="widgettitle">Vinhomes Symphony</h3>
                         <div class="menu-vinhomes-symphony-container">
@@ -673,7 +613,8 @@
                                 <li id="menu-item-31285"
                                     class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-31285">
                                     <a href="https://vinhomesland.vn/vinhomes-symphony/" aria-current="page">Tổng quan
-                                        dự án</a></li>
+                                        dự án</a>
+                                </li>
                                 <li id="menu-item-31394"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31394"><a
                                         href="https://vinhomesland.vn/toa-s1-vinhomes-symphony/">Tòa S1</a></li>
@@ -692,360 +633,16 @@
                             </ul>
                         </div>
                     </div>
-                    <section id="media_image-3" class="widget clearfix widget_media_image"><a
-                            href="https://vinhomesland.vn/vinhomes-smart-city/"
-                            style="position: relative; overflow: hidden;"><img width="300" height="600"
-                                src="https://vinhomesland.vn/wp-content/uploads/2021/03/vinhomes-smart-city-banner.jpg"
-                                class="image wp-image-35842  attachment-full size-full" alt="vinhomes-smart-city-banner"
-                                loading="lazy" style="max-width: 100%; height: auto;"><span
-                                class="image-overlay overlay-type-extern"><span
-                                    class="image-overlay-inside"></span></span></a><span
-                            class="seperator extralight-border"></span></section>
-                    <section id="newsbox-2" class="widget clearfix newsbox">
-                        <h3 class="widgettitle">Tin tức mới nhất</h3>
-                        <ul class="news-wrap image_size_widget">
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Vinhomes Ocean Park mở rộng quy mô lên tới hơn 1000 ha"
-                                    href="https://vinhomesland.vn/vinhomes-ocean-park-mo-rong-quy-mo-len-toi-hon-1000-ha/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-37749 attachment-widget size-widget wp-post-image"
-                                            alt="thanh-pho-bien-ho-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Vinhomes Ocean Park mở rộng quy mô lên tới hơn 1000
-                                        ha<span class="news-time">12/08/2022 - 17:05</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Biệt thự nhà phố The Empire &amp; Những lý do không thể bỏ lỡ"
-                                    href="https://vinhomesland.vn/biet-thu-nha-pho-the-empire-nhung-ly-do-khong-the-bo-lo/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire-80x80.jpg"
-                                            class="wp-image-36841 attachment-widget size-widget wp-post-image"
-                                            alt="phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire"
-                                            loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Biệt thự nhà phố The Empire &amp; Những lý do không thể bỏ
-                                        lỡ<span class="news-time">26/05/2022 - 14:41</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Khám phá 6 kiến trúc Tây Âu độc đáo tại Vinhomes The Empire"
-                                    href="https://vinhomesland.vn/kham-pha-6-kien-truc-tay-au-doc-dao-tai-vinhomes-the-empire/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire-80x80.jpg"
-                                            class="wp-image-36837 attachment-widget size-widget wp-post-image"
-                                            alt="phan-khu-cha-la-vinhomes-ocean-park-2-the-empire" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Khám phá 6 kiến trúc Tây Âu độc đáo tại Vinhomes The
-                                        Empire<span class="news-time">25/05/2022 - 15:36</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Vinhomes Ocean Park ra mắt tòa cuối cùng R1.01 The Zenpark"
-                                    href="https://vinhomesland.vn/vinhomes-ocean-park-ra-mat-toa-cuoi-cung-r101-the-zenpark/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-36670 attachment-widget size-widget wp-post-image"
-                                            alt="toa-r101-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Vinhomes Ocean Park ra mắt tòa cuối cùng R1.01 The
-                                        Zenpark<span class="news-time">25/05/2022 - 12:53</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Tại sao người giàu luôn chọn biệt thự Vinhomes làm nơi an cư?"
-                                    href="https://vinhomesland.vn/tai-sao-nguoi-giau-luon-chon-biet-thu-vinhomes-lam-noi-an-cu/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park-80x80.jpg"
-                                            class="wp-image-35991 attachment-widget size-widget wp-post-image"
-                                            alt="biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park"
-                                            loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Tại sao người giàu luôn chọn biệt thự Vinhomes làm nơi an
-                                        cư?<span class="news-time">18/04/2022 - 16:45</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Biệt thự liền kề phía Đông Hà Nội tăng giá mạnh bất kể covid 19"
-                                    href="https://vinhomesland.vn/biet-thu-lien-ke-phia-dong-ha-noi-tang-gia-manh-bat-ke-covid-19/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-36521 attachment-widget size-widget wp-post-image"
-                                            alt="bien-xanh-cat-trang-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Biệt thự liền kề phía Đông Hà Nội tăng giá mạnh bất kể
-                                        covid 19<span class="news-time">26/11/2021 - 15:43</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Biệt thự Vinhomes: Cơ hội thu lời “khủng” cho nhà đầu tư vốn dày"
-                                    href="https://vinhomesland.vn/biet-thu-vinhomes-co-hoi-thu-loi-khung-cho-nha-dau-tu-von-day/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2021/10/biet-thu-ven-bien-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-36515 attachment-widget size-widget wp-post-image"
-                                            alt="biet-thu-ven-bien-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2021/10/biet-thu-ven-bien-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2021/10/biet-thu-ven-bien-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Biệt thự Vinhomes: Cơ hội thu lời “khủng” cho nhà đầu tư
-                                        vốn dày<span class="news-time">27/10/2021 - 15:32</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Căn hộ “xanh” ven đô – Xu hướng sống mới hậu covid 19"
-                                    href="https://vinhomesland.vn/can-ho-xanh-ven-do-xu-huong-song-moi-hau-covid-19/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/07/noi-khu-the-pavilion-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-38092 attachment-widget size-widget wp-post-image"
-                                            alt="noi-khu-the-pavilion-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2022/07/noi-khu-the-pavilion-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2022/07/noi-khu-the-pavilion-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Căn hộ “xanh” ven đô – Xu hướng sống mới hậu covid 19<span
-                                            class="news-time">23/09/2021 - 11:29</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Vinhomes Ocean Park: Ưu đãi “siêu khủng” tháng Ngâu 2021"
-                                    href="https://vinhomesland.vn/vinhomes-ocean-park-uu-dai-sieu-khung-thang-ngau-2021/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2021/08/ho-ngoc-trai-vinhomes-ocean-park-ban-dem-80x80.jpg"
-                                            class="wp-image-36473 attachment-widget size-widget wp-post-image"
-                                            alt="ho-ngoc-trai-vinhomes-ocean-park-ban-dem" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2021/08/ho-ngoc-trai-vinhomes-ocean-park-ban-dem-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2021/08/ho-ngoc-trai-vinhomes-ocean-park-ban-dem-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Vinhomes Ocean Park: Ưu đãi “siêu khủng” tháng Ngâu
-                                        2021<span class="news-time">06/08/2021 - 17:45</span></strong><span
-                                        class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                            <li class="news-content post-format-standard"><a class="news-link"
-                                    title="Vinhomes khởi động chương trình “Tổ ấm an vui 2” tại Vinhomes Ocean Park"
-                                    href="https://vinhomesland.vn/vinhomes-khoi-dong-to-am-an-vui-2-tai-vinhomes-ocean-park/"><span
-                                        class="news-thumb "><img width="80" height="80"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2021/07/vuon-nhat-the-zenpark-vinhomes-ocean-park-80x80.jpg"
-                                            class="wp-image-36455 attachment-widget size-widget wp-post-image"
-                                            alt="vuon-nhat-the-zenpark-vinhomes-ocean-park" loading="lazy"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2021/07/vuon-nhat-the-zenpark-vinhomes-ocean-park-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2021/07/vuon-nhat-the-zenpark-vinhomes-ocean-park-180x180.jpg 180w"
-                                            sizes="(max-width: 80px) 100vw, 80px"></span><strong
-                                        class="news-headline">Vinhomes khởi động chương trình “Tổ ấm an vui 2” tại
-                                        Vinhomes Ocean Park<span class="news-time">28/07/2021 -
-                                            18:59</span></strong><span class="image-overlay overlay-type-extern"><span
-                                            class="image-overlay-inside"></span></span></a></li>
-                        </ul><span class="seperator extralight-border"></span>
-                    </section>
-                    <section id="text-4" class="widget clearfix widget_text FixedWidget__fixed_widget">
-                        <div class="textwidget">
-                            <div style="padding: 20px; margin-bottom: 20px; background-color: #345574;">
-                                <p style="text-align: center;"><span
-                                        style="font-size: 20px; text-transform: uppercase; color: #fff;">Đăng ký tư
-                                        vấn</span></p>
-                                <form action="https://vinhomesland.vn/vinhomes-symphony/" method="post"
-                                    class="avia_ajax_form av-form-labels-hidden    " data-avia-form-id="2"
-                                    data-avia-redirect="">
-                                    <fieldset>
-                                        <p class="  first_form  form_element form_fullwidth" id="element_avia_1_2">
-                                            <label for="avia_1_2">Họ và tên</label> <input name="avia_1_2"
-                                                class="text_input " type="text" id="avia_1_2" value=""
-                                                placeholder="Họ và tên"></p>
-                                        <p class="  first_form  form_element form_fullwidth" id="element_avia_2_2">
-                                            <label for="avia_2_2">Số điện thoại</label> <input name="avia_2_2"
-                                                class="text_input " type="text" id="avia_2_2" value=""
-                                                placeholder="Số điện thoại"></p>
-                                        <p class="  first_form  form_element form_fullwidth" id="element_avia_3_2">
-                                            <label for="avia_3_2">Email</label> <input name="avia_3_2"
-                                                class="text_input " type="text" id="avia_3_2" value=""
-                                                placeholder="Email"></p>
-                                        <p class="  first_form  form_element form_fullwidth" id="element_avia_4_2">
-                                            <label for="avia_4_2">Dự án quan tâm</label> <input name="avia_4_2"
-                                                class="text_input " type="text" id="avia_4_2" value=""
-                                                placeholder="Dự án quan tâm"></p>
-                                        <p class="  first_form  form_element form_fullwidth av-last-visible-form-element"
-                                            id="element_avia_5_2"><label for="avia_5_2"
-                                                class="textare_label hidden textare_label_avia_5_2">Nhu cầu quan
-                                                tâm</label><textarea placeholder="Nhu cầu quan tâm" name="avia_5_2"
-                                                class="text_area " cols="40" rows="7" id="avia_5_2"></textarea></p>
-                                        <p class="hidden"><input type="text" name="avia_6_2" class="hidden "
-                                                id="avia_6_2" value=""></p>
-                                        <p class="form_element "><input type="hidden" value="1"
-                                                name="avia_generated_form2"><input type="submit" value="ĐĂNG KÝ"
-                                                class="button" data-sending-label="Sending"></p>
-                                    </fieldset>
-                                </form>
-                                <div id="ajaxresponse_2" class="ajaxresponse ajaxresponse_2 hidden"></div>
-                            </div>
-                        </div>
-                        <span class="seperator extralight-border"></span>
-                    </section>
+
+                    <?php get_template_part('templates-part/sidebar', 'media') ?>
+
+                    <?php get_template_part('templates-part/sidebar', 'laterNews') ?>
+
+                    <?php get_template_part('templates-part/sidebar', 'account') ?>
+
                 </div>
             </aside>
         </div>
         <!--end builder template-->
     </div><!-- close default .container_wrap element -->
-    <div class="container_wrap footer_color" id="footer">
-
-        <div class="container">
-
-            <div class="flex_column av_one_fourth  first el_before_av_one_fourth">
-                <section id="nav_menu-105" class="widget clearfix widget_nav_menu">
-                    <h3 class="widgettitle">Dự án năm 2019 – 2022</h3>
-                    <div class="menu-du-an-nam-2019-2022-container">
-                        <ul id="menu-du-an-nam-2019-2022" class="menu">
-                            <li id="menu-item-36951"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36951"><a
-                                    href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/">Vinhomes Ocean Park
-                                    2 The Empire</a></li>
-                            <li id="menu-item-32264"
-                                class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-32264">
-                                <a href="https://vinhomesland.vn/vinhomes-symphony/" aria-current="page">Vinhomes
-                                    Symphony</a></li>
-                            <li id="menu-item-32261"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32261"><a
-                                    href="https://vinhomesland.vn/vinhomes-grand-park/">Vinhomes Grand Park</a></li>
-                            <li id="menu-item-38292"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38292"><a
-                                    href="https://vinhomesland.vn/vinhomes-green-villas/">Vinhomes Green Villas</a></li>
-                            <li id="menu-item-32263"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32263"><a
-                                    href="https://vinhomesland.vn/vinhomes-smart-city/">Vinhomes Smart City</a></li>
-                            <li id="menu-item-37847"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37847"><a
-                                    href="https://vinhomesland.vn/vinhomes-ocean-park/">Vinhomes Ocean Park</a></li>
-                        </ul>
-                    </div><span class="seperator extralight-border"></span>
-                </section>
-            </div>
-            <div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth ">
-                <section id="nav_menu-103" class="widget clearfix widget_nav_menu">
-                    <h3 class="widgettitle">Dự án năm 2016 – 2018</h3>
-                    <div class="menu-du-an-nam-2016-2018-container">
-                        <ul id="menu-du-an-nam-2016-2018" class="menu">
-                            <li id="menu-item-32258"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32258"><a
-                                    href="https://vinhomesland.vn/vinhomes-west-point/">Vinhomes West Point</a></li>
-                            <li id="menu-item-32252"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32252"><a
-                                    href="https://vinhomesland.vn/vinhomes-green-bay/">Vinhomes Green Bay</a></li>
-                            <li id="menu-item-32255"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32255"><a
-                                    href="https://vinhomesland.vn/vinhomes-skylake/">Vinhomes Skylake</a></li>
-                            <li id="menu-item-32253"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32253"><a
-                                    href="https://vinhomesland.vn/vinhomes-metropolis/">Vinhomes Metropolis</a></li>
-                            <li id="menu-item-32257"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32257"><a
-                                    href="https://vinhomesland.vn/vinhomes-thang-long/">Vinhomes Thăng Long</a></li>
-                            <li id="menu-item-32251"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32251"><a
-                                    href="https://vinhomesland.vn/vinhomes-gardenia/">Vinhomes Gardenia</a></li>
-                            <li id="menu-item-35545"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35545"><a
-                                    href="https://vinhomesland.vn/vinhomes-golden-river/">Vinhomes Golden River</a></li>
-                            <li id="menu-item-35686"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35686"><a
-                                    href="https://vinhomesland.vn/vinhomes-marina/">Vinhomes Marina</a></li>
-                            <li id="menu-item-32256"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32256"><a
-                                    href="https://vinhomesland.vn/vinhomes-star-city/">Vinhomes Star City</a></li>
-                            <li id="menu-item-35619"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35619"><a
-                                    href="https://vinhomesland.vn/vinhomes-imperia/">Vinhomes Imperia</a></li>
-                        </ul>
-                    </div><span class="seperator extralight-border"></span>
-                </section>
-            </div>
-            <div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth ">
-                <section id="nav_menu-104" class="widget clearfix widget_nav_menu">
-                    <h3 class="widgettitle">Dự án năm 2010 – 2015</h3>
-                    <div class="menu-du-an-nam-2010-2015-container">
-                        <ul id="menu-du-an-nam-2010-2015" class="menu">
-                            <li id="menu-item-32488"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32488"><a
-                                    href="https://vinhomesland.vn/vinhomes-central-park/">Vinhomes Central Park</a></li>
-                            <li id="menu-item-32246"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32246"><a
-                                    href="https://vinhomesland.vn/vinhomes-nguyen-chi-thanh/">Vinhomes Nguyễn Chí
-                                    Thanh</a></li>
-                            <li id="menu-item-32249"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32249"><a
-                                    href="https://vinhomesland.vn/vinhomes-times-city/">Vinhomes Times City</a></li>
-                            <li id="menu-item-32248"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32248"><a
-                                    href="https://vinhomesland.vn/vinhomes-royal-city/">Vinhomes Royal City</a></li>
-                            <li id="menu-item-32247"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32247"><a
-                                    href="https://vinhomesland.vn/vinhomes-riverside/">Vinhomes Riverside</a></li>
-                            <li id="menu-item-32245"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-32245"><a
-                                    href="https://vinhomesland.vn/vinhomes-dragon-bay/">Vinhomes Dragon Bay</a></li>
-                        </ul>
-                    </div><span class="seperator extralight-border"></span>
-                </section>
-            </div>
-            <div class="flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth ">
-                <section id="text-3" class="widget clearfix widget_text">
-                    <h3 class="widgettitle">Thông tin liên hệ</h3>
-                    <div class="textwidget">
-                        <p>Địa chỉ: R3 Royal City, số 72 Nguyễn Trãi, phường Thượng Đình, quận Thanh Xuân, Hà Nội</p>
-                        <p>Hotline: <a class="text-is-phone-number">0986 315 597</a></p>
-                        <p>Email: info@vinhomesland.vn</p>
-                        <p>Website: https://vinhomesland.vn</p>
-                    </div>
-                    <span class="seperator extralight-border"></span>
-                </section>
-            </div>
-        </div>
-
-        <!-- ####### END FOOTER CONTAINER ####### -->
-    </div>
-
-
-
-
-    <footer class="container_wrap socket_color" id="socket" role="contentinfo" itemscope="itemscope"
-        itemtype="https://schema.org/WPFooter">
-        <div class="container">
-
-            <span class="copyright"><a
-                    href="https://www.dmca.com/Protection/Status.aspx?ID=5f8b3b2f-aae6-4610-817a-977a922fb1ce&amp;refurl=https://vinhomesland.vn/vinhomes-symphony/"
-                    title="DMCA.com Protection Status" class="dmca-badge" style="position: relative; overflow: hidden;">
-                    <img src="https://images.dmca.com/Badges/dmca_protected_sml_120al.png?ID=5f8b3b2f-aae6-4610-817a-977a922fb1ce"
-                        alt="DMCA.com Protection Status"><span class="image-overlay overlay-type-extern"><span
-                            class="image-overlay-inside"></span></span></a>
-                <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-            </span>
-
-            <ul class="noLightbox social_bookmarks icon_count_5">
-                <li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a target="_blank"
-                        aria-label="Link to Facebook" href="https://www.facebook.com/vinhomesland.official/"
-                        aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Facebook"
-                        rel="noopener"><span class="avia_hidden_link_text">Facebook</span></a></li>
-                <li class="social_bookmarks_twitter av-social-link-twitter social_icon_2"><a target="_blank"
-                        aria-label="Link to Twitter" href="https://twitter.com/vinhomeslandbds" aria-hidden="false"
-                        data-av_icon="" data-av_iconfont="entypo-fontello" title="Twitter" rel="noopener"><span
-                            class="avia_hidden_link_text">Twitter</span></a></li>
-                <li class="social_bookmarks_instagram av-social-link-instagram social_icon_3"><a target="_blank"
-                        aria-label="Link to Instagram" href="https://www.instagram.com/vinhomesland.official/"
-                        aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="Instagram"
-                        rel="noopener"><span class="avia_hidden_link_text">Instagram</span></a></li>
-                <li class="social_bookmarks_pinterest av-social-link-pinterest social_icon_4"><a target="_blank"
-                        aria-label="Link to Pinterest" href="https://pinterest.com/vinhomesland" aria-hidden="false"
-                        data-av_icon="" data-av_iconfont="entypo-fontello" title="Pinterest" rel="noopener"><span
-                            class="avia_hidden_link_text">Pinterest</span></a></li>
-                <li class="social_bookmarks_linkedin av-social-link-linkedin social_icon_5"><a target="_blank"
-                        aria-label="Link to LinkedIn" href="https://www.linkedin.com/company/vinhomesland/"
-                        aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello" title="LinkedIn"
-                        rel="noopener"><span class="avia_hidden_link_text">LinkedIn</span></a></li>
-            </ul>
-        </div>
-
-        <!-- ####### END SOCKET CONTAINER ####### -->
-    </footer>
-
-
-    <!-- end main -->
 </div>

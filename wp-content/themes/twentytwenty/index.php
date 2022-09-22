@@ -87,7 +87,7 @@ get_header();
 			}
 			the_post();
 
-			get_template_part( 'template-parts/content', get_post_type() );
+			get_template_part( 'templates-part/content', get_post_type() );
 
 		}
 	} elseif ( is_search() ) {
@@ -109,11 +109,11 @@ get_header();
 	}
 	?>
 
-	<?php get_template_part( 'template-parts/pagination' ); ?>
+	<?php get_template_part( 'templates-part/pagination' ); ?>
 
 </main><!-- #site-content -->
 
-<?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
+<?php get_template_part( 'templates-part/footer-menus-widgets' ); ?>
 
 <?php
 get_footer();

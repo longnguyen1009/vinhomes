@@ -49,14 +49,14 @@ html.responsive { min-width: 0px; }
 
 
 
-#wrap_all {
+ {
   width: 100%;
   position: static; /*fixes chrome 40 issue with fixed section bgs*/
   z-index: 2;
   overflow: hidden;
 }
 
-.boxed #wrap_all {
+.boxed  {
   overflow: visible; /*needed for cart icon */
 }
 
@@ -87,7 +87,7 @@ body .unit.alpha, body .units.alpha {
   .responsive .boxed, 
   .responsive.html_boxed.html_header_sticky #header{ width: 782px;}
   .responsive .container{ max-width: 782px; }
-  .responsive.html_mobile_menu_tablet .boxed #wrap_all { overflow: hidden; /*needed for mobile menu scrolling */ }
+  .responsive.html_mobile_menu_tablet .boxed  { overflow: hidden; /*needed for mobile menu scrolling */ }
 }
 
 
@@ -95,18 +95,18 @@ body .unit.alpha, body .units.alpha {
 /* All Tablets and smaller */
 @media only screen and (max-width: 989px) {
 
-.responsive #wrap_all .flex_column.av-break-at-tablet, .responsive #wrap_all .av-break-at-tablet .flex_cell {
+.responsive  .flex_column.av-break-at-tablet, .responsive  .av-break-at-tablet .flex_cell {
     margin: 0;
     margin-bottom: 20px;
     width: 100%;
     display: block;
   }
   
-.responsive #wrap_all .av-break-at-tablet-flextable, .responsive .av-layout-grid-container.av-break-at-tablet {
+.responsive  .av-break-at-tablet-flextable, .responsive .av-layout-grid-container.av-break-at-tablet {
 	display: block;	
   }
 	
-.responsive #wrap_all .av-flex-cells .no_margin{
+.responsive  .av-flex-cells .no_margin{
     height:auto !important;
     overflow: hidden;
   }
@@ -119,7 +119,7 @@ body .unit.alpha, body .units.alpha {
 
 @media only screen and (max-width: 767px) {
 	
-  .responsive .boxed #wrap_all { overflow: hidden; /*needed for mobile menu scrolling */ }
+  .responsive .boxed  { overflow: hidden; /*needed for mobile menu scrolling */ }
   .responsive { overflow-x: hidden; }
   .responsive .boxed#top, .responsive #top.boxed .stretch_full , 
   .responsive.html_boxed.html_header_sticky #header,
@@ -127,7 +127,7 @@ body .unit.alpha, body .units.alpha {
   .responsive .flex_column_table_cell{display: block;}
   .responsive .flex_column_table{display:block;}
   
-  .responsive #wrap_all .container {
+  .responsive  .container {
     width: 85%;
     max-width: 85%;
     margin: 0 auto;
@@ -139,13 +139,13 @@ body .unit.alpha, body .units.alpha {
     margin: 0;
   }
   
-  .responsive .container .av-content-small, .responsive #wrap_all .flex_column, .responsive #wrap_all .av-flex-cells .no_margin {
+  .responsive .container .av-content-small, .responsive  .flex_column, .responsive  .av-flex-cells .no_margin {
     margin: 0;
     margin-bottom: 20px;
     width: 100%;
   }
   
-  .responsive #wrap_all .av-flex-cells .no_margin{
+  .responsive  .av-flex-cells .no_margin{
 	  display: block;
 	  margin: 0;
 	  height:auto !important;
@@ -154,18 +154,18 @@ body .unit.alpha, body .units.alpha {
 	  padding-right:8% !important;
   }
   
-  .responsive #wrap_all .av-flex-cells .no_margin .flex_cell_inner{
+  .responsive  .av-flex-cells .no_margin .flex_cell_inner{
 	    width: 100%;
 		max-width: 100%;
 		margin: 0 auto;  
   }
   
-  .responsive #wrap_all .av-flex-cells .no_margin.av-zero-padding{
+  .responsive  .av-flex-cells .no_margin.av-zero-padding{
 	  padding-left:0% !important;
 	  padding-right:0% !important;
   }
   
-  .responsive #wrap_all .flex_column:empty{margin:0;}
+  .responsive  .flex_column:empty{margin:0;}
 }
 /* #Mobile (Landscape)
 ================================================== */

@@ -148,7 +148,7 @@ padding-right:0;
 .avia-section-custom .content, .avia-section-custom .sidebar{padding-top:0; padding-bottom:0;}
 
 .html_header_sticky_disabled .container_wrap:first-child, .avia-section.avia-full-stretch, .html_header_transparency .avia-section.avia-builder-el-0{border-top:none;}
-#wrap_all #main .avia-no-border-styling{border:none;}
+ #main .avia-no-border-styling{border:none;}
 
 .scroll-down-link {
 height: 60px;

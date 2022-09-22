@@ -332,9 +332,11 @@ get_header();
         <!--end builder template-->
     </div><!-- close default .container_wrap element -->
 
-    <?php get_template_part('template-parts/content', 'listProDuctByYear'); ?>
+    <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
 
 </div>
+    
+<?php get_template_part('templates-part/content', 'fixed'); ?>
 
 
 <?php

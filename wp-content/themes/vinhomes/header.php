@@ -11,7 +11,7 @@
 
 ?>
 <!doctype html>
-<html <?php language_attributes(); ?>>
+<html <?php language_attributes(); ?> class = "responsive">
 
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
@@ -21,7 +21,7 @@
     <?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body id = "top" <?php body_class(); ?>>
     <?php wp_body_open(); ?>
     <div id="page" class="site">
         <header id="header"
