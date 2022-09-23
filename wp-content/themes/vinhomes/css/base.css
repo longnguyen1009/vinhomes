@@ -142,7 +142,6 @@
 	ul, ol { margin-bottom: 20px;  }
 	ul { list-style: none outside; margin-left: 7px;}
 	ol { list-style: decimal; margin-left: 15px; }
-	ol, ul.square, ul.circle, ul.disc { }
 	ul.square { list-style: square outside; }
 	ul.circle { list-style: circle outside; }
 	ul.disc, .entry-content-wrapper ul { list-style: disc outside; }
@@ -423,9 +422,6 @@ padding:0;
 display: none;
 }
 
-.bypostauthor{
-
-}
 
 .gallery-icon{
 margin:0;

@@ -54,15 +54,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-1 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-symphony/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-symphony/"><img
                                                         class="wp-image-29161 size-full alignnone"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/11/vinhomes-symphony.jpg"
                                                         alt="vinhomes-symphony" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/vinhomes-symphony-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/11/vinhomes-symphony.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/11/vinhomes-symphony-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/11/vinhomes-symphony-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-symphony/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-symphony/">Vinhomes
                                                     Symphony</a></p>
                                         </div>
                                     </section>
@@ -70,15 +70,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-2 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-green-villas/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-green-villas/"><img
                                                         loading="lazy" class="alignnone wp-image-21191 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-villas.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-villas.jpg"
                                                         alt="vinhomes-green-villas" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-villas.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-villas-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-villas-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-villas.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-villas-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-villas-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-green-villas/">Vinhomes Green
+                                                    href="http://localhost/vungnguyen/vinhomes-green-villas/">Vinhomes Green
                                                     Villas</a></p>
                                         </div>
                                     </section>
@@ -86,15 +86,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-3 slide-parity-odd  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-smart-city/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-smart-city/"><img
                                                         loading="lazy" class="alignnone wp-image-21018 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-smart-city.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-smart-city.jpg"
                                                         alt="vinhomes-smart-city" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-smart-city-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-smart-city-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-smart-city/">Vinhomes Smart
+                                                    href="http://localhost/vungnguyen/vinhomes-smart-city/">Vinhomes Smart
                                                     City</a></p>
                                         </div>
                                     </section>
@@ -102,15 +102,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-4 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-ocean-park/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-ocean-park/"><img
                                                         loading="lazy" class="alignnone wp-image-21194 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-ocean-park.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-ocean-park.jpg"
                                                         alt="vinhomes-ocean-park" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-ocean-park.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-ocean-park-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-ocean-park-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-ocean-park.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-ocean-park-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-ocean-park-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-ocean-park/">Vinhomes Ocean
+                                                    href="http://localhost/vungnguyen/vinhomes-ocean-park/">Vinhomes Ocean
                                                     Park</a></p>
                                         </div>
                                     </section>
@@ -120,14 +120,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-5 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-west-point/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-west-point/"><img
                                                         loading="lazy" class="alignnone wp-image-21016 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-west-point.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-west-point.jpg"
                                                         alt="vinhomes-west-point" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-west-point.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-west-point-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-west-point-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-west-point.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-west-point-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-west-point-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-west-point/">Vinhomes West
+                                                    href="http://localhost/vungnguyen/vinhomes-west-point/">Vinhomes West
                                                     Point</a></p>
                                         </div>
                                     </section>
@@ -135,14 +135,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-6 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-green-bay/"><img loading="lazy"
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-green-bay/"><img loading="lazy"
                                                         class="alignnone wp-image-21024 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-bay.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-bay.jpg"
                                                         alt="vinhomes-green-bay" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-bay.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-bay-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-green-bay-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-bay.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-bay-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-green-bay-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-green-bay/">Vinhomes Green
+                                                    href="http://localhost/vungnguyen/vinhomes-green-bay/">Vinhomes Green
                                                     Bay</a></p>
                                         </div>
                                     </section>
@@ -154,7 +154,7 @@
                                                         class="alignnone wp-image-21025 size-full"
                                                         src="../wp-content/uploads/2019/05/vinhomes-skylake.jpg"
                                                         alt="vinhomes-skylake" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-skylake.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-skylake-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-skylake-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-skylake.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-skylake-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-skylake-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a href="../vinhomes-skylake/">Vinhomes
                                                     Skylake</a></p>
@@ -164,14 +164,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-8 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-metropolis/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-metropolis/"><img
                                                         loading="lazy" class="alignnone wp-image-21028 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-metropolis.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-metropolis.jpg"
                                                         alt="vinhomes-metropolis" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-metropolis.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-metropolis-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-metropolis-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-metropolis.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-metropolis-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-metropolis-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-metropolis/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-metropolis/">Vinhomes
                                                     Metropolis</a></p>
                                         </div>
                                     </section>
@@ -181,14 +181,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-9 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-thang-long/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-thang-long/"><img
                                                         loading="lazy" class="alignnone wp-image-21041 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-thang-long.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-thang-long.jpg"
                                                         alt="vinhomes-thang-long" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-thang-long.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-thang-long-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-thang-long-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-thang-long.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-thang-long-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-thang-long-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-thang-long/">Vinhomes Thăng
+                                                    href="http://localhost/vungnguyen/vinhomes-thang-long/">Vinhomes Thăng
                                                     Long</a></p>
                                         </div>
                                     </section>
@@ -196,14 +196,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-10 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-gardenia/"><img loading="lazy"
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-gardenia/"><img loading="lazy"
                                                         class="alignnone wp-image-21027 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-gardenia.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-gardenia.jpg"
                                                         alt="Vinhomes Gardenia" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-gardenia.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-gardenia-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-gardenia-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-gardenia.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-gardenia-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-gardenia-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-gardenia/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-gardenia/">Vinhomes
                                                     Gardenia</a></p>
                                         </div>
                                     </section>
@@ -211,14 +211,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-11 slide-parity-odd  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-nguyen-chi-thanh/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-nguyen-chi-thanh/"><img
                                                         loading="lazy" class="alignnone wp-image-21032 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh.jpg"
                                                         alt="vinhomes-nguyen-chi-thanh" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-nguyen-chi-thanh-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-nguyen-chi-thanh/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-nguyen-chi-thanh/">Vinhomes
                                                     Nguyễn Chí Thanh</a></p>
                                         </div>
                                     </section>
@@ -230,7 +230,7 @@
                                                         class="alignnone wp-image-21035 size-full"
                                                         src="../wp-content/uploads/2019/05/vinhomes-times-city.jpg"
                                                         alt="vinhomes-times-city" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-times-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-times-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-times-city-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-times-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-times-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-times-city-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a href="../vinhomes-times-city/">Vinhomes
                                                     Times City</a></p>
@@ -242,14 +242,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-13 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-royal-city/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-royal-city/"><img
                                                         loading="lazy" class="alignnone wp-image-21034 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-royal-city.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-royal-city.jpg"
                                                         alt="vinhomes-royal-city" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-royal-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-royal-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-royal-city-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-royal-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-royal-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-royal-city-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-royal-city/">Vinhomes Royal
+                                                    href="http://localhost/vungnguyen/vinhomes-royal-city/">Vinhomes Royal
                                                     City</a></p>
                                         </div>
                                     </section>
@@ -257,14 +257,14 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-14 slide-parity-even  post-entry-last  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-riverside/"><img loading="lazy"
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-riverside/"><img loading="lazy"
                                                         class="alignnone wp-image-21612 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-riverside.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-riverside.jpg"
                                                         alt="vinhomes-riverside" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-riverside.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-riverside-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-riverside-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-riverside.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-riverside-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-riverside-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-riverside/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-riverside/">Vinhomes
                                                     Riverside</a></p>
                                         </div>
                                     </section>
@@ -291,15 +291,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-1 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-grand-park/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-grand-park/"><img
                                                         loading="lazy" class="alignnone wp-image-31800 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2020/03/vinhomes-grand-park.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/03/vinhomes-grand-park.jpg"
                                                         alt="vinhomes-grand-park" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/03/vinhomes-grand-park.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/03/vinhomes-grand-park-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/03/vinhomes-grand-park-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/03/vinhomes-grand-park.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/03/vinhomes-grand-park-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/03/vinhomes-grand-park-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-grand-park/">Vinhomes Grand
+                                                    href="http://localhost/vungnguyen/vinhomes-grand-park/">Vinhomes Grand
                                                     Park</a></p>
                                         </div>
                                     </section>
@@ -311,7 +311,7 @@
                                                         class="alignnone wp-image-21197 size-full"
                                                         src="../wp-content/uploads/2019/05/vinhomes-golden-river.jpg"
                                                         alt="vinhomes-golden-river" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-golden-river.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-golden-river-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-golden-river-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-golden-river.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-golden-river-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-golden-river-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a href="../vinhomes-golden-river/">Vinhomes
@@ -322,11 +322,11 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-3 slide-parity-odd  post-entry-last  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-central-park/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-central-park/"><img
                                                         loading="lazy" class="alignnone wp-image-32461 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-central-park.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-central-park.jpg"
                                                         alt="vinhomes-central-park" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-central-park.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-central-park-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-central-park-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-central-park.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-central-park-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-central-park-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a href="../vinhomes-central-park/">Vinhomes
@@ -361,15 +361,15 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-1 slide-parity-odd  av_one_fourth first"
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-ocean-park-2-the-empire/"><img
                                                         loading="lazy" class="alignnone wp-image-36845 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire.jpg"
                                                         alt="vinhomes-ocean-park-2-the-empire" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a
-                                                    href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/">Vinhomes
+                                                    href="http://localhost/vungnguyen/vinhomes-ocean-park-2-the-empire/">Vinhomes
                                                     Ocean Park 2 The Empire</a></p>
                                         </div>
                                     </section>
@@ -377,9 +377,9 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-2 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-marina/"><img loading="lazy"
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-marina/"><img loading="lazy"
                                                         class="alignnone wp-image-21192 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-marina.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-marina.jpg"
                                                         alt="vinhomes-marina" width="800" height="450"
                                                         style="left: 0px;"></a></p>
                                             <p style="text-align: center;"><a href="../vinhomes-marina/">Vinhomes
@@ -390,11 +390,11 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-3 slide-parity-odd  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-new-center/"><img
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-new-center/"><img
                                                         loading="lazy" class="alignnone wp-image-21193 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-new-center.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-new-center.jpg"
                                                         alt="vinhomes-new-center" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-new-center.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-new-center-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-new-center-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-new-center.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-new-center-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-new-center-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a href="../vinhomes-new-center/">Vinhomes
@@ -405,11 +405,11 @@
                                         class="slide-entry flex_column post-entry slide-entry-overview slide-loop-4 slide-parity-even  av_one_fourth "
                                         itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
                                         <div class="slide-entry-excerpt entry-content" itemprop="text">
-                                            <p><a href="https://vinhomesland.vn/vinhomes-star-city/"><img loading="lazy"
+                                            <p><a href="http://localhost/vungnguyen/vinhomes-star-city/"><img loading="lazy"
                                                         class="alignnone wp-image-21196 size-full"
-                                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-star-city.jpg"
+                                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-star-city.jpg"
                                                         alt="vinhomes-star-city" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-star-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-star-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-star-city-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-star-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-star-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-star-city-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px" style="left: 0px;"></a>
                                             </p>
                                             <p style="text-align: center;"><a href="../vinhomes-star-city/">Vinhomes
@@ -438,7 +438,7 @@
                                                         class="alignnone wp-image-21189 size-full"
                                                         src="../wp-content/uploads/2019/05/vinhomes-dragon-bay.jpg"
                                                         alt="vinhomes-dragon-bay" width="800" height="450"
-                                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-dragon-bay.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-dragon-bay-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vinhomes-dragon-bay-705x397.jpg 705w"
+                                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-dragon-bay.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-dragon-bay-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vinhomes-dragon-bay-705x397.jpg 705w"
                                                         sizes="(max-width: 800px) 100vw, 800px"></a></p>
                                             <p style="text-align: center;"><a href="../vinhomes-dragon-bay/">Vinhomes
                                                     Dragon Bay</a></p>

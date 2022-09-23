@@ -19,8 +19,8 @@
         class="avia-slideshow avia-slideshow-1 av-control-default avia-slideshow-no scaling av_fullscreen avia-slide-slider"
         itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
         <ul class="avia-slideshow-inner " style="padding: 0px;">
-            <li style="background-position: left bottom; background-image: url(&quot;https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg&quot;); visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);"
-                data-img-url="https://vinhomesland.vn/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg"
+            <li style="background-position: left bottom; background-image: url(&quot;http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg&quot;); visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);"
+                data-img-url="http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg"
                 class="av-single-slide slide-1 active-slide">
                 <div data-rel="slideshow-1" class="avia-slide-wrap ">
                     <div
@@ -34,7 +34,7 @@
                                         <div class="avia-caption-content  av_inherit_color" itemprop="description"
                                             style="font-size:20px; color:#ffffff; ">
                                             <p>Giai đoạn 2 “siêu đô thị biển” Vinhomes Ocean Park chính thức ra mắt</p>
-                                        </div><a href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/"
+                                        </div><a href="http://localhost/vungnguyen/vinhomes-ocean-park-2-the-empire/"
                                             class="avia-slideshow-button avia-button avia-color-theme-color-subtle "
                                             data-duration="800" data-easing="easeInOutQuad">XEM CHI TIẾT</a>
                                     </div>

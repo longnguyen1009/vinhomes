@@ -16,7 +16,7 @@
             Hà Nội</p>
         <p>Hotline: <a class="text-is-phone-number">0986 315 597</a></p>
         <p>Email: info@vinhomesland.vn</p>
-        <p>Website: https://vinhomesland.vn</p>
+        <p>Website: http://localhost/vungnguyen</p>
         <p>Bạn hãy vui lòng để lại thông tin cá nhân theo Form đăng ký sau để được chúng tôi
             hỗ trợ tốt nhất:</p>
     </div>

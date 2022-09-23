@@ -856,7 +856,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
     <div class="stretch_full container_wrap alternate_color light_bg_color title_container">
         <div class="container">
-            <h1 class="main-title entry-title "><a href="https://vinhomesland.vn/gioi-thieu/" rel="bookmark"
+            <h1 class="main-title entry-title "><a href="http://localhost/vungnguyen/gioi-thieu/" rel="bookmark"
                     title="Permanent Link: Về chúng tôi – Vinhomes Land" itemprop="headline">Về chúng tôi – Vinhomes
                     Land</a></h1>
         </div>
@@ -881,10 +881,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
                                 itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img class="wp-image-32775 avia_image"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-times-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city.jpg"
                                             alt="vinhomes-times-city" title="Vinhomes Times City" height="500"
                                             width="500" itemprop="thumbnailUrl"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-times-city.jpg 500w, https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-times-city-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-times-city-180x180.jpg 180w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city.jpg 500w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city-180x180.jpg 180w"
                                             sizes="(max-width: 500px) 100vw, 500px"></div>
                                 </div>
                             </div>
@@ -906,7 +906,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
                                         cùng lớn, đặc biệt trong bối cảnh chủ đầu tư Vingroup đang ngày càng mở rộng
                                         phát triển, trở thành tập đoàn tài chính hùng mạnh nhất tại Việt Nam.</p>
                                     <p>Tính đến thời điểm hiện tại, tập đoàn Vingroup đã cho ra mắt hơn 20 <a
-                                            href="https://vinhomesland.vn/du-an/">dự án Vinhomes</a> tại Hà Nội, TP.HCM
+                                            href="http://localhost/vungnguyen/du-an/">dự án Vinhomes</a> tại Hà Nội, TP.HCM
                                         và các tỉnh thành trên khắp toàn quốc, chưa kể đến hàng chục các dự án nhà phố
                                         thương mại Vincom Shophouse hay các dự án nghỉ dưỡng Vinpearl, Vin Oasis…</p>
                                     <p>Đối với những khách hàng đang quan tâm đến bất động sản của Vingroup, thật khó để
@@ -1122,7 +1122,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
     </div>
     <div id="av_section_3"
         class="avia-section main_color avia-section-default avia-no-shadow  av-section-color-overlay-active avia-bg-style-scroll  avia-builder-el-25  el_after_av_one_half  avia-builder-el-last   container_wrap fullsize"
-        style="background-repeat: no-repeat; background-image: url(https://vinhomesland.vn/wp-content/uploads/2020/03/vinhomes-grand-park-background.jpg);background-attachment: scroll; background-position: top left;  "
+        style="background-repeat: no-repeat; background-image: url(http://localhost/vungnguyen/wp-content/uploads/2020/03/vinhomes-grand-park-background.jpg);background-attachment: scroll; background-position: top left;  "
         data-section-bg-repeat="no-repeat">
         <div class="av-section-color-overlay-wrap">
             <div class="av-section-color-overlay" style="opacity: 0.7; background-color: #000000; "></div>
@@ -1130,7 +1130,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
                 <div class="template-page content  av-content-full alpha units">
                     <div class="post-entry post-entry-type-page post-entry-32742">
                         <div class="entry-content-wrapper clearfix">
-                            <form action="https://vinhomesland.vn/gioi-thieu/" method="post"
+                            <form action="http://localhost/vungnguyen/gioi-thieu/" method="post"
                                 class="avia_ajax_form av-form-labels-hidden   avia-builder-el-26  avia-builder-el-no-sibling   "
                                 data-avia-form-id="1" data-avia-redirect="">
                                 <fieldset>

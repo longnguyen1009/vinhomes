@@ -32,18 +32,18 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-38245 slide-entry-overview slide-loop-1 slide-parity-odd  av_one_third first real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/vinhomes-ocean-park-mo-rong-quy-mo-len-toi-hon-1000-ha/"
+                                        href="http://localhost/vungnguyen/vinhomes-ocean-park-mo-rong-quy-mo-len-toi-hon-1000-ha/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Vinhomes Ocean Park mở rộng quy mô lên tới hơn 1000 ha"><img width="495"
                                             height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park-495x400.jpg"
                                             class="wp-image-37749 attachment-portfolio size-portfolio wp-post-image"
                                             alt="thanh-pho-bien-ho-vinhomes-ocean-park" loading="lazy"
                                             style="left: 0px;"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/vinhomes-ocean-park-mo-rong-quy-mo-len-toi-hon-1000-ha/"
+                                                    href="http://localhost/vungnguyen/vinhomes-ocean-park-mo-rong-quy-mo-len-toi-hon-1000-ha/"
                                                     title="Vinhomes Ocean Park mở rộng quy mô lên tới hơn 1000 ha">Vinhomes
                                                     Ocean Park mở rộng quy mô lên tới hơn 1000 ha</a></h3><span
                                                 class="av-vertical-delimiter"></span>
@@ -53,7 +53,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2022/07/thanh-pho-bien-ho-vinhomes-ocean-park.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -63,7 +63,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc
@@ -79,18 +79,18 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-36679 slide-entry-overview slide-loop-2 slide-parity-even  av_one_third  real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/biet-thu-nha-pho-the-empire-nhung-ly-do-khong-the-bo-lo/"
+                                        href="http://localhost/vungnguyen/biet-thu-nha-pho-the-empire-nhung-ly-do-khong-the-bo-lo/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Biệt thự nhà phố The Empire &amp; Những lý do không thể bỏ lỡ"><img
                                             width="495" height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire-495x400.jpg"
                                             class="wp-image-36841 attachment-portfolio size-portfolio wp-post-image"
                                             alt="phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire"
                                             loading="lazy" style="left: 0px;"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/biet-thu-nha-pho-the-empire-nhung-ly-do-khong-the-bo-lo/"
+                                                    href="http://localhost/vungnguyen/biet-thu-nha-pho-the-empire-nhung-ly-do-khong-the-bo-lo/"
                                                     title="Biệt thự nhà phố The Empire &amp; Những lý do không thể bỏ lỡ">Biệt
                                                     thự nhà phố The Empire &amp; Những lý do không thể bỏ lỡ</a></h3>
                                             <span class="av-vertical-delimiter"></span>
@@ -100,7 +100,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2022/06/phan-khu-kinh-do-anh-sang-vinhomes-ocean-park-2-the-empire.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -110,7 +110,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc
@@ -126,18 +126,18 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-36677 slide-entry-overview slide-loop-3 slide-parity-odd  av_one_third  real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/kham-pha-6-kien-truc-tay-au-doc-dao-tai-vinhomes-the-empire/"
+                                        href="http://localhost/vungnguyen/kham-pha-6-kien-truc-tay-au-doc-dao-tai-vinhomes-the-empire/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Khám phá 6 kiến trúc Tây Âu độc đáo tại Vinhomes The Empire"><img
                                             width="495" height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire-495x400.jpg"
                                             class="wp-image-36837 attachment-portfolio size-portfolio wp-post-image"
                                             alt="phan-khu-cha-la-vinhomes-ocean-park-2-the-empire" loading="lazy"
                                             style="left: 0px;"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/kham-pha-6-kien-truc-tay-au-doc-dao-tai-vinhomes-the-empire/"
+                                                    href="http://localhost/vungnguyen/kham-pha-6-kien-truc-tay-au-doc-dao-tai-vinhomes-the-empire/"
                                                     title="Khám phá 6 kiến trúc Tây Âu độc đáo tại Vinhomes The Empire">Khám
                                                     phá 6 kiến trúc Tây Âu độc đáo tại Vinhomes The Empire</a></h3><span
                                                 class="av-vertical-delimiter"></span>
@@ -147,7 +147,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2022/06/phan-khu-cha-la-vinhomes-ocean-park-2-the-empire.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -157,7 +157,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc
@@ -175,17 +175,17 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-36669 slide-entry-overview slide-loop-4 slide-parity-odd  av_one_third first real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/vinhomes-ocean-park-ra-mat-toa-cuoi-cung-r101-the-zenpark/"
+                                        href="http://localhost/vungnguyen/vinhomes-ocean-park-ra-mat-toa-cuoi-cung-r101-the-zenpark/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Vinhomes Ocean Park ra mắt tòa cuối cùng R1.01 The Zenpark"><img
                                             width="495" height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park-495x400.jpg"
                                             class="wp-image-36670 attachment-portfolio size-portfolio wp-post-image"
                                             alt="toa-r101-vinhomes-ocean-park" loading="lazy"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/vinhomes-ocean-park-ra-mat-toa-cuoi-cung-r101-the-zenpark/"
+                                                    href="http://localhost/vungnguyen/vinhomes-ocean-park-ra-mat-toa-cuoi-cung-r101-the-zenpark/"
                                                     title="Vinhomes Ocean Park ra mắt tòa cuối cùng R1.01 The Zenpark">Vinhomes
                                                     Ocean Park ra mắt tòa cuối cùng R1.01 The Zenpark</a></h3><span
                                                 class="av-vertical-delimiter"></span>
@@ -195,7 +195,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2022/05/toa-r101-vinhomes-ocean-park.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -205,7 +205,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc
@@ -221,18 +221,18 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-36605 slide-entry-overview slide-loop-5 slide-parity-even  av_one_third  real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/tai-sao-nguoi-giau-luon-chon-biet-thu-vinhomes-lam-noi-an-cu/"
+                                        href="http://localhost/vungnguyen/tai-sao-nguoi-giau-luon-chon-biet-thu-vinhomes-lam-noi-an-cu/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Tại sao người giàu luôn chọn biệt thự Vinhomes làm nơi an cư?"><img
                                             width="495" height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park-495x400.jpg"
                                             class="wp-image-35991 attachment-portfolio size-portfolio wp-post-image"
                                             alt="biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park"
                                             loading="lazy"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/tai-sao-nguoi-giau-luon-chon-biet-thu-vinhomes-lam-noi-an-cu/"
+                                                    href="http://localhost/vungnguyen/tai-sao-nguoi-giau-luon-chon-biet-thu-vinhomes-lam-noi-an-cu/"
                                                     title="Tại sao người giàu luôn chọn biệt thự Vinhomes làm nơi an cư?">Tại
                                                     sao người giàu luôn chọn biệt thự Vinhomes làm nơi an cư?</a></h3>
                                             <span class="av-vertical-delimiter"></span>
@@ -242,7 +242,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/07/biet-thu-don-lap-the-manhattan-glory-vinhomes-grand-park.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -252,7 +252,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc
@@ -268,17 +268,17 @@
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-36520 slide-entry-overview slide-loop-6 slide-parity-odd  post-entry-last  av_one_third  real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="https://vinhomesland.vn/biet-thu-lien-ke-phia-dong-ha-noi-tang-gia-manh-bat-ke-covid-19/"
+                                        href="http://localhost/vungnguyen/biet-thu-lien-ke-phia-dong-ha-noi-tang-gia-manh-bat-ke-covid-19/"
                                         data-rel="slide-1" class="slide-image"
                                         title="Biệt thự liền kề phía Đông Hà Nội tăng giá mạnh bất kể covid 19"><img
                                             width="495" height="400"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park-495x400.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park-495x400.jpg"
                                             class="wp-image-36521 attachment-portfolio size-portfolio wp-post-image"
                                             alt="bien-xanh-cat-trang-vinhomes-ocean-park" loading="lazy"></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="https://vinhomesland.vn/biet-thu-lien-ke-phia-dong-ha-noi-tang-gia-manh-bat-ke-covid-19/"
+                                                    href="http://localhost/vungnguyen/biet-thu-lien-ke-phia-dong-ha-noi-tang-gia-manh-bat-ke-covid-19/"
                                                     title="Biệt thự liền kề phía Đông Hà Nội tăng giá mạnh bất kể covid 19">Biệt
                                                     thự liền kề phía Đông Hà Nội tăng giá mạnh bất kể covid 19</a></h3>
                                             <span class="av-vertical-delimiter"></span>
@@ -288,7 +288,7 @@
                                         <span class="av-structured-data" itemprop="image" itemscope="itemscope"
                                             itemtype="https://schema.org/ImageObject">
                                             <span
-                                                itemprop="url">https://vinhomesland.vn/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park.jpg</span>
+                                                itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2021/11/bien-xanh-cat-trang-vinhomes-ocean-park.jpg</span>
                                             <span itemprop="height">450</span>
                                             <span itemprop="width">800</span>
                                         </span>
@@ -298,7 +298,7 @@
                                             <span itemprop="logo" itemscope=""
                                                 itemtype="https://schema.org/ImageObject">
                                                 <span
-                                                    itemprop="url">https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
+                                                    itemprop="url">http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png</span>
                                             </span>
                                         </span><span class="av-structured-data" itemprop="author" itemscope="itemscope"
                                             itemtype="https://schema.org/Person"><span itemprop="name">Khuc

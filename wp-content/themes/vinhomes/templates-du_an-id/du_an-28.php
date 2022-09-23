@@ -100,13 +100,13 @@
                                     đại lộ Thăng Long, hình thành nên khu hành chính, kinh tế, văn hóa mới. Trong tương
                                     lai khu đô thị Vinhomes Smart City sẽ trở thành tâm điểm mới của thủ đô Hà Nội.</p>
                                 <div id="attachment_21151" style="width: 1510px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg"
+                                        href="http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg"
                                         style="position: relative; overflow: hidden;"><img
                                             aria-describedby="caption-attachment-21151" loading="lazy"
                                             class="wp-image-21151 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg"
                                             alt="vi-tri-vinhomes-smart-city" width="1500" height="1000"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-705x470.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-450x300.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-272x182.jpg 272w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-705x470.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-450x300.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/05/vi-tri-vinhomes-smart-city-272x182.jpg 272w"
                                             sizes="(max-width: 1500px) 100vw, 1500px"><span
                                             class="image-overlay overlay-type-image"><span
                                                 class="image-overlay-inside"></span></span></a>
@@ -119,13 +119,13 @@
                                     các phân khu The Sapphire, The Metrolines, Imperia Smart City, Masteri West Heights.
                                 </p>
                                 <div id="attachment_30990" style="width: 2010px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg"
+                                        href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg"
                                         style="position: relative; overflow: hidden;"><img
                                             aria-describedby="caption-attachment-30990" loading="lazy"
                                             class="wp-image-30990 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg"
                                             alt="mat-bang-tong-the-vinhomes-smart-city" width="2000" height="1500"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-705x529.jpg 705w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-768x576.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1030x773.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1536x1152.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-1500x1125.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tong-the-vinhomes-smart-city-705x529.jpg 705w"
                                             sizes="(max-width: 2000px) 100vw, 2000px"><span
                                             class="image-overlay overlay-type-image"><span
                                                 class="image-overlay-inside"></span></span></a>
@@ -135,13 +135,13 @@
                                 <h3><span id="Phan_khu_The_Sapphire">Phân khu The Sapphire</span></h3>
                                 <p>The Sapphire là phân khu căn hộ <strong>trung cấp</strong>, được chia nhỏ thành các
                                     phân khu <a
-                                        href="https://vinhomesland.vn/phan-khu-the-sapphire-1-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-sapphire-1-vinhomes-smart-city/">The
                                         Sapphire 1</a>, <a
-                                        href="https://vinhomesland.vn/phan-khu-the-sapphire-2-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-sapphire-2-vinhomes-smart-city/">The
                                         Sapphire 2</a>, <a
-                                        href="https://vinhomesland.vn/phan-khu-the-sapphire-3-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-sapphire-3-vinhomes-smart-city/">The
                                         Sapphire 3</a>, <a
-                                        href="https://vinhomesland.vn/phan-khu-the-sapphire-4-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-sapphire-4-vinhomes-smart-city/">The
                                         Sapphire 4</a>. Các căn hộ tại The Sapphire có diện tích khá nhỏ, đa phần chỉ
                                     khoảng 30 – 75 m2, nội thất bàn giao ở mức <strong>tối thiểu&nbsp;</strong>(Không có
                                     điều hòa, tủ bếp, tủ quần áo, thiết bị thông minh), giá bán trung bình<strong>
@@ -151,7 +151,7 @@
                                 <div id="attachment_32939" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-32939" loading="lazy"
                                         class="wp-image-32939 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/05/vi-tri-phan-khu-the-sapphire-vinhomes-smart-city.gif"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/05/vi-tri-phan-khu-the-sapphire-vinhomes-smart-city.gif"
                                         alt="vi-tri-phan-khu-the-sapphire-vinhomes-smart-city" width="800" height="450">
                                     <p id="caption-attachment-32939" class="wp-caption-text">Vị trí phân khu The
                                         Sapphire</p>
@@ -159,21 +159,21 @@
                                 <div id="attachment_35793" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-35793" loading="lazy"
                                         class="wp-image-35793 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city.jpg"
                                         alt="phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city" width="800"
                                         height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2021/03/phan-khu-the-sapphire-1-the-sapphire-2-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-35793" class="wp-caption-text">Phối cảnh phân khu The
                                         Sapphire 1 &amp; The Sapphire 2</p>
                                 </div>
                                 <h3><span id="Phan_khu_The_Metrolines">Phân khu The Metrolines</span></h3>
-                                <p><a href="https://vinhomesland.vn/phan-khu-the-metrolines-vinhomes-smart-city/">The
+                                <p><a href="http://localhost/vungnguyen/phan-khu-the-metrolines-vinhomes-smart-city/">The
                                         Metrolines</a> là phân khu căn hộ <strong>cao cấp,</strong> được chia nhỏ thành
                                     các phân khu <a
-                                        href="https://vinhomesland.vn/phan-khu-the-miami-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-miami-vinhomes-smart-city/">The
                                         Miami</a>, <a
-                                        href="https://vinhomesland.vn/phan-khu-the-sakura-vinhomes-smart-city/">The
+                                        href="http://localhost/vungnguyen/phan-khu-the-sakura-vinhomes-smart-city/">The
                                         Sakura</a>, The Victoria. Điểm nhấn của The Metrolines nằm ở tọa độ “vàng”,
                                     <strong>giao điểm của 3 tuyến metro 5, 6, 7</strong>; kết hợp cùng hệ thống cảnh
                                     quan mang 3 phong cách: <strong>Mỹ, Nhật Bản, Hong Kong</strong>. Ngoài ra, so với
@@ -185,7 +185,7 @@
                                 <div id="attachment_36120" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-36120" loading="lazy"
                                         class="wp-image-36120 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/06/vi-tri-phan-khu-the-metrolines-vinhomes-smart-city.gif"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/06/vi-tri-phan-khu-the-metrolines-vinhomes-smart-city.gif"
                                         alt="vi-tri-phan-khu-the-metrolines-vinhomes-smart-city" width="800"
                                         height="450">
                                     <p id="caption-attachment-36120" class="wp-caption-text">Vị trí phân khu The
@@ -194,15 +194,15 @@
                                 <div id="attachment_36102" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-36102" loading="lazy"
                                         class="wp-image-36102 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city.jpg"
                                         alt="phan-khu-the-metrolines-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2021/05/phan-khu-the-metrolines-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-36102" class="wp-caption-text">Phối cảnh phân khu The
                                         Metrolines</p>
                                 </div>
                                 <h3><span id="Imperia_Smart_City">Imperia Smart City</span></h3>
-                                <p><a href="https://vinhomesland.vn/imperia-smart-city/">Imperia Smart City</a> là 5 tòa
+                                <p><a href="http://localhost/vungnguyen/imperia-smart-city/">Imperia Smart City</a> là 5 tòa
                                     căn hộ cao cấp được tập đoàn MIK Group mua lại của Vingroup. Điểm nhấn của Imperia
                                     Smart City nằm ở vị trí ngay bên cạnh công viên trung tâm. Các căn hộ Imperia Smart
                                     City có diện tích từ 28.3 – 76.2 m2, nội thất bàn giao cơ bản (có sàn gỗ, điều hòa,
@@ -212,7 +212,7 @@
                                 <div id="attachment_36124" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-36124" loading="lazy"
                                         class="wp-image-36124 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/06/vi-tri-imperia-smart-city.gif"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/06/vi-tri-imperia-smart-city.gif"
                                         alt="vi-tri-imperia-smart-city" width="800" height="450">
                                     <p id="caption-attachment-36124" class="wp-caption-text">Vị trí Imperia Smart City
                                     </p>
@@ -220,9 +220,9 @@
                                 <div id="attachment_33937" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-33937" loading="lazy"
                                         class="wp-image-33937 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/06/imperia-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/06/imperia-smart-city.jpg"
                                         alt="imperia-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/06/imperia-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/06/imperia-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/06/imperia-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/06/imperia-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/06/imperia-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/06/imperia-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-33937" class="wp-caption-text">Phối cảnh Imperia Smart
                                         City</p>
@@ -240,7 +240,7 @@
                                 <div id="attachment_36119" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-36119" loading="lazy"
                                         class="wp-image-36119 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/06/vi-tri-masteri-west-heights.gif"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/06/vi-tri-masteri-west-heights.gif"
                                         alt="vi-tri-masteri-west-heights" width="800" height="450">
                                     <p id="caption-attachment-36119" class="wp-caption-text">Vị trí Masteri West Heights
                                     </p>
@@ -248,9 +248,9 @@
                                 <div id="attachment_36051" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-36051" loading="lazy"
                                         class="wp-image-36051 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2021/03/masteri-west-heights.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2021/03/masteri-west-heights.jpg"
                                         alt="masteri-west-heights" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2021/03/masteri-west-heights.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2021/03/masteri-west-heights-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2021/03/masteri-west-heights-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2021/03/masteri-west-heights.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2021/03/masteri-west-heights-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2021/03/masteri-west-heights-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-36051" class="wp-caption-text">Phối cảnh Masteri West
                                         Heights</p>
@@ -267,7 +267,7 @@
                                     tầm tài chính vừa phải, muốn tận dụng triệt để không gian trống thay vì bỏ thêm tiền
                                     để mua căn hộ rộng hơn. <strong>Không gian + 1 là nâng cấp mới của
                                         Vingroup</strong>, chỉ có tại 2 khu căn hộ Vinhomes Smart City và <a
-                                        href="https://vinhomesland.vn/vinhomes-ocean-park/">Vinhomes Ocean Park</a>.</p>
+                                        href="http://localhost/vungnguyen/vinhomes-ocean-park/">Vinhomes Ocean Park</a>.</p>
                             </div>
                         </section>
                         <div class="tabcontainer   top_tab   avia-builder-el-4  el_after_av_textblock  el_before_av_textblock "
@@ -293,9 +293,9 @@
                                 <div id="tab-id-1" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-34713"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1.jpg"
                                                 alt="mat-bang-studio-vinhomes-smart-city" width="800" height="450"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1-705x397.jpg 705w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-studio-vinhomes-smart-city-1-705x397.jpg 705w"
                                                 sizes="(max-width: 800px) 100vw, 800px"></p>
 
                                     </div>
@@ -310,10 +310,10 @@
                                 <div id="tab-id-2" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-34717"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2.jpg"
                                                 alt="mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city" width="800"
                                                 height="450"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2-705x397.jpg 705w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-1-phong-ngu-vinhomes-smart-city-2-705x397.jpg 705w"
                                                 sizes="(max-width: 800px) 100vw, 800px"></p>
 
                                     </div>
@@ -328,10 +328,10 @@
                                 <div id="tab-id-3" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-34707"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1.jpg"
                                                 alt="mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city" width="800"
                                                 height="450"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1-705x397.jpg 705w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-1-705x397.jpg 705w"
                                                 sizes="(max-width: 800px) 100vw, 800px"></p>
 
                                     </div>
@@ -346,10 +346,10 @@
                                 <div id="tab-id-4" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-34710"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4.jpg"
                                                 alt="mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city" width="800"
                                                 height="450"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4-705x397.jpg 705w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-2-phong-ngu-vinhomes-smart-city-4-705x397.jpg 705w"
                                                 sizes="(max-width: 800px) 100vw, 800px"></p>
 
                                     </div>
@@ -364,10 +364,10 @@
                                 <div id="tab-id-5" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-34712"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2.jpg"
                                                 alt="mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city" width="800"
                                                 height="450"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2-705x397.jpg 705w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/mat-bang-can-ho-3-phong-ngu-vinhomes-smart-city-2-705x397.jpg 705w"
                                                 sizes="(max-width: 800px) 100vw, 800px"></p>
 
                                     </div>
@@ -481,9 +481,9 @@
                                 <div id="attachment_21162" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-21162" loading="lazy"
                                         class="wp-image-21162 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city.jpg"
                                         alt="phong-khach-can-ho-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-450x253.jpg 450w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/phong-khach-can-ho-vinhomes-smart-city-450x253.jpg 450w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-21162" class="wp-caption-text">Không gian bên trong căn hộ
                                         “Sapphire” điển hình</p>
@@ -514,9 +514,9 @@
                                 <div id="attachment_29821" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-29821" loading="lazy"
                                         class="wp-image-29821 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/01/can-ho-thong-minh.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/01/can-ho-thong-minh.jpg"
                                         alt="can-ho-thong-minh" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/01/can-ho-thong-minh.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/01/can-ho-thong-minh-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/01/can-ho-thong-minh-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/01/can-ho-thong-minh.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/01/can-ho-thong-minh-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/01/can-ho-thong-minh-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-29821" class="wp-caption-text">Sau Park Hill Premium,
                                         Vinhomes Tây Mỗ Đại Mỗ là dự án tiếp theo của Vingroup sở hữu căn hộ thông minh
@@ -524,7 +524,7 @@
                                 </div>
                                 <h3><span id="Vuon_Nhat">Vườn Nhật</span></h3>
                                 <p>Tọa lạc ngay tại cổng vào khu đô thị, <a
-                                        href="https://vinhomesland.vn/vuon-nhat-vinhomes-smart-city/">vườn Nhật Vinhomes
+                                        href="http://localhost/vungnguyen/vuon-nhat-vinhomes-smart-city/">vườn Nhật Vinhomes
                                         Smart City</a> là khu vườn Nhật lớn nhất tại Việt Nam, tổng quy mô lên tới 6 ha,
                                     bao gồm nhiều hạng mục độc đáo như hồ cá chép đỏ, rừng trúc, núi giả, cầu gỗ, công
                                     viên đèn lồng, nhà hàng Nhật…</p>
@@ -535,9 +535,9 @@
                                 <div id="attachment_32102" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-32102" loading="lazy"
                                         class="wp-image-32102 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city.jpg"
                                         alt="vuon-nhat-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/03/vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-32102" class="wp-caption-text">Toàn cảnh khu vườn Nhật
                                         Vinhomes Tây Mỗ Đại Mỗ</p>
@@ -554,9 +554,9 @@
                                 <div id="attachment_33573" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-33573" loading="lazy"
                                         class="wp-image-33573 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city.jpg"
                                         alt="ho-canh-quan-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/06/ho-canh-quan-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-33573" class="wp-caption-text">Chèo thuyền kayak bên hồ
                                         cảnh quan là một trong những trải nghiệm vô cùng thú vị khi sống tại chung cư
@@ -572,9 +572,9 @@
                                 <div id="attachment_32518" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-32518" loading="lazy"
                                         class="wp-image-32518 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg"
                                         alt="vincom-mega-mall-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-32518" class="wp-caption-text">Vincom Mega Mall Tây Mỗ còn
                                         sở hữu bãi đỗ xe ngoài trời rộng lớn, có sức chứa 700 ô tô &amp; 3.000 xe máy
@@ -591,9 +591,9 @@
                                 <div id="attachment_34683" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-34683" loading="lazy"
                                         class="wp-image-34683 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/07/vinmec-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/07/vinmec-smart-city.jpg"
                                         alt="vinmec-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/07/vinmec-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/07/vinmec-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/07/vinmec-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/07/vinmec-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/07/vinmec-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/07/vinmec-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-34683" class="wp-caption-text">Bệnh viện đa khoa quốc tế
                                         Vinmec Smart City</p>
@@ -608,9 +608,9 @@
                                 <div id="attachment_34905" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-34905" loading="lazy"
                                         class="wp-image-34905 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city.jpg"
                                         alt="view-vinschool-tu-can-ho-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/09/view-vinschool-tu-can-ho-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-34905" class="wp-caption-text">Toàn cảnh khu trường học
                                         Vinschool phân khu The Sapphire 4</p>
@@ -625,9 +625,9 @@
                                 <div id="attachment_21815" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-21815" loading="lazy"
                                         class="wp-image-21815 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city.jpg"
                                         alt="noi-khu-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/noi-khu-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-21815" class="wp-caption-text">Hệ thống sân thể thao
                                         tennis, bóng rổ, cầu lông, bóng chuyền liên hoàn</p>
@@ -635,9 +635,9 @@
                                 <div id="attachment_33985" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-33985" loading="lazy"
                                         class="wp-image-33985 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city.jpg"
                                         alt="be-boi-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/06/be-boi-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-33985" class="wp-caption-text">Khu bể bơi ngoài trời mang
                                         phong cách “resort”</p>
@@ -645,9 +645,9 @@
                                 <div id="attachment_33987" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-33987" loading="lazy"
                                         class="wp-image-33987 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city.jpg"
                                         alt="san-choi-tre-nho-vinhomes-smart-city" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/06/san-choi-tre-nho-vinhomes-smart-city-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-33987" class="wp-caption-text">Sân chơi trẻ nhỏ đan xen
                                         bên trong nội khu</p>
@@ -659,7 +659,7 @@
                                     dưới.</p>
                             </div>
                         </section>
-                        <form action="https://vinhomesland.vn/vinhomes-smart-city/" method="post"
+                        <form action="http://localhost/vungnguyen/vinhomes-smart-city/" method="post"
                             class="avia_ajax_form av-form-labels-hidden   avia-builder-el-6  el_after_av_textblock  el_before_av_social_share   "
                             data-avia-form-id="1" data-avia-redirect="">
                             <fieldset>
@@ -699,13 +699,13 @@
                                 <ul class="av-share-box-list noLightbox">
                                     <li class="av-share-link av-social-link-facebook"><a target="_blank"
                                             aria-label="Share on Facebook"
-                                            href="https://www.facebook.com/sharer.php?u=https://vinhomesland.vn/vinhomes-smart-city/&amp;t=Vinhomes%20Smart%20City"
+                                            href="https://www.facebook.com/sharer.php?u=http://localhost/vungnguyen/vinhomes-smart-city/&amp;t=Vinhomes%20Smart%20City"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Facebook" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Facebook</span></a></li>
                                     <li class="av-share-link av-social-link-twitter"><a target="_blank"
                                             aria-label="Share on Twitter"
-                                            href="https://twitter.com/share?text=Vinhomes%20Smart%20City&amp;url=https://vinhomesland.vn/?p=29812"
+                                            href="https://twitter.com/share?text=Vinhomes%20Smart%20City&amp;url=http://localhost/vungnguyen/?p=29812"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Twitter" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Twitter</span></a></li>
@@ -717,7 +717,7 @@
                                                 class="avia_hidden_link_text">Share on Pinterest</span></a></li>
                                     <li class="av-share-link av-social-link-linkedin"><a target="_blank"
                                             aria-label="Share on LinkedIn"
-                                            href="https://linkedin.com/shareArticle?mini=true&amp;title=Vinhomes%20Smart%20City&amp;url=https://vinhomesland.vn/vinhomes-smart-city/"
+                                            href="https://linkedin.com/shareArticle?mini=true&amp;title=Vinhomes%20Smart%20City&amp;url=http://localhost/vungnguyen/vinhomes-smart-city/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on LinkedIn" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on LinkedIn</span></a></li>
@@ -729,18 +729,18 @@
                                                 class="avia_hidden_link_text">Share on Tumblr</span></a></li>
                                     <li class="av-share-link av-social-link-vk"><a target="_blank"
                                             aria-label="Share on Vk"
-                                            href="https://vk.com/share.php?url=https://vinhomesland.vn/vinhomes-smart-city/"
+                                            href="https://vk.com/share.php?url=http://localhost/vungnguyen/vinhomes-smart-city/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Vk" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Vk</span></a></li>
                                     <li class="av-share-link av-social-link-reddit"><a target="_blank"
                                             aria-label="Share on Reddit"
-                                            href="https://reddit.com/submit?url=https://vinhomesland.vn/vinhomes-smart-city/&amp;title=Vinhomes%20Smart%20City"
+                                            href="https://reddit.com/submit?url=http://localhost/vungnguyen/vinhomes-smart-city/&amp;title=Vinhomes%20Smart%20City"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Reddit" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Reddit</span></a></li>
                                     <li class="av-share-link av-social-link-mail"><a aria-label="Share by Mail"
-                                            href="mailto:?subject=Vinhomes%20Smart%20City&amp;body=https://vinhomesland.vn/vinhomes-smart-city/"
+                                            href="mailto:?subject=Vinhomes%20Smart%20City&amp;body=http://localhost/vungnguyen/vinhomes-smart-city/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share by Mail"><span
                                                 class="avia_hidden_link_text">Share by Mail</span></a></li>
@@ -760,159 +760,159 @@
                             <ul id="menu-vinhomes-smart-city" class="menu">
                                 <li id="menu-item-29944"
                                     class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-29944">
-                                    <a href="https://vinhomesland.vn/vinhomes-smart-city/" aria-current="page">Tổng quan
+                                    <a href="http://localhost/vungnguyen/vinhomes-smart-city/" aria-current="page">Tổng quan
                                         dự án</a>
                                 </li>
                                 <li id="menu-item-29945"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29945"><a
-                                        href="https://vinhomesland.vn/shophouse-vinhomes-smart-city/">Shophouse</a></li>
+                                        href="http://localhost/vungnguyen/shophouse-vinhomes-smart-city/">Shophouse</a></li>
                                 <li id="menu-item-36118"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-36118"><a
-                                        href="https://vinhomesland.vn/phan-khu-the-metrolines-vinhomes-smart-city/">Phân
+                                        href="http://localhost/vungnguyen/phan-khu-the-metrolines-vinhomes-smart-city/">Phân
                                         khu The Metrolines</a></li>
                                 <li id="menu-item-36157"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-36157">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-miami-vinhomes-smart-city/">Phân khu
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-miami-vinhomes-smart-city/">Phân khu
                                         The Miami</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-36450"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-36450">
-                                            <a href="https://vinhomesland.vn/toa-gs1-vinhomes-smart-city/">Tòa GS1</a>
+                                            <a href="http://localhost/vungnguyen/toa-gs1-vinhomes-smart-city/">Tòa GS1</a>
                                         </li>
                                         <li id="menu-item-34907"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-34907">
-                                            <a href="https://vinhomesland.vn/toa-gs2-vinhomes-smart-city/">Tòa GS2</a>
+                                            <a href="http://localhost/vungnguyen/toa-gs2-vinhomes-smart-city/">Tòa GS2</a>
                                         </li>
                                         <li id="menu-item-35080"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-35080">
-                                            <a href="https://vinhomesland.vn/toa-gs3-vinhomes-smart-city/">Tòa GS3</a>
+                                            <a href="http://localhost/vungnguyen/toa-gs3-vinhomes-smart-city/">Tòa GS3</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-36176"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-36176">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-sakura-vinhomes-smart-city/">Phân khu
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-sakura-vinhomes-smart-city/">Phân khu
                                         The Sakura</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-36318"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-36318">
-                                            <a href="https://vinhomesland.vn/toa-sa2-vinhomes-smart-city/">Tòa SA2</a>
+                                            <a href="http://localhost/vungnguyen/toa-sa2-vinhomes-smart-city/">Tòa SA2</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-29946"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-29946">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-sapphire-1-vinhomes-smart-city/">Phân
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-sapphire-1-vinhomes-smart-city/">Phân
                                         khu The Sapphire 1</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-29951"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29951">
-                                            <a href="https://vinhomesland.vn/toa-s101-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s101-vinhomes-smart-city/">Tòa
                                                 S1.01</a>
                                         </li>
                                         <li id="menu-item-29950"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29950">
-                                            <a href="https://vinhomesland.vn/toa-s102-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s102-vinhomes-smart-city/">Tòa
                                                 S1.02</a>
                                         </li>
                                         <li id="menu-item-29949"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29949">
-                                            <a href="https://vinhomesland.vn/toa-s103-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s103-vinhomes-smart-city/">Tòa
                                                 S1.03</a>
                                         </li>
                                         <li id="menu-item-29948"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29948">
-                                            <a href="https://vinhomesland.vn/toa-s105-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s105-vinhomes-smart-city/">Tòa
                                                 S1.05</a>
                                         </li>
                                         <li id="menu-item-29947"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29947">
-                                            <a href="https://vinhomesland.vn/toa-s106-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s106-vinhomes-smart-city/">Tòa
                                                 S1.06</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-29952"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-29952">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-sapphire-2-vinhomes-smart-city/">Phân
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-sapphire-2-vinhomes-smart-city/">Phân
                                         khu The Sapphire 2</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-29954"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29954">
-                                            <a href="https://vinhomesland.vn/toa-s201-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s201-vinhomes-smart-city/">Tòa
                                                 S2.01</a>
                                         </li>
                                         <li id="menu-item-29953"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29953">
-                                            <a href="https://vinhomesland.vn/toa-s202-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s202-vinhomes-smart-city/">Tòa
                                                 S2.02</a>
                                         </li>
                                         <li id="menu-item-34952"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-34952">
-                                            <a href="https://vinhomesland.vn/toa-s203-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s203-vinhomes-smart-city/">Tòa
                                                 S2.03</a>
                                         </li>
                                         <li id="menu-item-36069"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-36069">
-                                            <a href="https://vinhomesland.vn/toa-s205-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s205-vinhomes-smart-city/">Tòa
                                                 S2.05</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-29955"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-29955">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-sapphire-3-vinhomes-smart-city/">Phân
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-sapphire-3-vinhomes-smart-city/">Phân
                                         khu The Sapphire 3</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-29958"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29958">
-                                            <a href="https://vinhomesland.vn/toa-s301-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s301-vinhomes-smart-city/">Tòa
                                                 S3.01</a>
                                         </li>
                                         <li id="menu-item-29957"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29957">
-                                            <a href="https://vinhomesland.vn/toa-s302-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s302-vinhomes-smart-city/">Tòa
                                                 S3.02</a>
                                         </li>
                                         <li id="menu-item-29956"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-29956">
-                                            <a href="https://vinhomesland.vn/toa-s303-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s303-vinhomes-smart-city/">Tòa
                                                 S3.03</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-31103"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-31103">
-                                    <a href="https://vinhomesland.vn/phan-khu-the-sapphire-4-vinhomes-smart-city/">Phân
+                                    <a href="http://localhost/vungnguyen/phan-khu-the-sapphire-4-vinhomes-smart-city/">Phân
                                         khu The Sapphire 4</a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-31952"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31952">
-                                            <a href="https://vinhomesland.vn/toa-s401-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s401-vinhomes-smart-city/">Tòa
                                                 S4.01</a>
                                         </li>
                                         <li id="menu-item-33624"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33624">
-                                            <a href="https://vinhomesland.vn/toa-s402-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s402-vinhomes-smart-city/">Tòa
                                                 S4.02</a>
                                         </li>
                                         <li id="menu-item-31110"
                                             class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31110">
-                                            <a href="https://vinhomesland.vn/toa-s403-vinhomes-smart-city/">Tòa
+                                            <a href="http://localhost/vungnguyen/toa-s403-vinhomes-smart-city/">Tòa
                                                 S4.03</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li id="menu-item-33996"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33996"><a
-                                        href="https://vinhomesland.vn/imperia-smart-city/">Imperia Smart City</a></li>
+                                        href="http://localhost/vungnguyen/imperia-smart-city/">Imperia Smart City</a></li>
                                 <li id="menu-item-36303"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-36303"><a
-                                        href="https://vinhomesland.vn/masteri-west-heights/">Masteri West Heights</a>
+                                        href="http://localhost/vungnguyen/masteri-west-heights/">Masteri West Heights</a>
                                 </li>
                                 <li id="menu-item-33625"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-33625"><a
-                                        href="https://vinhomesland.vn/vuon-nhat-vinhomes-smart-city/">Vườn Nhật</a></li>
+                                        href="http://localhost/vungnguyen/vuon-nhat-vinhomes-smart-city/">Vườn Nhật</a></li>
                             </ul>
                         </div>
                     </div>

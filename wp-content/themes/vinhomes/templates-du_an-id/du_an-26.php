@@ -34,7 +34,7 @@
                             <div class="avia_textblock  av_inherit_color " style="color:#ffffff; " itemprop="text">
                                 <p>Vinhomes Green Villas tọa lạc trên đường Quang Tiến, phường Đại Mỗ, quận Nam Từ Liêm,
                                     Hà Nội. Với lợi thế nằm ngay bên cạnh&nbsp;<a
-                                        href="https://vinhomesland.vn/vinhomes-smart-city/">đại đô thị Vinhomes Smart
+                                        href="http://localhost/vungnguyen/vinhomes-smart-city/">đại đô thị Vinhomes Smart
                                         City</a>, dự án được thừa hưởng trọn vẹn hạ tầng cảnh quan, tiện ích, bao gồm
                                     trường học, bệnh viện, trung tâm thương mại, công viên cây xanh… Ngoài ra, theo bản
                                     đồ quy hoạch phát triển của Hà Nội, trong thời gian tới khu vực quận Nam Từ Liêm,
@@ -60,10 +60,10 @@
                     itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                     <div class="avia-image-container-inner">
                         <div class="avia-image-overlay-wrap"><img loading="lazy" class="wp-image-20693 avia_image"
-                                src="https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas.jpg"
+                                src="http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas.jpg"
                                 alt="vi-tri-vinhomes-green-villas" title="Vị trí Vinhomes Green Villas" height="1000"
                                 width="1500" itemprop="thumbnailUrl"
-                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-705x470.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-450x300.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-272x182.jpg 272w"
+                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-705x470.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-450x300.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/04/vi-tri-vinhomes-green-villas-272x182.jpg 272w"
                                 sizes="(max-width: 1500px) 100vw, 1500px"></div>
                     </div>
                 </div>
@@ -98,13 +98,13 @@
                     itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                     <div class="avia-image-container-inner">
                         <div class="avia-image-overlay-wrap"><a
-                                href="https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg"
+                                href="http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg"
                                 class="avia_image"><img loading="lazy" width="6000" height="5000"
                                     class="wp-image-20178 avia_image"
-                                    src="https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg"
+                                    src="http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg"
                                     alt="mat-bang-tong-the-vinhomes-green-villas"
                                     title="Mặt bằng tổng thể Vinhomes Green Villas" itemprop="thumbnailUrl"
-                                    srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg 6000w, https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-1030x858.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-1500x1250.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-705x588.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-450x375.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-768x640.jpg 768w"
+                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas.jpg 6000w, http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-1030x858.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-1500x1250.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-705x588.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-450x375.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/mat-bang-tong-the-vinhomes-green-villas-768x640.jpg 768w"
                                     sizes="(max-width: 6000px) 100vw, 6000px"><span
                                     class="image-overlay overlay-type-image"><span
                                         class="image-overlay-inside"></span></span></a></div>
@@ -159,36 +159,36 @@
                                         <div class="av-horizontal-gallery-wrap noHover"><img
                                                 class="wp-image-20182 av-horizontal-gallery-img" width="800"
                                                 height="450"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg"
                                                 title="Không gian xanh Vinhomes Green Villas"
                                                 alt="khong-gian-xanh-vinhomes-green-villas"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-450x253.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-768x432.jpg 768w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-450x253.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas-768x432.jpg 768w"
                                                 sizes="(max-width: 800px) 100vw, 800px" style="display: block;"><a
-                                                href="https://vinhomesland.vn/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg"
+                                                href="http://localhost/vungnguyen/wp-content/uploads/2019/04/khong-gian-xanh-vinhomes-green-villas.jpg"
                                                 class="av-horizontal-gallery-link" aria-hidden="true" data-av_icon=""
                                                 data-av_iconfont="entypo-fontello"
                                                 title="Không gian xanh Vinhomes Green Villas"></a></div>
                                         <div class="av-horizontal-gallery-wrap noHover av-active-gal-item"><img
                                                 class="wp-image-20184 av-horizontal-gallery-img" width="800"
                                                 height="450"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg"
                                                 title="Hồ cảnh quan Vinhomes Green Villas"
                                                 alt="ho-canh-quan-vinhomes-green-villas"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-450x253.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-768x432.jpg 768w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-450x253.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas-768x432.jpg 768w"
                                                 sizes="(max-width: 800px) 100vw, 800px" style="display: block;"><a
-                                                href="https://vinhomesland.vn/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg"
+                                                href="http://localhost/vungnguyen/wp-content/uploads/2019/04/ho-canh-quan-vinhomes-green-villas.jpg"
                                                 class="av-horizontal-gallery-link" aria-hidden="true" data-av_icon=""
                                                 data-av_iconfont="entypo-fontello"
                                                 title="Hồ cảnh quan Vinhomes Green Villas"></a></div>
                                         <div class="av-horizontal-gallery-wrap noHover"><img
                                                 class="wp-image-20185 av-horizontal-gallery-img" width="800"
                                                 height="450"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg"
                                                 title="Sân chơi trẻ nhỏ Vinhomes Green Villas"
                                                 alt="san-choi-tre-nho-vinhomes-green-villas"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-450x253.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-768x432.jpg 768w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-450x253.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas-768x432.jpg 768w"
                                                 sizes="(max-width: 800px) 100vw, 800px" style="display: block;"><a
-                                                href="https://vinhomesland.vn/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg"
+                                                href="http://localhost/vungnguyen/wp-content/uploads/2019/04/san-choi-tre-nho-vinhomes-green-villas.jpg"
                                                 class="av-horizontal-gallery-link" aria-hidden="true" data-av_icon=""
                                                 data-av_iconfont="entypo-fontello"
                                                 title="Sân chơi trẻ nhỏ Vinhomes Green Villas"></a></div>
@@ -221,11 +221,11 @@
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img loading="lazy"
                                             class="wp-image-32106 avia_image"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg"
                                             alt="ho-ca-chep-vuon-nhat-vinhomes-smart-city"
                                             title="Hồ cá chép vườn Nhật Vinhomes Smart City" height="450" width="800"
                                             itemprop="thumbnailUrl"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
                                             sizes="(max-width: 800px) 100vw, 800px"></div>
                                 </div>
                             </div>
@@ -242,7 +242,7 @@
                             <section class="av_textblock_section " itemscope="itemscope"
                                 itemtype="https://schema.org/CreativeWork">
                                 <div class="avia_textblock  " itemprop="text">
-                                    <p><a href="https://vinhomesland.vn/vuon-nhat-vinhomes-smart-city/">Vườn Nhật
+                                    <p><a href="http://localhost/vungnguyen/vuon-nhat-vinhomes-smart-city/">Vườn Nhật
                                             Bản</a> nằm ngay cổng chính khu đô thị là tiện ích vô cùng độc đáo mà
                                         Vingroup muốn dành tặng cho cả cư dân chung cư Vinhomes Smart City lẫn cư dân
                                         biệt thự Vinhomes Green Villas. Đây chính là <strong>khu vườn Nhật lớn nhất tại
@@ -263,11 +263,11 @@
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img loading="lazy"
                                             class="wp-image-32106 avia_image"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg"
                                             alt="ho-ca-chep-vuon-nhat-vinhomes-smart-city"
                                             title="Hồ cá chép vườn Nhật Vinhomes Smart City" height="450" width="800"
                                             itemprop="thumbnailUrl"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/03/ho-ca-chep-vuon-nhat-vinhomes-smart-city-705x397.jpg 705w"
                                             sizes="(max-width: 800px) 100vw, 800px"></div>
                                 </div>
                             </div>
@@ -279,10 +279,10 @@
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img loading="lazy"
                                             class="wp-image-32518 avia_image"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg"
                                             alt="vincom-mega-mall-smart-city" title="Vincom Mega Mall Smart City"
                                             height="450" width="800" itemprop="thumbnailUrl"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-705x397.jpg 705w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vincom-mega-mall-smart-city-705x397.jpg 705w"
                                             sizes="(max-width: 800px) 100vw, 800px"></div>
                                 </div>
                             </div>
@@ -359,11 +359,11 @@
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img loading="lazy"
                                             class="wp-image-20181 avia_image"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas.jpg"
+                                            src="http://localhost/vungnguyen/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas.jpg"
                                             alt="biet-thu-don-lap-vinhomes-green-villas"
                                             title="Biệt thự đơn lập Vinhomes Green Villas" height="450" width="800"
                                             itemprop="thumbnailUrl"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-450x253.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-768x432.jpg 768w"
+                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-450x253.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2019/04/biet-thu-don-lap-vinhomes-green-villas-768x432.jpg 768w"
                                             sizes="(max-width: 800px) 100vw, 800px"></div>
                                 </div>
                             </div>
@@ -406,10 +406,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img class="alignnone size-full wp-image-21332"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl01-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -424,10 +424,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21334"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl02-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -442,10 +442,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21335"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl03-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -460,10 +460,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21336"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl04-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -478,10 +478,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21337"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl05-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -496,10 +496,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21339"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl06-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -514,10 +514,10 @@
                                     style="min-height: 349.25px;">
                                     <div class="tab_inner_content invers-color" itemprop="text">
                                         <p><img loading="lazy" class="alignnone size-full wp-image-21340"
-                                                src="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas.jpg"
+                                                src="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas.jpg"
                                                 alt="mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas" width="2000"
                                                 height="2000"
-                                                srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-80x80.jpg 80w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-768x768.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-1030x1030.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-36x36.jpg 36w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-180x180.jpg 180w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-1500x1500.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-705x705.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-120x120.jpg 120w, https://vinhomesland.vn/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-450x450.jpg 450w"
+                                                srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas.jpg 2000w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-768x768.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-1030x1030.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-36x36.jpg 36w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-180x180.jpg 180w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-1500x1500.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-705x705.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-120x120.jpg 120w, http://localhost/vungnguyen/wp-content/uploads/2019/05/mat-bang-biet-thu-don-lap-dl07-vinhomes-green-villas-450x450.jpg 450w"
                                                 sizes="(max-width: 2000px) 100vw, 2000px"></p>
 
                                     </div>
@@ -575,9 +575,9 @@
                                     hợp muốn mua trực tiếp từ chủ đầu tư Vingroup, bạn có thể tham khảo một số dự án mới
                                     nhất đang được mở bán của chúng tôi:</p>
                                 <ul>
-                                    <li><a href="https://vinhomesland.vn/vinhomes-ocean-park/">Vinhomes Ocean Park</a>
+                                    <li><a href="http://localhost/vungnguyen/vinhomes-ocean-park/">Vinhomes Ocean Park</a>
                                         (Huyện Gia Lâm, Hà Nội)</li>
-                                    <li><a href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/">Vinhomes
+                                    <li><a href="http://localhost/vungnguyen/vinhomes-ocean-park-2-the-empire/">Vinhomes
                                             Ocean Park 2 The Empire</a> (Huyện Văn Giang, Hưng Yên)</li>
                                 </ul>
                             </div>
@@ -589,7 +589,7 @@
     </div>
     <div id="av_section_5"
         class="avia-section main_color avia-section-default avia-no-shadow  avia-full-stretch av-section-color-overlay-active avia-bg-style-scroll  avia-builder-el-47  el_after_av_textblock  avia-builder-el-last   container_wrap fullsize"
-        style="background-repeat: no-repeat; background-image: url(https://vinhomesland.vn/wp-content/uploads/2022/07/vinhomes-ocean-park-background.jpg);background-attachment: scroll; background-position: bottom left;  "
+        style="background-repeat: no-repeat; background-image: url(http://localhost/vungnguyen/wp-content/uploads/2022/07/vinhomes-ocean-park-background.jpg);background-attachment: scroll; background-position: bottom left;  "
         data-section-bg-repeat="stretch">
         <div class="av-section-color-overlay-wrap">
             <div class="av-section-color-overlay" style="opacity: 0.7; background-color: #000000; "></div>
@@ -605,7 +605,7 @@
                                             SÂU DỰ ÁN</span></p>
                                 </div>
                             </section>
-                            <form action="https://vinhomesland.vn/vinhomes-green-villas/" method="post"
+                            <form action="http://localhost/vungnguyen/vinhomes-green-villas/" method="post"
                                 class="avia_ajax_form av-form-labels-hidden   avia-builder-el-49  el_after_av_textblock  avia-builder-el-last   "
                                 data-avia-form-id="1" data-avia-redirect="">
                                 <fieldset>

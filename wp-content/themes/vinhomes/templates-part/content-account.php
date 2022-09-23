@@ -9,7 +9,7 @@
 
 ?>
 
-<form action="https://vinhomesland.vn/lien-he/" method="post"
+<form action="http://localhost/vungnguyen/lien-he/" method="post"
     class="avia_ajax_form av-form-labels-hidden   avia-builder-el-3  avia-builder-el-no-sibling   "
     data-avia-form-id="1" data-avia-redirect="">
     <fieldset>

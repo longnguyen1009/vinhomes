@@ -15,7 +15,7 @@
             <p style="text-align: center;"><span style="font-size: 20px; text-transform: uppercase; color: #fff;">Đăng
                     ký tư
                     vấn</span></p>
-            <form action="https://vinhomesland.vn/vinhomes-symphony/" method="post"
+            <form action="http://localhost/vungnguyen/vinhomes-symphony/" method="post"
                 class="avia_ajax_form av-form-labels-hidden    " data-avia-form-id="2" data-avia-redirect="">
                 <fieldset>
                     <p class="  first_form  form_element form_fullwidth" id="element_avia_1_2">

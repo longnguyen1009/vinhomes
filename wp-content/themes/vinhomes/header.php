@@ -32,7 +32,7 @@
 
                 <div class="container av-logo-container">
                     <div class="inner-container"><span class="logo"><a href="#"><img height="100" width="300"
-                                    src="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png"
+                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png"
                                     alt="Vinhomes Land" title=""></a></span>
                         <nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope"
                             itemtype="https://schema.org/SiteNavigationElement">
@@ -73,94 +73,94 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-30134"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-symphony/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-symphony/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Symphony</span></a>
                                                         </li>
                                                         <li id="menu-item-38291"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                            <a href="https://vinhomesland.vn/vinhomes-green-villas/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-green-villas/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Green
                                                                     Villas</span></a>
                                                         </li>
                                                         <li id="menu-item-29943"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-smart-city/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-smart-city/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Smart
                                                                     City</span></a>
                                                         </li>
                                                         <li id="menu-item-37848"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                            <a href="https://vinhomesland.vn/vinhomes-ocean-park/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-ocean-park/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Ocean
                                                                     Park</span></a>
                                                         </li>
                                                         <li id="menu-item-30451"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-west-point/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-west-point/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes West
                                                                     Point</span></a>
                                                         </li>
                                                         <li id="menu-item-31634"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-green-bay/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-green-bay/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Green Bay</span></a>
                                                         </li>
                                                         <li id="menu-item-31510"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-skylake/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-skylake/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Skylake</span></a>
                                                         </li>
                                                         <li id="menu-item-31562"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-metropolis/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-metropolis/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes
                                                                     Metropolis</span></a>
                                                         </li>
                                                         <li id="menu-item-31776"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-thang-long/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-thang-long/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Thăng
                                                                     Long</span></a>
                                                         </li>
                                                         <li id="menu-item-31705"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-gardenia/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-gardenia/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Gardenia</span></a>
                                                         </li>
                                                         <li id="menu-item-30214"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-nguyen-chi-thanh/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-nguyen-chi-thanh/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Nguyễn Chí
                                                                     Thanh</span></a>
                                                         </li>
                                                         <li id="menu-item-30786"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-times-city/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-times-city/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Times
                                                                     City</span></a>
                                                         </li>
                                                         <li id="menu-item-31444"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-royal-city/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-royal-city/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Royal
                                                                     City</span></a>
                                                         </li>
                                                         <li id="menu-item-30870"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-riverside/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-riverside/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Riverside</span></a>
                                                         </li>
@@ -173,21 +173,21 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-31921"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-grand-park/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-grand-park/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Grand
                                                                     Park</span></a>
                                                         </li>
                                                         <li id="menu-item-35544"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-golden-river/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-golden-river/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Golden
                                                                     River</span></a>
                                                         </li>
                                                         <li id="menu-item-32487"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-central-park/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-central-park/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Central
                                                                     Park</span></a>
@@ -201,39 +201,39 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-36952"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                            <a href="https://vinhomesland.vn/vinhomes-ocean-park-2-the-empire/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-ocean-park-2-the-empire/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Ocean Park 2 The
                                                                     Empire</span></a>
                                                         </li>
                                                         <li id="menu-item-35687"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-marina/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-marina/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Marina</span></a>
                                                         </li>
                                                         <li id="menu-item-37984"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                            <a href="https://vinhomesland.vn/vinhomes-new-center/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-new-center/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes New
                                                                     Center</span></a>
                                                         </li>
                                                         <li id="menu-item-31993"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-star-city/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-star-city/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Star City</span></a>
                                                         </li>
                                                         <li id="menu-item-35617"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-imperia/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-imperia/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Imperia</span></a>
                                                         </li>
                                                         <li id="menu-item-31967"
                                                             class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                            <a href="https://vinhomesland.vn/vinhomes-dragon-bay/"
+                                                            <a href="http://localhost/vungnguyen/vinhomes-dragon-bay/"
                                                                 itemprop="url"><span class="avia-bullet"></span><span
                                                                     class="avia-menu-text">Vinhomes Dragon
                                                                     Bay</span></a>
@@ -262,7 +262,7 @@
                                         class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a
                                             aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
 
-<form role=&quot;search&quot; action=&quot;https://vinhomesland.vn/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
+<form role=&quot;search&quot; action=&quot;http://localhost/vungnguyen/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
 <div>
 <input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; />
 <input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' />

@@ -24,7 +24,6 @@ get_header();
 
 <?php get_template_part('templates-part/content', 'fixed'); ?>
 
-
 <?php
 
 get_footer();

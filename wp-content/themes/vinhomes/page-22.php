@@ -19,7 +19,7 @@ get_header();
 
     <div class="stretch_full container_wrap alternate_color light_bg_color title_container">
         <div class="container">
-            <h1 class="main-title entry-title "><a href="https://vinhomesland.vn/lien-he/" rel="bookmark"
+            <h1 class="main-title entry-title "><a href="http://localhost/vungnguyen/lien-he/" rel="bookmark"
                     title="Permanent Link: Liên hệ" itemprop="headline">Liên hệ</a></h1>
         </div>
     </div>

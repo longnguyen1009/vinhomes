@@ -12,7 +12,7 @@ get_header();
     <?php
         $id = get_the_ID();
         get_template_part('templates-du_an-id/du_an', $id);
-        get_template_part('templates-part/content', 'fixed') ;       
+        get_template_part('templates-part/content', 'fixed');       
     ?>
 
 <?php

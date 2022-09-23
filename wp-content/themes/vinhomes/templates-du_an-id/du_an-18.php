@@ -14,7 +14,7 @@
     <?php get_template_part('templates-du_an/du_an', 'breadcrumb'); ?>
 
     <?php get_template_part('templates-du_an/du_an', 'banner-odd'); ?>
-    
+
     <div id="after_submenu_1" class="main_color av_default_container_wrap container_wrap sidebar_right" style=" ">
         <div class="container">
             <div class="template-page content  av-content-small alpha units">
@@ -83,65 +83,94 @@
                                 </div>
 
                                 <?php get_template_part('templates-du_an/du_an', 'des-odd'); ?>
+                                
+                                <h2><span id="Vi_tri_du_an_Vinhomes_Symphony">Vị trí dự án Vinhomes Symphony</span></h2>
+                                <p>Vinhomes Symphony tọa lạc tại điểm giao giữa 2 tuyến đường Chu Huy Mân và Hội Xá,
+                                    thuộc phường Phúc Lợi, quận Long Biên, Hà Nội. Sở hữu hạ tầng giao thông phát triển,
+                                    với nhiều tuyến đường rộng lớn với 6 – 8 làn xe như Chu Huy Mân, Đoàn Khuê, Nguyễn
+                                    Văn Linh, Ngô Gia Tự… chung cư Vinhomes Riverside dễ dàng kết nối tới cả trung tâm
+                                    thành phố cũng như các tỉnh thành lân cận như Bắc Ninh, Bắc Giang, Hưng Yên, Hải
+                                    Dương, Hải Phòng…</p>
+                                <p>Bên cạnh đó, đây còn là một trong những vị trí rất đẹp trong <a
+                                        href="http://localhost/vungnguyen/vinhomes-riverside/">khu đô thị Vinhomes
+                                        Riverside</a>, bởi ngay đối diện là khu trung tâm thương mại Vincom Plaza sầm
+                                    uất, với vô số các cửa hàng mua sắm, nhà hàng ẩm thực, siêu thị, rạp chiếu phim và
+                                    đặc biệt là&nbsp;<strong>bể bơi vô cực rộng 2.580 m2</strong>&nbsp;nằm trên tầng
+                                    mái.</p>
+
+                                <div id="attachment_30120" style="width: 1510px" class="wp-caption alignnone"><a
+                                        href="<?php echo wp_get_attachment_url(291); ?>"
+                                        style="position: relative; overflow: hidden; display: block;"><img
+                                            aria-describedby="caption-attachment-30120" loading="lazy"
+                                            class="wp-image-30120 size-full"
+                                            src="<?php echo wp_get_attachment_url(291); ?>"
+                                            alt="vi-tri-vinhomes-symphony" width="1500" height="1250"
+                                            srcset="<?php echo wp_get_attachment_url(291); ?> 1500w, <?php echo wp_get_attachment_url(291); ?> 1030w, "<?php echo wp_get_attachment_url(291); ?> 705w"
+                                            sizes="(max-width: 1500px) 100vw, 1500px"><span
+                                            class="image-overlay overlay-type-image"
+                                            style="left: -5px; top: 0px; overflow: hidden; display: block; height: 670.828px; width: 813px;"><span
+                                                class="image-overlay-inside"></span></span></a>
+                                    <p id="caption-attachment-30120" class="wp-caption-text">Vị trí dự án Vinhomes
+                                        Symphony</p>
+                                </div>
 
                                 <h2><span id="Quy_mo_chung_cu_Vinhomes_Symphony">Quy mô chung cư Vinhomes
                                         Symphony</span></h2>
                                 <p>Vinhomes Symphony Riverside được phát triển với 7 tòa tháp cao từ 10 – 15 tầng: S1,
                                     S2, S3, S5, S6.A, S6.B, tháp văn phòng. Trong đó:</p>
                                 <ul>
-                                    <li>Tòa <a href="https://vinhomesland.vn/toa-s5-vinhomes-symphony/">S5</a> và tòa
+                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s5-vinhomes-symphony/">S5</a> và tòa
                                         tháp văn phòng cùng chung khối đế, nằm trên đường Chu Huy Mân, đối diện với
                                         trung tâm thương mại Vincom Plaza Long Biên.</li>
-                                    <li>Tòa <a href="https://vinhomesland.vn/toa-s6-vinhomes-symphony/">S6.A</a> và tòa
-                                        <a href="https://vinhomesland.vn/toa-s6-vinhomes-symphony/">S6.B</a> cùng chung
+                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.A</a> và tòa
+                                        <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.B</a> cùng chung
                                         khối đế, nằm trên đường Hội Xá.
                                     </li>
-                                    <li>Tòa <a href="https://vinhomesland.vn/toa-s1-vinhomes-symphony/">S1</a>, <a
-                                            href="https://vinhomesland.vn/toa-s2-vinhomes-symphony/">S2</a>, <a
-                                            href="https://vinhomesland.vn/toa-s3-vinhomes-symphony/">S3</a> nằm bên
+                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s1-vinhomes-symphony/">S1</a>, <a
+                                            href="http://localhost/vungnguyen/toa-s2-vinhomes-symphony/">S2</a>, <a
+                                            href="http://localhost/vungnguyen/toa-s3-vinhomes-symphony/">S3</a> nằm bên
                                         trong nội khu, hướng về phía công viên khủng long và khu biệt thự Vinhomes
                                         Riverside.</li>
                                 </ul>
-                                <div id="attachment_29322" style="width: 2010px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony.jpg"
+                                <div id="attachment_29222" style="width: 2010px" class="wp-caption alignnone"><a href="<?php echo wp_get_attachment_url(296); ?>"
                                         style="position: relative; overflow: hidden;"><img
-                                            aria-describedby="caption-attachment-29322" loading="lazy"
-                                            class="wp-image-29322 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony.jpg"
+                                            aria-describedby="caption-attachment-29222" loading="lazy"
+                                            class="wp-image-29222 size-full"
+                                            src="<?php echo wp_get_attachment_url(296); ?>"
                                             alt="mat-bang-tong-the-vinhomes-symphony" width="2000" height="1250"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony-768x480.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony-1030x644.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony-1536x960.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony-1500x938.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tong-the-vinhomes-symphony-705x441.jpg 705w"
+                                            srcset="<?php echo wp_get_attachment_url(296); ?> 2000w, <?php echo wp_get_attachment_url(296); ?> 705w"
                                             sizes="(max-width: 2000px) 100vw, 2000px"><span
                                             class="image-overlay overlay-type-image"><span
                                                 class="image-overlay-inside"></span></span></a>
-                                    <p id="caption-attachment-29322" class="wp-caption-text">Mặt bằng tổng thể chung cư
+                                    <p id="caption-attachment-29222" class="wp-caption-text">Mặt bằng tổng thể chung cư
                                         Vinhomes Symphony</p>
                                 </div>
                                 <h2><span id="Mat_bang_thiet_ke_Vinhomes_Symphony">Mặt bằng thiết kế Vinhomes
                                         Symphony</span></h2>
                                 <h3><span id="Mat_bang_toa_S1">Mặt bằng tòa S1</span></h3>
-                                <div id="attachment_29334" style="width: 2010px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony.jpg"
+                                <div id="attachment_29234" style="width: 2010px" class="wp-caption alignnone"><a
+                                        href="<?php echo wp_get_attachment_url(292); ?>"
                                         style="position: relative; overflow: hidden;"><img
-                                            aria-describedby="caption-attachment-29334" loading="lazy"
-                                            class="wp-image-29334 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony.jpg"
+                                            aria-describedby="caption-attachment-29234" loading="lazy"
+                                            class="wp-image-29234 size-full"
+                                            src="<?php echo wp_get_attachment_url(292); ?>"
                                             alt="mat-bang-tang-2-10-toa-s1-vinhomes-symphony" width="2000" height="1500"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s1-vinhomes-symphony-705x529.jpg 705w"
+                                            srcset="<?php echo wp_get_attachment_url(292); ?> 2000w, <?php echo wp_get_attachment_url(292); ?> 768w, <?php echo wp_get_attachment_url(292); ?> 1030w, <?php echo wp_get_attachment_url(292); ?> 1536w, <?php echo wp_get_attachment_url(292); ?> 1500w, <?php echo wp_get_attachment_url(296); ?> 705w"
                                             sizes="(max-width: 2000px) 100vw, 2000px"><span
                                             class="image-overlay overlay-type-image"><span
                                                 class="image-overlay-inside"></span></span></a>
-                                    <p id="caption-attachment-29334" class="wp-caption-text">Mặt bằng tòa S1 Vinhomes
+                                    <p id="caption-attachment-29234" class="wp-caption-text">Mặt bằng tòa S1 Vinhomes
                                         Symphony</p>
                                 </div>
                                 <h3><span id="Mat_bang_toa_S2">Mặt bằng tòa S2</span></h3>
                                 <div id="attachment_30125" style="width: 2010px" class="wp-caption alignnone"><a
-                                        href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony.jpg"
+                                        href="<?php echo wp_get_attachment_url(293); ?>"
                                         style="position: relative; overflow: hidden;"><img
                                             aria-describedby="caption-attachment-30125" loading="lazy"
                                             class="wp-image-30125 size-full"
-                                            src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony.jpg"
+                                            src="<?php echo wp_get_attachment_url(293); ?>"
                                             alt="mat-bang-tang-2-12-toa-s2-vinhomes-symphony" width="2000" height="1500"
-                                            srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-12-toa-s2-vinhomes-symphony-705x529.jpg 705w"
+                                            srcset="<?php echo wp_get_attachment_url(293); ?> 2000w, <?php echo wp_get_attachment_url(293); ?> 768w, <?php echo wp_get_attachment_url(293); ?> 1030w, <?php echo wp_get_attachment_url(293); ?> 1536w, <?php echo wp_get_attachment_url(293); ?> 1500w, <?php echo wp_get_attachment_url(296); ?> 705w"
                                             sizes="(max-width: 2000px) 100vw, 2000px"><span
                                             class="image-overlay overlay-type-image"><span
                                                 class="image-overlay-inside"></span></span></a>
@@ -167,14 +196,14 @@
                                     10</div>
                                 <div id="tab-id-1" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony.jpg"
+                                        <p><a href="<?php echo wp_get_attachment_url(294); ?>"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
-                                                    loading="lazy" class="alignnone wp-image-29335 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony.jpg"
+                                                    loading="lazy" class="alignnone wp-image-29235 size-full"
+                                                    src="<?php echo wp_get_attachment_url(294); ?>"
                                                     alt="mat-bang-tang-2-10-toa-s3-vinhomes-symphony" width="2000"
                                                     height="1500"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-2-10-toa-s3-vinhomes-symphony-705x529.jpg 705w"
+                                                    srcset="<?php echo wp_get_attachment_url(294); ?> 2000w,<?php echo wp_get_attachment_url(294); ?> 768w, <?php echo wp_get_attachment_url(294); ?> 705w"
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -189,14 +218,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 11 - 12</div>
                                 <div id="tab-id-2" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony.jpg"
+                                        <p><a href="<?php echo wp_get_attachment_url(297); ?>"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
-                                                    loading="lazy" class="alignnone wp-image-29336 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony.jpg"
+                                                    loading="lazy" class="alignnone wp-image-29236 size-full"
+                                                    src="<?php echo wp_get_attachment_url(297); ?>"
                                                     alt="mat-bang-tang-11-12-toa-s3-vinhomes-symphony" width="2000"
                                                     height="1500"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2019/11/mat-bang-tang-11-12-toa-s3-vinhomes-symphony-705x529.jpg 705w"
+                                                    srcset="<?php echo wp_get_attachment_url(297); ?> 2000w, <?php echo wp_get_attachment_url(297); ?> 1500w, <?php echo wp_get_attachment_url(297); ?> 705w"
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -229,14 +258,14 @@
                                     5</div>
                                 <div id="tab-id-3" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony.jpg"
+                                        <p><a href=""
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31287 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony.jpg"
+                                                    src=""
                                                     alt="mat-bang-tang-2-5-toa-s5-vinhomes-symphony" width="2000"
                                                     height="1500"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-5-toa-s5-vinhomes-symphony-705x529.jpg 705w"
+                                                    srcset=" 2000w, <?php echo wp_get_attachment_url(295); ?> 768w, <?php echo wp_get_attachment_url(295); ?> 1030w, <?php echo wp_get_attachment_url(294); ?> 1536w, <?php echo wp_get_attachment_url(294); ?> 705w"
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -251,14 +280,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 6 - 15</div>
                                 <div id="tab-id-4" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony.jpg"
+                                        <p><a href="<?php echo wp_get_attachment_url(298); ?>"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
-                                                    loading="lazy" class="alignnone wp-image-31291 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony.jpg"
+                                                    loading="lazy" class="alignnone wp-image-31296 size-full"
+                                                    src="<?php echo wp_get_attachment_url(298); ?>"
                                                     alt="mat-bang-tang-6-15-toa-s5-vinhomes-symphony" width="2000"
                                                     height="1500"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony.jpg 2000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony-768x576.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony-1030x773.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony-1536x1152.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony-1500x1125.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-15-toa-s5-vinhomes-symphony-705x529.jpg 705w"
+                                                    srcset="<?php echo wp_get_attachment_url(298); ?> 2000w, <?php echo wp_get_attachment_url(298); ?> 768w, <?php echo wp_get_attachment_url(298); ?> 1030w, <?php echo wp_get_attachment_url(298); ?> 1500w, <?php echo wp_get_attachment_url(298); ?> 705w"
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -297,14 +326,14 @@
                                 </div>
                                 <div id="tab-id-5" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg"
+                                        <p><a href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31301 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg"
+                                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg"
                                                     alt="mat-bang-tang-2-toa-s6-vinhomes-symphony" width="3000"
                                                     height="2000"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg 3000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-705x470.jpg 705w"
+                                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony.jpg 3000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-2-toa-s6-vinhomes-symphony-705x470.jpg 705w"
                                                     sizes="(max-width: 3000px) 100vw, 3000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -319,14 +348,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 3 - 5A</div>
                                 <div id="tab-id-6" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg"
+                                        <p><a href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31302 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg"
+                                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg"
                                                     alt="mat-bang-tang-3-5a-toa-s6-vinhomes-symphony" width="3000"
                                                     height="2000"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg 3000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-705x470.jpg 705w"
+                                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony.jpg 3000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-3-5a-toa-s6-vinhomes-symphony-705x470.jpg 705w"
                                                     sizes="(max-width: 3000px) 100vw, 3000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -341,14 +370,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 5</div>
                                 <div id="tab-id-7" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg"
+                                        <p><a href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31303 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg"
+                                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg"
                                                     alt="mat-bang-tang-5-toa-s6-vinhomes-symphony" width="3000"
                                                     height="2000"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg 3000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-705x470.jpg 705w"
+                                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony.jpg 3000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-5-toa-s6-vinhomes-symphony-705x470.jpg 705w"
                                                     sizes="(max-width: 3000px) 100vw, 3000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -363,14 +392,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 6</div>
                                 <div id="tab-id-8" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg"
+                                        <p><a href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31304 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg"
+                                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg"
                                                     alt="mat-bang-tang-6-toa-s6-vinhomes-symphony" width="3000"
                                                     height="2000"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg 3000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-705x470.jpg 705w"
+                                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony.jpg 3000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-6-toa-s6-vinhomes-symphony-705x470.jpg 705w"
                                                     sizes="(max-width: 3000px) 100vw, 3000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -385,14 +414,14 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 7 - 15</div>
                                 <div id="tab-id-9" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg"
+                                        <p><a href="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg"
                                                 class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31305 size-full"
-                                                    src="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg"
+                                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg"
                                                     alt="mat-bang-tang-7-15-toa-s6-vinhomes-symphony" width="3000"
                                                     height="2000"
-                                                    srcset="https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg 3000w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-768x512.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, https://vinhomesland.vn/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-705x470.jpg 705w"
+                                                    srcset="http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony.jpg 3000w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-768x512.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1030x687.jpg 1030w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1536x1024.jpg 1536w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-2048x1365.jpg 2048w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-1500x1000.jpg 1500w, http://localhost/vungnguyen/wp-content/uploads/2020/02/mat-bang-tang-7-15-toa-s6-vinhomes-symphony-705x470.jpg 705w"
                                                     sizes="(max-width: 3000px) 100vw, 3000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
@@ -437,15 +466,15 @@
                                     Chính bởi vậy, mặc dù <strong>đơn giá trung bình khoảng 40 – 50 Triệu/m2</strong>,
                                     nhưng tổng giá trị căn hộ không quá lớn, những gia đình có tổng thu nhập 30 – 40
                                     Triệu/tháng hoàn toàn có thể mua được.</p>
-                                <div id="attachment_32835" style="width: 810px" class="wp-caption alignnone"><img
-                                        aria-describedby="caption-attachment-32835" loading="lazy"
-                                        class="wp-image-32835 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony.jpg"
+                                <div id="attachment_32965" style="width: 810px" class="wp-caption alignnone"><img
+                                        aria-describedby="caption-attachment-32965" loading="lazy"
+                                        class="wp-image-32965 size-full"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony.jpg"
                                         alt="view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony" width="800"
                                         height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2020/05/view-biet-thu-vinhomes-riverside-tu-can-ho-vinhomes-symphony-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
-                                    <p id="caption-attachment-32835" class="wp-caption-text">View toàn cảnh khu biệt thự
+                                    <p id="caption-attachment-32965" class="wp-caption-text">View toàn cảnh khu biệt thự
                                         ven sông từ căn hộ Vinhomes Riverside</p>
                                 </div>
                                 <h2><span id="Tien_ich_chung_cu_Vinhomes_Riverside">Tiện ích chung cư Vinhomes
@@ -460,9 +489,9 @@
                                 <div id="attachment_21627" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-21627" loading="lazy"
                                         class="wp-image-21627 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside.jpg"
                                         alt="khong-gian-xanh-vinhomes-riverside" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-450x253.jpg 450w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2019/05/khong-gian-xanh-vinhomes-riverside-450x253.jpg 450w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-21627" class="wp-caption-text">Nếu chia trung bình, mỗi cư
                                         dân Vinhomes Riverside sẽ có cho riêng mình khoảng xanh rộng 60 – 70 m2, một
@@ -479,9 +508,9 @@
                                 <div id="attachment_12182" style="width: 810px" class="wp-caption alignnone"><img
                                         aria-describedby="caption-attachment-12182" loading="lazy"
                                         class="wp-image-12182 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2018/06/vincom-plaza-long-bien.jpg"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2018/06/vincom-plaza-long-bien.jpg"
                                         alt="vincom-plaza-long-bien" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2018/06/vincom-plaza-long-bien.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2018/06/vincom-plaza-long-bien-705x397.jpg 705w, https://vinhomesland.vn/wp-content/uploads/2018/06/vincom-plaza-long-bien-450x253.jpg 450w, https://vinhomesland.vn/wp-content/uploads/2018/06/vincom-plaza-long-bien-768x432.jpg 768w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2018/06/vincom-plaza-long-bien.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2018/06/vincom-plaza-long-bien-705x397.jpg 705w, http://localhost/vungnguyen/wp-content/uploads/2018/06/vincom-plaza-long-bien-450x253.jpg 450w, http://localhost/vungnguyen/wp-content/uploads/2018/06/vincom-plaza-long-bien-768x432.jpg 768w"
                                         sizes="(max-width: 800px) 100vw, 800px">
                                     <p id="caption-attachment-12182" class="wp-caption-text">Toàn cảnh trung tâm thương
                                         mại Vincom Plaza Long Biên</p>
@@ -494,14 +523,14 @@
                                     đẳng cấp, vừa đủ gần để dễ dàng kết nối tới trung tâm Hà Nội, chung cư Vinhomes
                                     Riverside Long Biên chính là sự lựa chọn hoàn hảo, không thể bỏ lỡ.
                                 </p>
-                                <div id="attachment_29324" style="width: 810px" class="wp-caption alignnone"><img
-                                        aria-describedby="caption-attachment-29324" loading="lazy"
-                                        class="wp-image-29324 size-full"
-                                        src="https://vinhomesland.vn/wp-content/uploads/2019/11/be-boi-vinhomes-symphony.jpg"
+                                <div id="attachment_29224" style="width: 810px" class="wp-caption alignnone"><img
+                                        aria-describedby="caption-attachment-29224" loading="lazy"
+                                        class="wp-image-29224 size-full"
+                                        src="http://localhost/vungnguyen/wp-content/uploads/2019/11/be-boi-vinhomes-symphony.jpg"
                                         alt="be-boi-vinhomes-symphony" width="800" height="450"
-                                        srcset="https://vinhomesland.vn/wp-content/uploads/2019/11/be-boi-vinhomes-symphony.jpg 800w, https://vinhomesland.vn/wp-content/uploads/2019/11/be-boi-vinhomes-symphony-768x432.jpg 768w, https://vinhomesland.vn/wp-content/uploads/2019/11/be-boi-vinhomes-symphony-705x397.jpg 705w"
+                                        srcset="http://localhost/vungnguyen/wp-content/uploads/2019/11/be-boi-vinhomes-symphony.jpg 800w, http://localhost/vungnguyen/wp-content/uploads/2019/11/be-boi-vinhomes-symphony-768x432.jpg 768w, http://localhost/vungnguyen/wp-content/uploads/2019/11/be-boi-vinhomes-symphony-705x397.jpg 705w"
                                         sizes="(max-width: 800px) 100vw, 800px">
-                                    <p id="caption-attachment-29324" class="wp-caption-text">Bể bơi ngoài trời mang
+                                    <p id="caption-attachment-29224" class="wp-caption-text">Bể bơi ngoài trời mang
                                         phong cách resort tại khu căn hộ Vinhomes Symphony Long Biên</p>
                                 </div>
                                 <p>Dự án Vinhomes Symphony Riverside đã được chủ đầu tư Vingroup <strong>chính thức mở
@@ -510,7 +539,7 @@
                                     thông tin cá nhân theo Form đăng ký bên dưới.</p>
                             </div>
                         </section>
-                        <form action="https://vinhomesland.vn/vinhomes-symphony/" method="post"
+                        <form action="http://localhost/vungnguyen/vinhomes-symphony/" method="post"
                             class="avia_ajax_form av-form-labels-hidden   avia-builder-el-10  el_after_av_textblock  el_before_av_social_share   "
                             data-avia-form-id="1" data-avia-redirect="">
                             <fieldset>
@@ -550,13 +579,13 @@
                                 <ul class="av-share-box-list noLightbox">
                                     <li class="av-share-link av-social-link-facebook"><a target="_blank"
                                             aria-label="Share on Facebook"
-                                            href="https://www.facebook.com/sharer.php?u=https://vinhomesland.vn/vinhomes-symphony/&amp;t=Vinhomes%20Symphony"
+                                            href="https://www.facebook.com/sharer.php?u=http://localhost/vungnguyen/vinhomes-symphony/&amp;t=Vinhomes%20Symphony"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Facebook" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Facebook</span></a></li>
                                     <li class="av-share-link av-social-link-twitter"><a target="_blank"
                                             aria-label="Share on Twitter"
-                                            href="https://twitter.com/share?text=Vinhomes%20Symphony&amp;url=https://vinhomesland.vn/?p=30118"
+                                            href="https://twitter.com/share?text=Vinhomes%20Symphony&amp;url=http://localhost/vungnguyen/?p=30118"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Twitter" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Twitter</span></a></li>
@@ -568,7 +597,7 @@
                                                 class="avia_hidden_link_text">Share on Pinterest</span></a></li>
                                     <li class="av-share-link av-social-link-linkedin"><a target="_blank"
                                             aria-label="Share on LinkedIn"
-                                            href="https://linkedin.com/shareArticle?mini=true&amp;title=Vinhomes%20Symphony&amp;url=https://vinhomesland.vn/vinhomes-symphony/"
+                                            href="https://linkedin.com/shareArticle?mini=true&amp;title=Vinhomes%20Symphony&amp;url=http://localhost/vungnguyen/vinhomes-symphony/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on LinkedIn" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on LinkedIn</span></a></li>
@@ -580,18 +609,18 @@
                                                 class="avia_hidden_link_text">Share on Tumblr</span></a></li>
                                     <li class="av-share-link av-social-link-vk"><a target="_blank"
                                             aria-label="Share on Vk"
-                                            href="https://vk.com/share.php?url=https://vinhomesland.vn/vinhomes-symphony/"
+                                            href="https://vk.com/share.php?url=http://localhost/vungnguyen/vinhomes-symphony/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Vk" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Vk</span></a></li>
                                     <li class="av-share-link av-social-link-reddit"><a target="_blank"
                                             aria-label="Share on Reddit"
-                                            href="https://reddit.com/submit?url=https://vinhomesland.vn/vinhomes-symphony/&amp;title=Vinhomes%20Symphony"
+                                            href="https://reddit.com/submit?url=http://localhost/vungnguyen/vinhomes-symphony/&amp;title=Vinhomes%20Symphony"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share on Reddit" rel="noopener"><span
                                                 class="avia_hidden_link_text">Share on Reddit</span></a></li>
                                     <li class="av-share-link av-social-link-mail"><a aria-label="Share by Mail"
-                                            href="mailto:?subject=Vinhomes%20Symphony&amp;body=https://vinhomesland.vn/vinhomes-symphony/"
+                                            href="mailto:?subject=Vinhomes%20Symphony&amp;body=http://localhost/vungnguyen/vinhomes-symphony/"
                                             aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"
                                             title="" data-avia-related-tooltip="Share by Mail"><span
                                                 class="avia_hidden_link_text">Share by Mail</span></a></li>
@@ -610,26 +639,26 @@
                         <h3 class="widgettitle">Vinhomes Symphony</h3>
                         <div class="menu-vinhomes-symphony-container">
                             <ul id="menu-vinhomes-symphony" class="menu">
-                                <li id="menu-item-31285"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-31285">
-                                    <a href="https://vinhomesland.vn/vinhomes-symphony/" aria-current="page">Tổng quan
+                                <li id="menu-item-31293"
+                                    class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-31293">
+                                    <a href="http://localhost/vungnguyen/vinhomes-symphony/" aria-current="page">Tổng quan
                                         dự án</a>
                                 </li>
                                 <li id="menu-item-31394"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31394"><a
-                                        href="https://vinhomesland.vn/toa-s1-vinhomes-symphony/">Tòa S1</a></li>
+                                        href="http://localhost/vungnguyen/toa-s1-vinhomes-symphony/">Tòa S1</a></li>
                                 <li id="menu-item-31398"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31398"><a
-                                        href="https://vinhomesland.vn/toa-s2-vinhomes-symphony/">Tòa S2</a></li>
+                                        href="http://localhost/vungnguyen/toa-s2-vinhomes-symphony/">Tòa S2</a></li>
                                 <li id="menu-item-31410"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31410"><a
-                                        href="https://vinhomesland.vn/toa-s3-vinhomes-symphony/">Tòa S3</a></li>
+                                        href="http://localhost/vungnguyen/toa-s3-vinhomes-symphony/">Tòa S3</a></li>
                                 <li id="menu-item-31419"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31419"><a
-                                        href="https://vinhomesland.vn/toa-s5-vinhomes-symphony/">Tòa S5</a></li>
+                                        href="http://localhost/vungnguyen/toa-s5-vinhomes-symphony/">Tòa S5</a></li>
                                 <li id="menu-item-31425"
                                     class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31425"><a
-                                        href="https://vinhomesland.vn/toa-s6-vinhomes-symphony/">Tòa S6</a></li>
+                                        href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">Tòa S6</a></li>
                             </ul>
                         </div>
                     </div>
