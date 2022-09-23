@@ -108,6 +108,7 @@ function vinhomes_scripts() {
 	wp_enqueue_script( 'vinhomes-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'vinhomes-jquery', get_template_directory_uri() . '/js/jquery.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'vinhomes-font-awesome', get_template_directory_uri() . '/js/font-awesome.js', array(), _S_VERSION, true );
+	wp_enqueue_script('vinhomes-menu_hover', get_template_directory_uri() . '/js/avia-snippet-megamenu.js', array(), _S_VERSION, true);
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
@@ -224,9 +225,6 @@ function cw_post_type_tin_tuc() {
 	}
 	add_action('init', 'cw_post_type_tin_tuc');
 	/*Custom Post type end*/
-	
-
-
 	
 
 /**

@@ -67,14 +67,14 @@
 
                                             <ul class="sub-menu">
                                                 <?php $terms = get_terms([
-                                                    'taxomnomy' => 'khu_vuc';
+                                                    'taxomnomy' => 'khu_vuc'
                                                 ]);
-                                                foreach($terms as $key => $termObject){
+                                                foreach($terms as $key => $termObject){}
                                                 ?>
                                                 <li id="menu-item-20971"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first">
                                                     <span
-                                                        class="mega_menu_title heading-color av-special-font"><?php echo $termObject => name ?></span>
+                                                        class="mega_menu_title heading-color av-special-font"><?php echo $termObject ->name ?></span>
                                                     <u class="sub-menu">
                                                         <?php
                                                             $args = array(
@@ -99,7 +99,7 @@
 
                                                 <?php endwhile; ?>
 
-                                                <?php else; ?>
+                                                <?php else: ?>
 
                                                 <?php endif; 
                                                     wp_reset_query();
@@ -157,4 +157,4 @@
     <div class="header_bg"></div>
 
     <!-- end header -->
-    </header>
+      </header>
