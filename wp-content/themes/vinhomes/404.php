@@ -14,7 +14,7 @@ get_header();
     <?php get_template_part('templates-part/content', 'listProDuctByAddress'); ?>
     <?php get_template_part('templates-part/content', 'listNews'); ?>
     <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
-    
+
 </main><!-- #main -->
 
 <?php get_template_part('templates-part/content', 'fixed'); ?>

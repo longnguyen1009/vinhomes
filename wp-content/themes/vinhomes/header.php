@@ -11,7 +11,7 @@
 
 ?>
 <!doctype html>
-<html <?php language_attributes(); ?> class="responsive">
+<html <?php language_attributes(); ?>>
 
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
@@ -21,7 +21,7 @@
     <?php wp_head(); ?>
 </head>
 
-<body id="top" <?php body_class(); ?>>
+<body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
     <div id="page" class="site">
         <header id="header"
@@ -32,7 +32,7 @@
 
                 <div class="container av-logo-container">
                     <div class="inner-container"><span class="logo"><a href="#"><img height="100" width="300"
-                                    src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-land-logo.png"
+                                    src="https://vinhomesland.vn/wp-content/uploads/2020/04/vinhomes-land-logo.png"
                                     alt="Vinhomes Land" title=""></a></span>
                         <nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope"
                             itemtype="https://schema.org/SiteNavigationElement">
@@ -66,95 +66,101 @@
                                             style="opacity: 0; display: none;">
 
                                             <ul class="sub-menu">
-                                                <?php $terms = get_terms([
-                                                    'taxomnomy' => 'khu_vuc'
-                                                ]);
-                                                foreach($terms as $key => $termObject){}
-                                                ?>
+
+
+                                                <?php 
+                                                   $terms = get_terms([
+                                                       'taxonomy' => 'khu_vuc'
+                                                   ]); 
+                                                    foreach($terms as $key => $termObject){
+                                                        ?>
                                                 <li id="menu-item-20971"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first">
                                                     <span
-                                                        class="mega_menu_title heading-color av-special-font"><?php echo $termObject ->name ?></span>
-                                                    <u class="sub-menu">
+                                                        class="mega_menu_title heading-color av-special-font"><?php echo $termObject->name ?></span>
+                                                    <ul class="sub-menu">
                                                         <?php
-                                                            $args = array(
-                                                                'tax_query' => array(
-                                                                    array(
-                                                                        'taxonomy' => 'khuvuc',
-                                                                        'field' => 'name',
-                                                                        'terms' => $termObject ->name
-                                                                    )
-                                                                )
-                                                            );
-                                                            
-                                                            $query = new WP_Query($args);
+                                                                        $args = array(
+                                                                        'tax_query' => array(
+                                                                            array(
+                                                                                'taxonomy' => 'khu_vuc',
+                                                                                'field' => 'name',
+                                                                                'terms' => $termObject->name
+                                                                                )
+                                                                            )
+                                                                        );
 
-                                                            if ( $query -> have_posts() ) : while ($query -> have_posts() ) : $query -> the_post(); ?>
-                                                <li id="menu-item-30134"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-post">
-                                                    <a href="<?php get_permalink(); ?>" itemprop="url"><span
-                                                            class="avia-bullet"></span><span
-                                                            class="avia-menu-text"><?php the_title(); ?></span></a>
+                                                                        $query = new WP_Query($args);
+
+                                                                        if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
+                                                        <li id="menu-item-30134"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-post">
+                                                            <a href="<?php echo get_permalink();?>">
+                                                                <span class="avia-bullet"></span>
+                                                                <span
+                                                                    class="avia-menu-text"><?php the_title(); ?></span>
+                                                            </a>
+                                                        </li>
+                                                        <?php endwhile; ?>
+
+                                                        <?php else: ?>
+                                                        <!-- no posts found -->
+                                                        <?php endif; 
+                                                        wp_reset_query();
+                                                        ?>
+                                                    </ul>
                                                 </li>
-
-                                                <?php endwhile; ?>
-
-                                                <?php else: ?>
-
-                                                <?php endif; 
-                                                    wp_reset_query();
-                                                ?>
-
+                                                <?php 
+                                                        }
+                                                    ?>
                                             </ul>
+
+                                        </div>
                                     </li>
-                                </ul>
-
-                            </div>
-                            </li>
-                            <li id="menu-item-29972"
-                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-4">
-                                <a href="<?php echo get_post_type_archive_link('tin_tuc'); ?>" itemprop="url"><span
-                                        class="avia-bullet"></span><span class="avia-menu-text">TIN
-                                        TỨC</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
-                                                class="avia-arrow"></span></span></span></a>
-                            </li>
-                            <li id="menu-item-29971"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5">
-                                <a href="http://localhost/vungnguyen/lien-he/" itemprop="url"><span
-                                        class="avia-bullet"></span><span class="avia-menu-text">LIÊN
-                                        HỆ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
-                                                class="avia-arrow"></span></span></span></a>
-                            </li>
-                            <li id="menu-item-search"
-                                class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a
-                                    aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
-
-<form role=&quot;search&quot; action=&quot;http://localhost/vungnguyen/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
+                                    <li id="menu-item-29972"
+                                        class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-4">
+                                        <a href="<?php echo get_post_type_archive_link('tin_tuc'); ?>"
+                                            itemprop="url"><span class="avia-bullet"></span><span
+                                                class="avia-menu-text">TIN
+                                                TỨC</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
+                                                        class="avia-arrow"></span></span></span></a>
+                                    </li>
+                                    <li id="menu-item-29971"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5">
+                                        <a href="http://localhost/vungnguyen/lien-he/" itemprop="url"><span
+                                                class="avia-bullet"></span><span class="avia-menu-text">LIÊN
+                                                HỆ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
+                                                        class="avia-arrow"></span></span></span></a>
+                                    </li>
+                                    <li id="menu-item-search"
+                                        class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a
+                                            aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+<form role=&quot;search&quot; action=&quot;<?php echo get_search_link(); ?>&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;>
 <div>
 <input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; />
 <input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' />
 	</div>
 </form>" aria-hidden="false" data-av_icon="" data-av_iconfont="entypo-fontello"><span
-                                        class="avia_hidden_link_text">Search</span></a></li>
-                            <li class="av-burger-menu-main menu-item-avia-special ">
-                                <a href="#" aria-label="Menu" aria-hidden="false">
-                                    <span class="av-hamburger av-hamburger--spin av-js-hamburger">
-                                        <span class="av-hamburger-box">
-                                            <span class="av-hamburger-inner"></span>
-                                            <strong>Menu</strong>
-                                        </span>
-                                    </span>
-                                    <span class="avia_hidden_link_text">Menu</span>
-                                </a>
-                            </li>
-                            </ul>
+                                                class="avia_hidden_link_text">Search</span></a></li>
+                                    <li class="av-burger-menu-main menu-item-avia-special ">
+                                        <a href="#" aria-label="Menu" aria-hidden="false">
+                                            <span class="av-hamburger av-hamburger--spin av-js-hamburger">
+                                                <span class="av-hamburger-box">
+                                                    <span class="av-hamburger-inner"></span>
+                                                    <strong>Menu</strong>
+                                                </span>
+                                            </span>
+                                            <span class="avia_hidden_link_text">Menu</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
                     </div>
-                    </nav>
                 </div>
+                <!-- end container_wrap-->
             </div>
-            <!-- end container_wrap-->
-    </div>
-    <div class="header_bg"></div>
+            <div class="header_bg"></div>
 
-    <!-- end header -->
-      </header>
+            <!-- end header -->
+        </header>

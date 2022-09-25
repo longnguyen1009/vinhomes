@@ -19,8 +19,8 @@
         class="avia-slideshow avia-slideshow-1 av-control-default avia-slideshow-no scaling av_fullscreen avia-slide-slider"
         itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
         <ul class="avia-slideshow-inner " style="padding: 0px;">
-            <li style="background-position: left bottom; background-image: url(&quot;http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg&quot;); visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);"
-                data-img-url="http://localhost/vungnguyen/wp-content/uploads/2022/06/vinhomes-ocean-park-2-the-empire-background.jpg"
+            <li style="background-position: left bottom; background-image: url(&quot;<?php echo wp_get_attachment_url(321); ?>&quot;); visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);"
+                data-img-url="<?php echo wp_get_attachment_url(321); ?>"
                 class="av-single-slide slide-1 active-slide">
                 <div data-rel="slideshow-1" class="avia-slide-wrap ">
                     <div
