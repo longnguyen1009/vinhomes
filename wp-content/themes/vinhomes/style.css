@@ -61,14 +61,16 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 /* Document
 	 ========================================================================== */
+	 @import url(./css/screen.min.css);
+	 @import url(./css/grid.css);
+	 @import url(./css/layout.css);
+	 @import url(./css/base.css);
+	 @import url(./css/shortcodes.css);
+	 @import url(./css/avia-snippet-widget.css);
+	@import url(./css/blog.css);
 
-@import url(./css/screen.min.css);
-@import url(./css/grid.css);
-@import url(./css/enfold.css);
-@import url(./css/base.css);
-@import url(./css/layout.css);
-@import url(./css/image.css);
-@import url(./css/shortcodes.css);
+	 @import url(./css/image.css);
+
 
 @import url(./css/postslider.css);
 @import url(./css/contentslider.css);
@@ -78,9 +80,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 @import url(./css/slideshow_fullsize.css);
 @import url(./css/slideshow_layerslider.css);
 
-
 @import url(./css/tab_section.css);
-
 
 @import url(./css/contact.css);
 
@@ -96,3 +96,5 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 @import url(./css/icongrid.css);
 @import url(./css/iconlist.css);
 
+
+@import url(./css/enfold.css);

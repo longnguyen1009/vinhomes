@@ -31292,11 +31292,11 @@ function PostCommentsEdit(_ref) {
   }, (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "alignleft"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
-    href: "#top"
+    href: " "
   }, "\xAB ", (0,external_wp_i18n_namespaceObject.__)('Older Comments'))), (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "alignright"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
-    href: "#top"
+    href: " "
   }, (0,external_wp_i18n_namespaceObject.__)('Newer Comments'), " \xBB"))), (0,external_wp_element_namespaceObject.createElement)("ol", {
     className: "commentlist"
   }, (0,external_wp_element_namespaceObject.createElement)("li", {
@@ -31323,7 +31323,7 @@ function PostCommentsEdit(_ref) {
     a:
     /* eslint-disable jsx-a11y/anchor-has-content */
     (0,external_wp_element_namespaceObject.createElement)("a", {
-      href: "#top",
+      href: " ",
       className: "url"
     })
     /* eslint-enable jsx-a11y/anchor-has-content */
@@ -31334,14 +31334,14 @@ function PostCommentsEdit(_ref) {
   })), (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "comment-metadata"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
-    href: "#top"
+    href: " "
   }, (0,external_wp_element_namespaceObject.createElement)("time", {
     dateTime: "2000-01-01T12:00:00+00:00"
   }, (0,external_wp_i18n_namespaceObject.__)('January 1, 2000 at 12:00 am'))), ' ', (0,external_wp_element_namespaceObject.createElement)("span", {
     className: "edit-link"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
     className: "comment-edit-link",
-    href: "#top"
+    href: " "
   }, (0,external_wp_i18n_namespaceObject.__)('Edit'))))), (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "comment-content"
   }, (0,external_wp_element_namespaceObject.createElement)("p", null, (0,external_wp_i18n_namespaceObject.__)('Hi, this is a comment.'), (0,external_wp_element_namespaceObject.createElement)("br", null), (0,external_wp_i18n_namespaceObject.__)('To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.'), (0,external_wp_element_namespaceObject.createElement)("br", null), (0,external_wp_element_namespaceObject.createInterpolateElement)((0,external_wp_i18n_namespaceObject.__)('Commenter avatars come from <a>Gravatar</a>'), {
@@ -31354,7 +31354,7 @@ function PostCommentsEdit(_ref) {
     className: "reply"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
     className: "comment-reply-link",
-    href: "#top",
+    href: " ",
     "aria-label": (0,external_wp_i18n_namespaceObject.sprintf)(
     /* translators: Comment reply button text. %s: Comment author name. */
     (0,external_wp_i18n_namespaceObject.__)('Reply to %s'), (0,external_wp_i18n_namespaceObject.__)('A WordPress Commenter'))
@@ -31363,11 +31363,11 @@ function PostCommentsEdit(_ref) {
   }, (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "alignleft"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
-    href: "#top"
+    href: " "
   }, "\xAB ", (0,external_wp_i18n_namespaceObject.__)('Older Comments'))), (0,external_wp_element_namespaceObject.createElement)("div", {
     className: "alignright"
   }, (0,external_wp_element_namespaceObject.createElement)("a", {
-    href: "#top"
+    href: " "
   }, (0,external_wp_i18n_namespaceObject.__)('Newer Comments'), " \xBB"))), (0,external_wp_element_namespaceObject.createElement)(post_comments_form_form, null))));
 }
 

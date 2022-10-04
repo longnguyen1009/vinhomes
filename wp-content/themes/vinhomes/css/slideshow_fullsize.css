@@ -14,7 +14,7 @@ z-index: 1;
 
 .avia-fullwidth-slider.avia-builder-el-0{border-top:none;}
 
-div.slider-not-first, .html_header_transparency .avia-builder-el-0{border-top:none;}
+div.slider-not-first, .html_header_transparency #top .avia-builder-el-0{border-top:none;}
 
 .avia-slide-wrap{
 position: relative;
@@ -23,7 +23,7 @@ display: block;
 
 .avia-slide-wrap>p{margin:0; padding:0;}
 .av_slideshow_full.avia-slideshow{margin:0;}
-.av_slideshow_full.av-control-default .avia-slideshow-arrows a{
+#top .av_slideshow_full.av-control-default .avia-slideshow-arrows a{
 margin:-50px 0 0 0;
 width:35px;
 text-align: center;
@@ -33,14 +33,14 @@ opacity: 0.5;
 
 }
 
-.av_slideshow_full .avia-slideshow-arrows a:hover{opacity: 1;}
+#top .av_slideshow_full .avia-slideshow-arrows a:hover{opacity: 1;}
 
-.av_slideshow_full.av-control-default .next-slide:before{
+#top .av_slideshow_full.av-control-default .next-slide:before{
 border-top-right-radius: 0;
 border-bottom-right-radius: 0;
 line-height: 102px;
 }
-.av_slideshow_full.av-control-default .prev-slide:before{
+#top .av_slideshow_full.av-control-default .prev-slide:before{
 border-top-left-radius: 0;
 border-bottom-left-radius: 0;
 line-height: 102px;
@@ -140,9 +140,9 @@ animation:         caption-top  1.2s 1 ease-out;
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
-		.responsive .slideshow_caption {left: 0; width:100%; padding:0;}
-		.responsive .slideshow_caption h2{font-size: 20px !important;}
-		.responsive .slideshow_caption .avia-caption-content{font-size: 13px !important;}
+		.responsive #top .slideshow_caption {left: 0; width:100%; padding:0;}
+		.responsive #top .slideshow_caption h2{font-size: 20px !important;}
+		.responsive #top .slideshow_caption .avia-caption-content{font-size: 13px !important;}
 
 /* 		.responsive .av_slideshow_full .container.caption_container { margin-left: -138px; } */
 
@@ -150,9 +150,9 @@ animation:         caption-top  1.2s 1 ease-out;
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
-		.responsive .slideshow_caption {left: 0; width:100%; padding:0;}
-		.responsive .slideshow_caption h2{font-size: 20px !important;}
-		.responsive .slideshow_caption .avia-caption-content{font-size: 13px !important;}
+		.responsive #top .slideshow_caption {left: 0; width:100%; padding:0;}
+		.responsive #top .slideshow_caption h2{font-size: 20px !important;}
+		.responsive #top .slideshow_caption .avia-caption-content{font-size: 13px !important;}
 
 /* 		.responsive .av_slideshow_full .container.caption_container { margin-left: -216px; } */
 

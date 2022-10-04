@@ -11,7 +11,8 @@
 
 ?>
 <!doctype html>
-<html <?php language_attributes(); ?>>
+<html <?php language_attributes(); ?>
+    class="html_stretched responsive av-preloader-disabled av-custom-lightbox html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_38897 av-cookies-no-cookie-consent av-no-preview html_text_menu_active avia_desktop js_active avia_transform avia_transform3d avia_transform avia_transform3d avia-webkit avia-webkit-105 avia-chrome avia-chrome-105">
 
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
@@ -21,7 +22,7 @@
     <?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class(); ?> id = "top">
     <?php wp_body_open(); ?>
     <div id="page" class="site">
         <header id="header"
@@ -40,7 +41,7 @@
                                 <ul id="avia-menu" class="menu av-main-nav">
                                     <li id="menu-item-29969"
                                         class="menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-top-level menu-item-top-level-1 current-menu-item">
-                                        <a href="http://localhost/vungnguyen/#top" itemprop="url"><span
+                                        <a href="http://localhost/vungnguyen/ " itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">TRANG
                                                 CHỦ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>

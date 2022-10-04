@@ -37,7 +37,7 @@ function test_setup() {
 		* hard-coded <title> tag in the document head, and expect WordPress to
 		* provide it for us.
 		*/
-	add_theme_support( 'title-tag' );
+	// add_theme_support( 'title-tag' );
 
 	/*
 		* Enable support for Post Thumbnails on posts and pages.
@@ -46,11 +46,7 @@ function test_setup() {
 		*/
 
 	// This theme uses wp_nav_menu() in one location.
-	register_nav_menus(
-		array(
-			'menu-1' => esc_html__( 'Primary', 'test' ),
-		)
-	);
+	
 
 	/*
 		* Switch default core markup for search form, comment form, and comments
@@ -110,9 +106,7 @@ function vinhomes_scripts() {
 	wp_enqueue_script( 'vinhomes-font-awesome', get_template_directory_uri() . '/js/font-awesome.js', array(), _S_VERSION, true );
 	wp_enqueue_script('vinhomes-menu_hover', get_template_directory_uri() . '/js/avia-snippet-megamenu.js', array(), _S_VERSION, true);
 
-	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
-		wp_enqueue_script( 'comment-reply' );
-	}
+	
 }
 add_action( 'wp_enqueue_scripts', 'vinhomes_scripts' );
 
@@ -146,11 +140,12 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 
 
 // Create post type
+add_post_type_support( 'du_an', 'thumbnail' );
+add_post_type_support( 'du_an', 'excerpt' );
 function cw_post_type_du_an() {
 	$supports = array(
 	'title', // post title
 	'editor', // post content
-	'author', // post author
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
@@ -172,7 +167,6 @@ function cw_post_type_du_an() {
 	'not_found' => __('Không tìm thấy dự án.'),
 	);
 	$args = array(
-	'supports' => $supports,
 	'labels' => $labels,
 	'public' => true,
 	'query_var' => true,
@@ -187,11 +181,12 @@ function cw_post_type_du_an() {
 
 
 	// Create post type
+	add_post_type_support( 'tin_tuc', 'thumbnail' );
+add_post_type_support( 'tin_tuc', 'excerpt' );
 function cw_post_type_tin_tuc() {
 	$supports = array(
 	'title', // post title
 	'editor', // post content
-	'author', // post author
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
@@ -199,18 +194,18 @@ function cw_post_type_tin_tuc() {
 	'post-formats', // post formats
 	);
 	$labels = array(
-	'name' => _x('TIN TỨC', 'plural'),
-	'singular_name' => _x('TIN TỨC', 'singular'),
+	'name' => _x('Tin Tức', 'plural'),
+	'singular_name' => _x('Tin Tức', 'singular'),
 	'menu_name' => _x('Tin Tức', 'admin menu'),
-	'name_admin_bar' => _x('Tin tức', 'admin bar'),
-	'add_new' => _x('Thêm tin tức', 'add new'),
-	'add_new_item' => __('Thêm tin tức Mới'),
-	'new_item' => __('Tin tức mới'),
-	'edit_item' => __('Chỉnh sửa tin tức'),
-	'view_item' => __('Xem tin tức'),
-	'all_items' => __('Tất cả tin tức'),
-	'search_items' => __('Tìm kiếm tin tức'),
-	'not_found' => __('Không tìm thấy tin tức.'),
+	'name_admin_bar' => _x('Tin Tức', 'admin bar'),
+	'add_new' => _x('Thêm Tin Tức', 'add new'),
+	'add_new_item' => __('Thêm Tin Tức Mới'),
+	'new_item' => __('Tin Tức mới'),
+	'edit_item' => __('Chỉnh sửa Tin Tức'),
+	'view_item' => __('Xem Tin Tức'),
+	'all_items' => __('Tất cả Tin Tức'),
+	'search_items' => __('Tìm kiếm Tin Tức'),
+	'not_found' => __('Không tìm thấy Tin Tức.'),
 	);
 	$args = array(
 	'supports' => $supports,
@@ -225,6 +220,47 @@ function cw_post_type_tin_tuc() {
 	}
 	add_action('init', 'cw_post_type_tin_tuc');
 	/*Custom Post type end*/
+
+
+
+
+
+	function cw_post_type_toa_nha() {
+		$supports = array(
+		'title', // post title
+		'editor', // post content
+		'thumbnail', // featured images
+		'excerpt', // post excerpt
+		'custom-fields', // custom fields
+		'revisions', // post revisions
+		'post-formats', // post formats
+		);
+		$labels = array(
+		'name' => _x('Toà Nhà', 'plural'),
+		'singular_name' => _x('Toà Nhà', 'singular'),
+		'menu_name' => _x('Toà Nhà', 'admin menu'),
+		'name_admin_bar' => _x('Toà Nhà', 'admin bar'),
+		'add_new' => _x('Thêm Toà Nhà', 'add new'),
+		'add_new_item' => __('Thêm Toà Nhà Mới'),
+		'new_item' => __('Toà Nhà mới'),
+		'edit_item' => __('Chỉnh sửa Toà Nhà'),
+		'view_item' => __('Xem Toà Nhà'),
+		'all_items' => __('Tất cả Toà Nhà'),
+		'search_items' => __('Tìm kiếm Toà Nhà'),
+		'not_found' => __('Không tìm thấy Toà Nhà.'),
+		);
+		$args = array(
+		'supports' => $supports,
+		'labels' => $labels,
+		'public' => true,
+		'query_var' => true,
+		'rewrite' => array('slug' => 'toa-nha'),
+		'has_archive' => true,
+		'hierarchical' => false,
+		);
+		register_post_type('toa_nha', $args);
+		}
+		add_action('init', 'cw_post_type_toa_nha');
 	
 
 /**
@@ -241,7 +277,7 @@ function add_khu_vuc_taxonomies() {
 	  // This array of options controls the labels displayed in the WordPress Admin UI
 	  'labels' => array(
 		'name' => _x( 'Các khu vực', 'taxonomy general name' ),
-		'singular_name' => _x( 'Khu vực', 'taxonomy singular name' ),
+		'singular_name' => _x( 'khu vực', 'taxonomy singular name' ),
 		'search_items' =>  __( 'Tìm kiếm khu vực' ),
 		'all_items' => __( 'Tất cả các khu vực' ),
 		'parent_item' => __( 'Parent Location' ),
@@ -256,12 +292,13 @@ function add_khu_vuc_taxonomies() {
 	  'rewrite' => array(
 		'slug' => 'khu-vuc', // This controls the base slug that will display before each term
 		'with_front' => false, // Don't display the category base before "/locations/"
-		'hierarchical' => true // This will allow URL's like "/locations/boston/cambridge/"
+		'hierarchical' => true, // This will allow URL's like "/locations/boston/cambridge/"
 	  ),
 	));
   }
   add_action( 'init', 'add_khu_vuc_taxonomies', 0 );
 
+  
 
 function add_thoi_gian_taxonomies() {
 	// Add new "Locations" taxonomy to Posts
@@ -292,3 +329,70 @@ function add_thoi_gian_taxonomies() {
   }
   add_action( 'init', 'add_thoi_gian_taxonomies', 0 );
 
+
+  function add_toa_taxonomies() {
+	// Add new "Locations" taxonomy to Posts
+	register_taxonomy('toa', array('du_an','toa_nha'), array(
+	  // Hierarchical taxonomy (like categories)
+	  'hierarchical' => true,
+	  // This array of options controls the labels displayed in the WordPress Admin UI
+	  'labels' => array(
+		'name' => _x( 'Các toà', 'taxonomy general name' ),
+		'singular_name' => _x( 'toà', 'taxonomy singular name' ),
+		'search_items' =>  __( 'Tìm kiếm toà' ),
+		'all_items' => __( 'Tất cả các toà' ),
+		'parent_item' => __( 'Parent Location' ),
+		'parent_item_colon' => __( 'Parent Location:' ),
+		'edit_item' => __( 'Chỉnh sửa toà' ),
+		'update_item' => __( 'Cập nhật toà' ),
+		'add_new_item' => __( 'Thêm toà mới' ),
+		'new_item_name' => __( 'Tên toà mới' ),
+		'menu_name' => __( 'Các toà' ),
+	  ),
+	  // Control the slugs used for this taxonomy
+	  'rewrite' => array(
+		'slug' => 'toa', // This controls the base slug that will display before each term
+		'with_front' => false, // Don't display the category base before "/locations/"
+		'hierarchical' => true, // This will allow URL's like "/locations/boston/cambridge/"
+	  ),
+	));
+  }
+  add_action( 'init', 'add_toa_taxonomies', 0 );
+
+/**
+ * Use radio inputs instead of checkboxes for term checklists in specified taxonomies.
+ *
+ * @param   array   $args
+ * @return  array
+ */
+function wpse_139269_term_radio_checklist( $args ) {
+    if ( ! empty( $args['taxonomy'] ) && $args['taxonomy'] === 'khu_vuc' || ! empty( $args['taxonomy'] ) && $args['taxonomy'] === 'thoi_gian' /* <== Change to your required taxonomy */ ) {
+        if ( empty( $args['walker'] ) || is_a( $args['walker'], 'Walker' ) ) { // Don't override 3rd party walkers.
+            if ( ! class_exists( 'WPSE_139269_Walker_Category_Radio_Checklist' ) ) {
+                /**
+                 * Custom walker for switching checkbox inputs to radio.
+                 *
+                 * @see Walker_Category_Checklist
+                 */
+                class WPSE_139269_Walker_Category_Radio_Checklist extends Walker_Category_Checklist {
+                    function walk( $elements, $max_depth, ...$args ) {
+                        $output = parent::walk( $elements, $max_depth, ...$args );
+                        $output = str_replace(
+                            array( 'type="checkbox"', "type='checkbox'" ),
+                            array( 'type="radio"', "type='radio'" ),
+                            $output
+                        );
+
+                        return $output;
+                    }
+                }
+            }
+
+            $args['walker'] = new WPSE_139269_Walker_Category_Radio_Checklist;
+        }
+    }
+
+    return $args;
+}
+
+add_filter( 'wp_terms_checklist_args', 'wpse_139269_term_radio_checklist' );

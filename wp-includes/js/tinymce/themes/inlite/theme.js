@@ -6782,7 +6782,7 @@ var inlite = (function (domGlobals) {
       };
       var anchorMenuItems = function () {
         var anchorMenuItems = fromMenuItems('anchor');
-        var topAnchor = getSetting(editorSettings, 'anchor_top', '#top');
+        var topAnchor = getSetting(editorSettings, 'anchor_top', ' ');
         var bottomAchor = getSetting(editorSettings, 'anchor_bottom', '#bottom');
         if (topAnchor !== null) {
           anchorMenuItems.unshift(staticMenuItem('<top>', topAnchor));

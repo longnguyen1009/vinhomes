@@ -1,9 +1,9 @@
 /* ======================================================================================================================================================
 Slideshow Feature Image Slider
 ====================================================================================================================================================== */
-.avia-featureimage-slideshow{ margin:0; }
+#top .avia-featureimage-slideshow{ margin:0; }
 
-.avia-slideshow-fixed-height > li{
+#top .avia-slideshow-fixed-height > li{
 position: absolute;
 width:100%; height:100%;
 background-size: cover;
@@ -34,9 +34,9 @@ background-position: center center;
 }
 
 .avia_desktop .avia-featureimage-slideshow .avia-slideshow-arrows a{ opacity: 0; }
-.avia-featureimage-slideshow:hover .avia-slideshow-arrows a{opacity: 1;}
+#top .avia-featureimage-slideshow:hover .avia-slideshow-arrows a{opacity: 1;}
 
-.avia-featureimage-slideshow .avia-caption-content{
+#top .avia-featureimage-slideshow .avia-caption-content{
 	margin:0 auto;
 	max-width: 600px;
 	padding-top: 4px;
@@ -45,7 +45,7 @@ background-position: center center;
 
 @media only screen and (max-width: 767px)
 {
-	.avia-featureimage-slideshow .avia-caption-content{
+	#top .avia-featureimage-slideshow .avia-caption-content{
 	display:none;
 	}
 }
@@ -53,19 +53,19 @@ background-position: center center;
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 989px) {
 	
-.responsive.av-no-preview .av-mdedium-font-size-overwrite.avia-caption-content{display:block;}
+.responsive.av-no-preview #top .av-mdedium-font-size-overwrite.avia-caption-content{display:block;}
 
 }
 
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-.responsive.av-no-preview .av-small-font-size-overwrite.avia-caption-content{display:block;}
+.responsive.av-no-preview #top .av-small-font-size-overwrite.avia-caption-content{display:block;}
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
 
-.responsive.av-no-preview .av-mini-font-size-overwrite.avia-caption-content{display:block;}
+.responsive.av-no-preview #top .av-mini-font-size-overwrite.avia-caption-content{display:block;}
 
 }

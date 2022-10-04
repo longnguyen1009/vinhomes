@@ -30,15 +30,61 @@ get_header();
                         <h4>New Search</h4>
                         <p>If you are not happy with the results below please do another search</p>
 
-                        <form action="https://vinhomesland.vn/" id="searchform" method="get" class="">
+                        <form action="http://localhost/vungnguyen/" id="searchform" method="get" class="">
                             <div>
                                 <input type="submit" value="" id="searchsubmit"
                                     class="button avia-font-entypo-fontello">
-                                <input type="text" id="s" name="s" value="" placeholder="Search">
+                                <input type="text" id="s" name="s" value="<?php echo get_search_query() ?>" placeholder="Search">
                             </div>
                         </form><span class="author-extra-border"></span>
                     </section>
                 </div>
+
+                <?php 
+                    $args = array(
+                        'post_status' => 'publish',
+                        'posts_per_page' => 12,
+                        's' => 'keyword',
+                    );
+                    $query = new WP_Query($args);
+                    ?>
+                <h4 class="extra-mini-title widgettitle">225 search results for: hà nội</h4>
+                <?php
+                    if( $query ->have_posts()) : while( $query -> have_posts()): $query -> the_post(); 
+                ?>
+                <article
+                    class="post-entry post-entry-type-standard post-entry-36520 post-loop-1 post-parity-odd blog-grid  post-36520 post type-post status-publish format-standard has-post-thumbnail hentry category-tin-tuc tag-biet-thu tag-lien-ke tag-thi-truong"
+                    itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
+                    <div class="entry-content-wrapper clearfix standard-content">
+
+                        <header class="entry-content-header">
+                            <span class="search-result-counter ">1</span>
+                            <h2 class="post-title entry-title "><a title="<?php the_title(); ?>"
+                                    href="<?php the_permalink(); ?>" itemprop="headline"><?php the_title(); ?></a></h2>
+                            <span class="post-meta-infos">
+                                <time class="date-container minor-meta updated" itemprop="datePublished"
+                                    datetime="<?php echo get_post_datetime( $source = 'gmt'); ?>"><?php echo get_the_date(); ?></time>
+                                <span class="text-sep">/</span><span class="blog-categories minor-meta">in <a
+                                        href="<?php echo get_post_type_archive_link(get_post_type(get_the_ID())); ?>"
+                                        rel="tag"></a> </span>
+                            </span>
+                        </header>
+
+                        <div class="entry-content" itemprop="text">
+                            <p><?php the_excerpt(); ?></p>
+                        </div>
+                    </div>
+                    <?php endwhile; ?>
+
+                    <?php else: ?>
+                    <!-- Not posts found -->
+                    <?php endif; 
+                        wp_reset_query();
+                        ?>
+
+                    <footer class="entry-footer"></footer>
+
+                </article>
 
 
 
@@ -51,11 +97,11 @@ get_header();
 
                     <?php get_template_part('templates-part/sidebar', 'media'); ?>
                     <?php get_template_part('templates-part/sidebar', 'laterNews'); ?>
-                    
+
                     <section
                         style="position: relative; margin-bottom: 0px; transition: all 0s ease 0s; transform: none; margin-top: 0px; padding: 30px 0px; height: 0px; width: 296px; top: 0px; display: none;">
                     </section>
-                    
+
                     <?php get_template_part('templates-part/sidebar', 'account'); ?>
 
                 </div>
@@ -65,10 +111,13 @@ get_header();
 
     </div><!-- close default .container_wrap element -->
 
-	<?php get_template_part('templates-part/content', 'listProductByYear'); ?>
+    <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
+
+
 
     <!-- end main -->
 </div>
+<?php get_template_part('templates-part/content', 'fixed'); ?>
 
 <?php
 get_footer();

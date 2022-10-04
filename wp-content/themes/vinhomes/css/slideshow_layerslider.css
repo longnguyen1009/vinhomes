@@ -31,11 +31,11 @@ max-width: 100% !important;
 }
 
 /*default line-height:normal produces results that do not match the backend*/
- .ls-wp-container .ls-slide > *{
+#top #wrap_all .ls-wp-container .ls-slide > *{
 line-height: 1.1em;
 }
 
-.avia-layerslider .ls-nav-prev, .avia-layerslider .ls-nav-next {
+#top .avia-layerslider .ls-nav-prev, #top .avia-layerslider .ls-nav-next {
 display: block;
 text-decoration: none;
 color: #fff;
@@ -60,20 +60,20 @@ left:30px;
 }
 
 
-.avia-layerslider .ls-nav-next{
+#top .avia-layerslider .ls-nav-next{
 left:auto;
 right:30px;
 }
 
-.avia-layerslider .ls-nav-prev:before{
+#top .avia-layerslider .ls-nav-prev:before{
 text-indent: -4px;
 }
 
-.avia-layerslider .ls-nav-prev:hover, .avia-layerslider .ls-nav-next:hover{
+#top .avia-layerslider .ls-nav-prev:hover, #top .avia-layerslider .ls-nav-next:hover{
 opacity:1;
 }
 
-.avia-layerslider .ls-nav-prev:before, .avia-layerslider .ls-nav-next:before{
+#top .avia-layerslider .ls-nav-prev:before, #top .avia-layerslider .ls-nav-next:before{
 visibility: visible;
 display: block;
 position: absolute;
@@ -90,11 +90,11 @@ line-height: 62px;
 
 }
 
-.avia-layerslider .ls-nav-start, .avia-layerslider .ls-nav-stop{
+#top .avia-layerslider .ls-nav-start, #top .avia-layerslider .ls-nav-stop{
 font-size: 13px;	
 }
 
-.avia-layerslider .ls-bottom-slidebuttons a, .avia-layerslider .ls-nav-start, .avia-layerslider .ls-nav-stop{
+#top .avia-layerslider .ls-bottom-slidebuttons a, #top .avia-layerslider .ls-nav-start, #top .avia-layerslider .ls-nav-stop{
 display: inline-block;
 height:10px;
 width:10px;
@@ -111,11 +111,11 @@ z-index: 10000;
 
 
 
-.avia-layerslider .ls-bottom-slidebuttons{height:30px;}
-.avia-layerslider .ls-bottom-slidebuttons a.ls-nav-active, .avia-layerslider .ls-bottom-slidebuttons a:hover, .avia-layerslider a.ls-nav-start:hover, .avia-layerslider a.ls-nav-stop:hover, .avia-layerslider a.ls-nav-start-active, .avia-layerslider a.ls-nav-stop-active
+#top .avia-layerslider .ls-bottom-slidebuttons{height:30px;}
+#top .avia-layerslider .ls-bottom-slidebuttons a.ls-nav-active, #top .avia-layerslider .ls-bottom-slidebuttons a:hover, #top .avia-layerslider a.ls-nav-start:hover, #top .avia-layerslider a.ls-nav-stop:hover, #top .avia-layerslider a.ls-nav-start-active, #top .avia-layerslider a.ls-nav-stop-active
 {opacity: 0.6; filter:alpha(opacity=60); background: #000;}
 
-.avia-layerslider .ls-nav-start, .avia-layerslider .ls-nav-stop{
+#top .avia-layerslider .ls-nav-start, #top .avia-layerslider .ls-nav-stop{
 position: relative;
 height:23px;
 width:23px;
@@ -123,7 +123,7 @@ margin: 0px 5px;
 top: -35px;
 }
 
-.avia-layerslider .ls-nav-start:before, .avia-layerslider .ls-nav-stop:before{
+#top .avia-layerslider .ls-nav-start:before, #top .avia-layerslider .ls-nav-stop:before{
 top:0;
 left:0;
 right:0;
@@ -134,7 +134,7 @@ line-height: 23px;
 
 }
 
-.avia-layerslider .ls-nav-start:before{
+#top .avia-layerslider .ls-nav-start:before{
 text-indent: 1px;
 }
 
@@ -148,7 +148,7 @@ div .avia-layerslider .ls-fullwidth .ls-bottom-slidebuttons, div .avia-layerslid
 top: -40px;
 }
 
-.avia-layerslider .ls-wp-container{
+#top .avia-layerslider .ls-wp-container{
 margin:0px auto !important;
 }
 
@@ -166,19 +166,19 @@ display:block !important;
 }
 
 /*layerslider default iconfont values. overwriten in case user applies a custom font value*/
-.avia-layerslider .ls-nav-prev:before{
+#top .avia-layerslider .ls-nav-prev:before{
 content: "\E87c";
 }
-.avia-layerslider .ls-nav-next:before{
+#top .avia-layerslider .ls-nav-next:before{
 content: "\E87d";
 }
-.avia-layerslider .ls-nav-start:before{
+#top .avia-layerslider .ls-nav-start:before{
 content: "\E897";
 }
-.avia-layerslider .ls-nav-stop:before{
+#top .avia-layerslider .ls-nav-stop:before{
 content: "\E899";
 }
-.avia-layerslider .ls-bottom-slidebuttons a, .avia-layerslider .ls-nav-next:before, .avia-layerslider .ls-nav-prev:before, .avia-layerslider .ls-nav-start:before, .avia-layerslider .ls-nav-stop:before{
+#top .avia-layerslider .ls-bottom-slidebuttons a, #top .avia-layerslider .ls-nav-next:before, #top .avia-layerslider .ls-nav-prev:before, #top .avia-layerslider .ls-nav-start:before, #top .avia-layerslider .ls-nav-stop:before{
 font-family: 'entypo-fontello';
 }
 

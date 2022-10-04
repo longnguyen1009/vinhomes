@@ -10,7 +10,7 @@
 ================================================== */
 html { min-width: 910px; }
 html.responsive { min-width: 0px; }
-.boxed{ margin: 0 auto; overflow: visible; /* position:relative; z-index: 3; */ }
+.boxed#top { margin: 0 auto; overflow: visible; /* position:relative; z-index: 3; */ }
 
 .container {
   position: relative;
@@ -49,14 +49,14 @@ html.responsive { min-width: 0px; }
 
 
 
- {
+#wrap_all {
   width: 100%;
   position: static; /*fixes chrome 40 issue with fixed section bgs*/
   z-index: 2;
   overflow: hidden;
 }
 
-.boxed  {
+.boxed #wrap_all {
   overflow: visible; /*needed for cart icon */
 }
 
@@ -83,11 +83,11 @@ body .unit.alpha, body .units.alpha {
 ================================================== */
 /* Note: Design for a width of 768px, Gutter: 30px, Unit: 32px */
 @media only screen and (min-width: 768px) and (max-width: 989px) {
-  .responsive { overflow-x: hidden; }
-  .responsive .boxed, 
+  .responsive #top { overflow-x: hidden; }
+  .responsive .boxed#top , 
   .responsive.html_boxed.html_header_sticky #header{ width: 782px;}
   .responsive .container{ max-width: 782px; }
-  .responsive.html_mobile_menu_tablet .boxed  { overflow: hidden; /*needed for mobile menu scrolling */ }
+  .responsive.html_mobile_menu_tablet .boxed #wrap_all { overflow: hidden; /*needed for mobile menu scrolling */ }
 }
 
 
@@ -95,18 +95,18 @@ body .unit.alpha, body .units.alpha {
 /* All Tablets and smaller */
 @media only screen and (max-width: 989px) {
 
-.responsive  .flex_column.av-break-at-tablet, .responsive  .av-break-at-tablet .flex_cell {
+.responsive #top #wrap_all .flex_column.av-break-at-tablet, .responsive #top #wrap_all .av-break-at-tablet .flex_cell {
     margin: 0;
     margin-bottom: 20px;
     width: 100%;
     display: block;
   }
   
-.responsive  .av-break-at-tablet-flextable, .responsive .av-layout-grid-container.av-break-at-tablet {
+.responsive #top #wrap_all .av-break-at-tablet-flextable, .responsive .av-layout-grid-container.av-break-at-tablet {
 	display: block;	
   }
 	
-.responsive  .av-flex-cells .no_margin{
+.responsive #top #wrap_all .av-flex-cells .no_margin{
     height:auto !important;
     overflow: hidden;
   }
@@ -119,15 +119,15 @@ body .unit.alpha, body .units.alpha {
 
 @media only screen and (max-width: 767px) {
 	
-  .responsive .boxed  { overflow: hidden; /*needed for mobile menu scrolling */ }
-  .responsive { overflow-x: hidden; }
+  .responsive .boxed #wrap_all { overflow: hidden; /*needed for mobile menu scrolling */ }
+  .responsive #top { overflow-x: hidden; }
   .responsive .boxed#top, .responsive #top.boxed .stretch_full , 
   .responsive.html_boxed.html_header_sticky #header,
   .responsive.html_boxed.html_header_transparency div #header{ width: 100%; max-width: 100%; }
-  .responsive .flex_column_table_cell{display: block;}
-  .responsive .flex_column_table{display:block;}
+  .responsive #top .flex_column_table_cell{display: block;}
+  .responsive #top .flex_column_table{display:block;}
   
-  .responsive  .container {
+  .responsive #top #wrap_all .container {
     width: 85%;
     max-width: 85%;
     margin: 0 auto;
@@ -139,13 +139,13 @@ body .unit.alpha, body .units.alpha {
     margin: 0;
   }
   
-  .responsive .container .av-content-small, .responsive  .flex_column, .responsive  .av-flex-cells .no_margin {
+  .responsive #top .container .av-content-small, .responsive #top #wrap_all .flex_column, .responsive #top #wrap_all .av-flex-cells .no_margin {
     margin: 0;
     margin-bottom: 20px;
     width: 100%;
   }
   
-  .responsive  .av-flex-cells .no_margin{
+  .responsive #top #wrap_all .av-flex-cells .no_margin{
 	  display: block;
 	  margin: 0;
 	  height:auto !important;
@@ -154,18 +154,18 @@ body .unit.alpha, body .units.alpha {
 	  padding-right:8% !important;
   }
   
-  .responsive  .av-flex-cells .no_margin .flex_cell_inner{
+  .responsive #top #wrap_all .av-flex-cells .no_margin .flex_cell_inner{
 	    width: 100%;
 		max-width: 100%;
 		margin: 0 auto;  
   }
   
-  .responsive  .av-flex-cells .no_margin.av-zero-padding{
+  .responsive #top #wrap_all .av-flex-cells .no_margin.av-zero-padding{
 	  padding-left:0% !important;
 	  padding-right:0% !important;
   }
   
-  .responsive  .flex_column:empty{margin:0;}
+  .responsive #top #wrap_all .flex_column:empty{margin:0;}
 }
 /* #Mobile (Landscape)
 ================================================== */
@@ -288,73 +288,73 @@ div .av_one_tenth {
 }
 /* Columns for better content separation (no margin)
 ================================================== */
-div .no_margin {
+#top div .no_margin {
   margin-left: 0;
   margin-top: 0;
 }
-.no_margin.av_one_fifth {
+#top .no_margin.av_one_fifth {
   width: 20%;
 }
-.no_margin.av_one_fourth {
+#top .no_margin.av_one_fourth {
   width: 25%;
 }
-.no_margin.av_one_third {
+#top .no_margin.av_one_third {
   width: 33.3%;
 }
-.no_margin.av_two_fifth {
+#top .no_margin.av_two_fifth {
   width: 40%;
 }
-.no_margin.av_one_half {
+#top .no_margin.av_one_half {
   width: 50%;
 }
-.no_margin.av_three_fifth {
+#top .no_margin.av_three_fifth {
   width: 60%;
 }
-.no_margin.av_two_third {
+#top .no_margin.av_two_third {
   width: 66.6%;
 }
-.no_margin.av_three_fourth {
+#top .no_margin.av_three_fourth {
   width: 75%;
 }
-.no_margin.av_four_fifth {
+#top .no_margin.av_four_fifth {
   width: 80%;
 }
-.no_margin.av_one_sixth {
+#top .no_margin.av_one_sixth {
   width: 16.666666666666668%;
 }
-.no_margin.av_one_seventh {
+#top .no_margin.av_one_seventh {
   width: 14.285714285714286%;
 }
-.no_margin.av_one_eighth {
+#top .no_margin.av_one_eighth {
   width: 12.5%;
 }
-.no_margin.av_one_nineth {
+#top .no_margin.av_one_nineth {
   width: 11.11111111111111%;
 }
-.no_margin.av_one_tenth {
+#top .no_margin.av_one_tenth {
   width: 10%;
 }
 
 /* Columns with equal height
 ================================================== */
 
-.flex_column_table{
+#top .flex_column_table{
 	display: table;
 	table-layout: fixed;
 	width:100%;
 	float: left;	/* added 4.7.4.1 to fix equal height after individual height columns  */
 }
 
-.flex_column_table.av-equal-height-column-flextable:not(:first-child){ 
+#top .flex_column_table.av-equal-height-column-flextable:not(:first-child){ 
 	margin-top: 50px;  /* added 4.7.5.1 to fix inconsistent layout equal height after individual height columns but remove when first entry  */
 }
 
-.flex_column_table_cell{
+#top .flex_column_table_cell{
 	float:none;
 	display: table-cell;
 }
 
-.av-flex-placeholder{
+#top .av-flex-placeholder{
 	display: table-cell;
 	width: 6%;
 }

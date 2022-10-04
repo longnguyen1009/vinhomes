@@ -7,6 +7,7 @@
  * @package VinHomes
  */
 
+
 get_header();
 ?>
 
@@ -58,19 +59,22 @@ get_header();
                                 'post_type' => 'du_an',
                                 'orderby' => 'ID',
                                 'order' => 'ASC',
+                                'post_status' => 'publish',
                                 'posts_per_page' => -1,
                                 'tax_query' => array(
+                                    
                                     array(
                                         'taxonomy' => 'khu_vuc',
                                         'field' => 'slug',
                                         'terms' => 'vinhomes-hanoi',
                                     ),
+                                   
                                 ),
                             );
 
                             $query = new WP_Query($args);
                             if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
-                        <div class="flex_column av_one_third  flex_column_div first  avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
+                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
                             style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
                             <section class="av_textblock_section " itemscope="itemscope"
                                 itemtype="https://schema.org/CreativeWork">
@@ -79,18 +83,13 @@ get_header();
                                             href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                                     <p><a href="<?php the_permalink(); ?>"
                                             style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full"
-                                                src="<?php the_field('du_an_thumbnail')['url']; ?>"
-                                                alt="vinhomes-ocean-park-3-the-crown" width="800" height="450"
-                                                srcset="<?php the_field('du_an_thumbnail')['url']; ?> 800w,<?php the_field('du_an_thumbnail')['url']; ?>  768w, <?php get_field('du_an_thumbnail')['url']; ?> 705w"
-                                                sizes="(max-width: 800px) 100vw, 800px"><span
+                                                class="wp-image-38781 size-full" src="<?php
+                                                $id = get_the_ID();
+                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
+                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
                                                 class="image-overlay overlay-type-extern"><span
                                                     class="image-overlay-inside"></span></span></a></p>
-                                    <p>Vị trí: Huyện Văn Giang, Văn Lâm, Hưng Yên</p>
-                                    <p>Loại hình: Chung cư, biệt thự, liền kề, shophouse</p>
-                                    <p>Mở bán: Tháng 10/2022</p>
-                                    <p>Bàn giao: Quý II/2023</p>
-                                    <p>Giá bán: Đang cập nhật</p>
+                                    <?php the_excerpt(); ?>
                                 </div>
                             </section>
                         </div>
@@ -127,6 +126,7 @@ get_header();
                                 'post_type' => 'du_an',
                                 'orderby' => 'ID',
                                 'order' => 'ASC',
+                                'post_status' => 'publish',
                                 'posts_per_page' => -1,
                                 'tax_query' => array(
                                     array(
@@ -139,7 +139,7 @@ get_header();
 
                             $query = new WP_Query($args);
                             if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
-                        <div class="flex_column av_one_third  flex_column_div first  avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
+                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
                             style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
                             <section class="av_textblock_section " itemscope="itemscope"
                                 itemtype="https://schema.org/CreativeWork">
@@ -148,18 +148,13 @@ get_header();
                                             href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                                     <p><a href="<?php the_permalink(); ?>"
                                             style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full"
-                                                src="<?php the_field('du_an_thumbnail')['url']; ?>"
-                                                alt="vinhomes-ocean-park-3-the-crown" width="800" height="450"
-                                                srcset="<?php the_field('du_an_thumbnail')['url']; ?> 800w,<?php the_field('du_an_thumbnail')['url']; ?>  768w, <?php get_field('du_an_thumbnail')['url']; ?> 705w"
-                                                sizes="(max-width: 800px) 100vw, 800px"><span
+                                                class="wp-image-38781 size-full" src="<?php
+                                                $id = get_the_ID();
+                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
+                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
                                                 class="image-overlay overlay-type-extern"><span
                                                     class="image-overlay-inside"></span></span></a></p>
-                                    <p>Vị trí: Huyện Văn Giang, Văn Lâm, Hưng Yên</p>
-                                    <p>Loại hình: Chung cư, biệt thự, liền kề, shophouse</p>
-                                    <p>Mở bán: Tháng 10/2022</p>
-                                    <p>Bàn giao: Quý II/2023</p>
-                                    <p>Giá bán: Đang cập nhật</p>
+                                    <?php the_excerpt(); ?>
                                 </div>
                             </section>
                         </div>
@@ -167,7 +162,7 @@ get_header();
                         <?php endwhile; ?>
 
                         <?php else: ?>
-
+                        <!-- Not posts found -->
                         <?php endif; 
                         wp_reset_query();
                         ?>
@@ -196,52 +191,46 @@ get_header();
                     <?php 
                             $args = array(
                                 'post_type' => 'du_an',
-                                'orderby'  => 'ID',
+                                'orderby' => 'ID',
                                 'order' => 'ASC',
+                                'post_status' => 'publish',
                                 'posts_per_page' => -1,
                                 'tax_query' => array(
                                     array(
                                         'taxonomy' => 'khu_vuc',
                                         'field' => 'slug',
                                         'terms' => 'vinhomes-province',
-                                        
                                     ),
                                 ),
-                                
                             );
 
                             $query = new WP_Query($args);
                             if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
-                    <div class="flex_column av_one_third  flex_column_div first  avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
-                        style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
-                        <section class="av_textblock_section " itemscope="itemscope"
-                            itemtype="https://schema.org/CreativeWork">
-                            <div class="avia_textblock  " itemprop="text">
-                                <h3 style="text-align: center;"><a
-                                        href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                                <p><a href="<?php the_permalink(); ?>"
-                                        style="position: relative; overflow: hidden;"><img loading="lazy"
-                                            class="wp-image-38781 size-full"
-                                            src="<?php the_field('du_an_thumbnail')['url']; ?>"
-                                            alt="vinhomes-ocean-park-3-the-crown" width="800" height="450"
-                                            srcset="<?php the_field('du_an_thumbnail')['url']; ?> 800w,<?php the_field('du_an_thumbnail')['url']; ?>  768w, <?php get_field('du_an_thumbnail')['url']; ?> 705w"
-                                            sizes="(max-width: 800px) 100vw, 800px"><span
-                                            class="image-overlay overlay-type-extern"><span
-                                                class="image-overlay-inside"></span></span></a></p>
-                                <p>Vị trí: Huyện Văn Giang, Văn Lâm, Hưng Yên</p>
-                                <p>Loại hình: Chung cư, biệt thự, liền kề, shophouse</p>
-                                <p>Mở bán: Tháng 10/2022</p>
-                                <p>Bàn giao: Quý II/2023</p>
-                                <p>Giá bán: Đang cập nhật</p>
-                            </div>
-                        </section>
-                    </div>
+                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
+                            style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
+                            <section class="av_textblock_section " itemscope="itemscope"
+                                itemtype="https://schema.org/CreativeWork">
+                                <div class="avia_textblock  " itemprop="text">
+                                    <h3 style="text-align: center;"><a
+                                            href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+                                    <p><a href="<?php the_permalink(); ?>"
+                                            style="position: relative; overflow: hidden;"><img loading="lazy"
+                                                class="wp-image-38781 size-full" src="<?php
+                                                $id = get_the_ID();
+                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
+                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
+                                                class="image-overlay overlay-type-extern"><span
+                                                    class="image-overlay-inside"></span></span></a></p>
+                                    <?php the_excerpt(); ?>
+                                </div>
+                            </section>
+                        </div>
 
-                    <?php endwhile; ?>
+                        <?php endwhile; ?>
 
-                    <?php else: ?>
-
-                    <?php endif; 
+                        <?php else: ?>
+                        <!-- Not posts found -->
+                        <?php endif; 
                         wp_reset_query();
                         ?>
 
@@ -267,15 +256,15 @@ get_header();
     </div>
     <!--end builder template-->
 </div><!-- close default .container_wrap element -->
-<div class="container_wrap footer_color" id="footer">
-
-    <!-- ####### END FOOTER CONTAINER ####### -->
-</div>
 
 
 
+<?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
 <!-- end main -->
 </div>
+  
+<?php get_template_part('templates-part/content', 'fixed'); ?>
+
 
 <?php
 get_footer();

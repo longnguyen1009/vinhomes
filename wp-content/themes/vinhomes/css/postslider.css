@@ -26,12 +26,12 @@ Post Slider
 
 
 .avia_desktop .avia-content-slider .avia-slideshow-arrows a{ opacity: 0; }
-.avia-content-slider:hover .avia-slideshow-arrows a{opacity: 1;}
+#top .avia-content-slider:hover .avia-slideshow-arrows a{opacity: 1;}
 
 
-.avia-content-slider .avia-slideshow-arrows a{ top: 38%; margin: -30px 0 0;}
+#top .avia-content-slider .avia-slideshow-arrows a{ top: 38%; margin: -30px 0 0;}
 
-.avia-content-slider, .avia-content-slider-inner, .avia-content-slider-inner .slide-entry-wrap{ 
+#top .avia-content-slider, #top .avia-content-slider-inner, #top .avia-content-slider-inner .slide-entry-wrap{ 
 /* fixes flickering issue when slider moves. usually other elements in other container flicker. temp removed */
 /* old: */
 /* -webkit-transform-style: preserve-3d; */
@@ -50,17 +50,17 @@ Post Slider
 
 
 /*audio*/
- .avia-content-slider .audio-preview{
+#top #wrap_all .avia-content-slider .audio-preview{
 	margin-top: -36px;
   margin-bottom: -4px;
 }
 
-.avia-content-slider .audio-preview .mejs-volume-button,
-.avia-content-slider .audio-preview .mejs-time{
+#top .avia-content-slider .audio-preview .mejs-volume-button,
+#top .avia-content-slider .audio-preview .mejs-time{
 	display:none;
 }
 
- .mejs-controls a.mejs-horizontal-volume-slider{
+#top #wrap_all .mejs-controls a.mejs-horizontal-volume-slider{
 	width:60px;
 }
 
@@ -72,16 +72,16 @@ Post Slider
 
 @media only screen and (max-width: 767px)
 {
-	.responsive  .slide-entry{width:48%; margin-left:4%}
-	.responsive  .avia-content-slider-even .slide-entry.slide-parity-odd,
-	.responsive  .avia-content-slider-odd .slide-entry.slide-parity-even{margin:0; clear:both;}
-	.responsive  .avia-content-slider-odd  .slide-entry.first{margin-left:0; width:100%;}
+	.responsive #top #wrap_all .slide-entry{width:48%; margin-left:4%}
+	.responsive #top #wrap_all .avia-content-slider-even .slide-entry.slide-parity-odd,
+	.responsive #top #wrap_all .avia-content-slider-odd .slide-entry.slide-parity-even{margin:0; clear:both;}
+	.responsive #top #wrap_all .avia-content-slider-odd  .slide-entry.first{margin-left:0; width:100%;}
 	.responsive avia-content-slider .slide-image img { width: 100%; }
 }
 
 @media only screen and (max-width: 479px)
 {
-	.responsive  .avia-content-slider-odd  .slide-entry{margin-left:0; clear:both; width:100%;}
+	.responsive #top #wrap_all .avia-content-slider-odd  .slide-entry{margin-left:0; clear:both; width:100%;}
 }
 
 

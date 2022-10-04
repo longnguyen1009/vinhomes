@@ -9,7 +9,13 @@
 
 get_header();
 ?>
-    <?php get_tenplate_part('templates-du_an-id/du_an', ) ?>
+    <?php
+     $id = get_the_ID();
+    get_template_part('templates-tin_tuc-id/tin_tuc', $id);
 
+    get_template_part('templates-part/content', 'listProDuctByYear'); 
+  
+    get_template_part('templates-part/content', 'fixed'); 
+    ?>
 <?php
 get_footer();
