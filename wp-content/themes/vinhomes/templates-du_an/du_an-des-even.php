@@ -1,14 +1,13 @@
 <?php
 // du_an Description
 $id = get_the_ID();
-$du_an_thumbnail = get_field('du_an_thumbnail', $id);
 $du_an_gallery_1 = get_field('du_an_gallery_1', $id);
 $du_an_gallery_2 = get_field('du_an_gallery_2', $id);
 $du_an_gallery_3 = get_field('du_an_gallery_3', $id);
 $du_an_gallery_4 = get_field('du_an_gallery_4', $id);
 $du_an_gallery_5 = get_field('du_an_gallery_5', $id);
 
-$ten_du_an = get_field('ten_du_an', $id);
+$mo_ta_heading = get_field('mo_ta_heading', $id);
 $chu_dau_tu = get_field('chu_dau_tu', $id);
 $tong_dien_tich = get_field('tong_dien_tich', $id);
 $mat_do_xay_dung = get_field('mat_do_xay_dung', $id);
@@ -92,7 +91,7 @@ $hinh_thuc_so_huu = get_field('hinh_thuc_so_huu', $id);
                         style="border-radius:0px; ">
                         <div style="padding-bottom:10px; "
                             class="av-special-heading av-special-heading-h2  blockquote modern-quote modern-centered  avia-builder-el-7  el_before_av_textblock  avia-builder-el-first  ">
-                            <h2 class="av-special-heading-tag " itemprop="headline"><?php echo $ten_du_an ;?></h2>
+                            <h2 class="av-special-heading-tag " itemprop="headline"><?php echo $mo_ta_heading ;?></h2>
                             <div class="special-heading-border">
                                 <div class="special-heading-inner-border"></div>
                             </div>

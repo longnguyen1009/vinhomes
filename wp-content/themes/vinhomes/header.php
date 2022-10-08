@@ -22,9 +22,9 @@
     <?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?> id = "top">
+<body <?php body_class(); ?> id="top">
     <?php wp_body_open(); ?>
-    <div id="page" class="site">
+    <div id="wrap_all">
         <header id="header"
             class="all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon av_header_unstick_top_disabled av_bottom_nav_disabled  av_header_border_disabled"
             role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
@@ -41,14 +41,14 @@
                                 <ul id="avia-menu" class="menu av-main-nav">
                                     <li id="menu-item-29969"
                                         class="menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-top-level menu-item-top-level-1 current-menu-item">
-                                        <a href="http://localhost/vungnguyen/ " itemprop="url"><span
+                                        <a href="<?php home_url(); ?>" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">TRANG
                                                 CHỦ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>
                                     </li>
                                     <li id="menu-item-32807"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2">
-                                        <a href="http://localhost/vungnguyen/gioi-thieu/" itemprop="url"><span
+                                        <a href="<?php home_url(); ?>/gioi-thieu/" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">GIỚI
                                                 THIỆU</span><span class="avia-menu-fx"><span
                                                     class="avia-arrow-wrap"><span
@@ -128,7 +128,7 @@
                                     </li>
                                     <li id="menu-item-29971"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5">
-                                        <a href="http://localhost/vungnguyen/lien-he/" itemprop="url"><span
+                                        <a href="<?php home_url(); ?>/lien-he/" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">LIÊN
                                                 HỆ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>

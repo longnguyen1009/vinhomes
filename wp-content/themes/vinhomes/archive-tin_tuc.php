@@ -56,10 +56,7 @@ get_header();
                                     itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
                                     <a href="<?php the_permalink(); ?>" data-rel="slide-1" class="slide-image"
                                         title="Vingroup ra mắt giai đoạn 3 Vinhomes Ocean Park"><img width="495"
-                                            height="400" src="<?php 
-                                                $id = get_the_ID();
-                                                echo get_field('tin_tuc_thumbnail', $id)['url'];
-                                             ?>"
+                                            height="400" src="<?php the_post_thumbnail(); ?>"
                                             class="wp-image-38781 attachment-portfolio size-portfolio wp-post-image"
                                             loading="lazy"><span class="image-overlay overlay-type-extern"
                                             style="left: -5px; top: 0px; overflow: hidden; display: block; height: 272.578px; width: 347.328px;"><span

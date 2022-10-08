@@ -15,6 +15,7 @@
 
         <?php
             $args = array(
+                'post_status' => 'publish',
                 'post_type' => 'tin_tuc',
                 'posts_per_page' => 10,
                 'orderby' => 'ID',
@@ -24,12 +25,10 @@
             if( $query ->have_posts()){
                 while($query ->have_posts()){
                     $query -> the_post();
-                    ?>
+                ?>
         <li class="news-content post-format-standard"><a class="news-link" title="<?php the_title(); ?>"
                 href="<?php the_permalink(); ?>"><span class="news-thumb "><img width="80" height="80" 
-                src="<?php
-                    $id = get_the_ID();
-                    echo get_field('tin_tuc_thumbnail', $id)['url']; ?>"
+                src="<?php the_post_thumbnail(); ?>"
                         class="wp-image-37749 attachment-widget size-widget wp-post-image" loading="lazy"
                         sizes="(max-width: 80px) 100vw, 80px"></span><strong class="news-headline"><?php the_title(); ?>
                     <span
@@ -38,7 +37,6 @@
         <?php
                 }
             }
-
         ?>
 
 

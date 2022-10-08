@@ -10,8 +10,7 @@
 get_header();
 ?>
     <?php
-     $id = get_the_ID();
-    get_template_part('templates-tin_tuc-id/tin_tuc', $id);
+    
 
     get_template_part('templates-part/content', 'listProDuctByYear'); 
   

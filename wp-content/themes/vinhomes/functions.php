@@ -30,6 +30,8 @@ function test_setup() {
 
 	// Add default posts and comments RSS feed links to head.
 	add_theme_support( 'automatic-feed-links' );
+	add_theme_support('post-thumbnails');
+	
 
 	/*
 		* Let WordPress manage the document title.
@@ -79,10 +81,10 @@ add_action( 'after_setup_theme', 'test_setup' );
  *
  * @global int $content_width
  */
-function test_content_width() {
-	$GLOBALS['content_width'] = apply_filters( 'test_content_width', 640 );
-}
-add_action( 'after_setup_theme', 'test_content_width', 0 );
+// function test_content_width() {
+// 	$GLOBALS['content_width'] = apply_filters( 'test_content_width', 640 );
+// }
+// add_action( 'after_setup_theme', 'test_content_width', 0 );
 
 
 /**
@@ -149,7 +151,6 @@ function cw_post_type_du_an() {
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
-	'revisions', // post revisions
 	'post-formats', // post formats
 	);
 	$labels = array(
@@ -181,7 +182,7 @@ function cw_post_type_du_an() {
 
 
 	// Create post type
-	add_post_type_support( 'tin_tuc', 'thumbnail' );
+add_post_type_support( 'tin_tuc', 'thumbnail' );
 add_post_type_support( 'tin_tuc', 'excerpt' );
 function cw_post_type_tin_tuc() {
 	$supports = array(
@@ -190,7 +191,6 @@ function cw_post_type_tin_tuc() {
 	'thumbnail', // featured images
 	'excerpt', // post excerpt
 	'custom-fields', // custom fields
-	'revisions', // post revisions
 	'post-formats', // post formats
 	);
 	$labels = array(
@@ -329,35 +329,64 @@ function add_thoi_gian_taxonomies() {
   }
   add_action( 'init', 'add_thoi_gian_taxonomies', 0 );
 
-
-  function add_toa_taxonomies() {
+  function add_phan_khu_taxonomies() {
 	// Add new "Locations" taxonomy to Posts
-	register_taxonomy('toa', array('du_an','toa_nha'), array(
+	register_taxonomy('phan_khu', array('du_an', 'toa_nha'), array(
 	  // Hierarchical taxonomy (like categories)
 	  'hierarchical' => true,
 	  // This array of options controls the labels displayed in the WordPress Admin UI
 	  'labels' => array(
-		'name' => _x( 'Các toà', 'taxonomy general name' ),
-		'singular_name' => _x( 'toà', 'taxonomy singular name' ),
-		'search_items' =>  __( 'Tìm kiếm toà' ),
-		'all_items' => __( 'Tất cả các toà' ),
+		'name' => _x( 'Các phân khu', 'taxonomy general name' ),
+		'singular_name' => _x( 'phân khu', 'taxonomy singular name' ),
+		'search_items' =>  __( 'Tìm kiếm phân khu' ),
+		'all_items' => __( 'Tất cả các phân khu' ),
 		'parent_item' => __( 'Parent Location' ),
 		'parent_item_colon' => __( 'Parent Location:' ),
-		'edit_item' => __( 'Chỉnh sửa toà' ),
-		'update_item' => __( 'Cập nhật toà' ),
-		'add_new_item' => __( 'Thêm toà mới' ),
-		'new_item_name' => __( 'Tên toà mới' ),
-		'menu_name' => __( 'Các toà' ),
+		'edit_item' => __( 'Chỉnh sửa phân khu' ),
+		'update_item' => __( 'Cập nhật phân khu' ),
+		'add_new_item' => __( 'Thêm phân khu mới' ),
+		'new_item_name' => __( 'Tên phân khu mới' ),
+		'menu_name' => __( 'Các phân khu' ),
 	  ),
 	  // Control the slugs used for this taxonomy
 	  'rewrite' => array(
-		'slug' => 'toa', // This controls the base slug that will display before each term
+		'slug' => 'phan-khu', // This controls the base slug that will display before each term
+		'with_front' => false, // Don't display the category base before "/locations/"
+		'hierarchical' => true // This will allow URL's like "/locations/boston/cambridge/"
+	  ),
+	));
+  }
+  add_action( 'init', 'add_phan_khu_taxonomies', 0 );
+
+
+  function add_loai_toa_taxonomies() {
+	// Add new "Locations" taxonomy to Posts
+	register_taxonomy('loai_toa', array('du_an','toa_nha'), array(
+	  // Hierarchical taxonomy (like categories)
+	  'hierarchical' => true,
+	  // This array of options controls the labels displayed in the WordPress Admin UI
+	  'labels' => array(
+		'name' => _x( 'Các loại toà', 'taxonomy general name' ),
+		'singular_name' => _x( 'loại toà', 'taxonomy singular name' ),
+		'search_items' =>  __( 'Tìm kiếm loại toà' ),
+		'all_items' => __( 'Tất cả cá loại toà' ),
+		'parent_item' => __( 'Phân khu' ),
+		'parent_item_colon' => __( 'phan_khu' ),
+		'edit_item' => __( 'Chỉnh sửa loại toà' ),
+		'update_item' => __( 'Cập nhật loại toà' ),
+		'add_new_item' => __( 'Thêm loại toà mới' ),
+		'new_item_name' => __( 'Tên loại toà mới' ),
+		'menu_name' => __( 'Các loại toà' ),
+	  ),
+	  // Control the slugs used for this taxonomy
+	  'rewrite' => array(
+		'slug' => 'loai_toa', // This controls the base slug that will display before each term
 		'with_front' => false, // Don't display the category base before "/locations/"
 		'hierarchical' => true, // This will allow URL's like "/locations/boston/cambridge/"
 	  ),
 	));
   }
-  add_action( 'init', 'add_toa_taxonomies', 0 );
+  add_action( 'init', 'add_loai_toa_taxonomies', 0 );
 
 /**
  * Use radio inputs instead of checkboxes for term checklists in specified taxonomies.

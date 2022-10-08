@@ -83,9 +83,7 @@ get_header();
                                             href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                                     <p><a href="<?php the_permalink(); ?>"
                                             style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full" src="<?php
-                                                $id = get_the_ID();
-                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
+                                                class="wp-image-38781 size-full" src="<?php the_post_thumbnail(); ?>" width="800"
                                                 height="450" sizes="(max-width: 800px) 100vw, 800px"><span
                                                 class="image-overlay overlay-type-extern"><span
                                                     class="image-overlay-inside"></span></span></a></p>

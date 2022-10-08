@@ -83,7 +83,7 @@
                                 </div>
 
                                 <?php get_template_part('templates-du_an/du_an', 'des-odd'); ?>
-                                
+
                                 <h2><span id="Vi_tri_du_an_Vinhomes_Symphony">Vị trí dự án Vinhomes Symphony</span></h2>
                                 <p>Vinhomes Symphony tọa lạc tại điểm giao giữa 2 tuyến đường Chu Huy Mân và Hội Xá,
                                     thuộc phường Phúc Lợi, quận Long Biên, Hà Nội. Sở hữu hạ tầng giao thông phát triển,
@@ -105,7 +105,8 @@
                                             class="wp-image-30120 size-full"
                                             src="<?php echo wp_get_attachment_url(291); ?>"
                                             alt="vi-tri-vinhomes-symphony" width="1500" height="1250"
-                                            srcset="<?php echo wp_get_attachment_url(291); ?> 1500w, <?php echo wp_get_attachment_url(291); ?> 1030w, "<?php echo wp_get_attachment_url(291); ?> 705w"
+                                            srcset="<?php echo wp_get_attachment_url(291); ?> 1500w, <?php echo wp_get_attachment_url(291); ?> 1030w, "
+                                            <?php echo wp_get_attachment_url(291); ?> 705w"
                                             sizes="(max-width: 1500px) 100vw, 1500px"><span
                                             class="image-overlay overlay-type-image"
                                             style="left: -5px; top: 0px; overflow: hidden; display: block; height: 670.828px; width: 813px;"><span
@@ -119,11 +120,14 @@
                                 <p>Vinhomes Symphony Riverside được phát triển với 7 tòa tháp cao từ 10 – 15 tầng: S1,
                                     S2, S3, S5, S6.A, S6.B, tháp văn phòng. Trong đó:</p>
                                 <ul>
-                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s5-vinhomes-symphony/">S5</a> và tòa
+                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s5-vinhomes-symphony/">S5</a> và
+                                        tòa
                                         tháp văn phòng cùng chung khối đế, nằm trên đường Chu Huy Mân, đối diện với
                                         trung tâm thương mại Vincom Plaza Long Biên.</li>
-                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.A</a> và tòa
-                                        <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.B</a> cùng chung
+                                    <li>Tòa <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.A</a> và
+                                        tòa
+                                        <a href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">S6.B</a> cùng
+                                        chung
                                         khối đế, nằm trên đường Hội Xá.
                                     </li>
                                     <li>Tòa <a href="http://localhost/vungnguyen/toa-s1-vinhomes-symphony/">S1</a>, <a
@@ -132,7 +136,8 @@
                                         trong nội khu, hướng về phía công viên khủng long và khu biệt thự Vinhomes
                                         Riverside.</li>
                                 </ul>
-                                <div id="attachment_29222" style="width: 2010px" class="wp-caption alignnone"><a href="<?php echo wp_get_attachment_url(296); ?>"
+                                <div id="attachment_29222" style="width: 2010px" class="wp-caption alignnone"><a
+                                        href="<?php echo wp_get_attachment_url(296); ?>"
                                         style="position: relative; overflow: hidden;"><img
                                             aria-describedby="caption-attachment-29222" loading="lazy"
                                             class="wp-image-29222 size-full"
@@ -196,8 +201,7 @@
                                     10</div>
                                 <div id="tab-id-1" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="<?php echo wp_get_attachment_url(294); ?>"
-                                                class="alignnone"
+                                        <p><a href="<?php echo wp_get_attachment_url(294); ?>" class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-29235 size-full"
                                                     src="<?php echo wp_get_attachment_url(294); ?>"
@@ -207,7 +211,6 @@
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
-
                                     </div>
                                 </div>
                             </section>
@@ -218,8 +221,7 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 11 - 12</div>
                                 <div id="tab-id-2" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="<?php echo wp_get_attachment_url(297); ?>"
-                                                class="alignnone"
+                                        <p><a href="<?php echo wp_get_attachment_url(297); ?>" class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-29236 size-full"
                                                     src="<?php echo wp_get_attachment_url(297); ?>"
@@ -258,11 +260,9 @@
                                     5</div>
                                 <div id="tab-id-3" class="tab_content active_tab_content" aria-hidden="false">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href=""
-                                                class="alignnone"
+                                        <p><a href="" class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
-                                                    loading="lazy" class="alignnone wp-image-31287 size-full"
-                                                    src=""
+                                                    loading="lazy" class="alignnone wp-image-31287 size-full" src=""
                                                     alt="mat-bang-tang-2-5-toa-s5-vinhomes-symphony" width="2000"
                                                     height="1500"
                                                     srcset=" 2000w, <?php echo wp_get_attachment_url(295); ?> 768w, <?php echo wp_get_attachment_url(295); ?> 1030w, <?php echo wp_get_attachment_url(294); ?> 1536w, <?php echo wp_get_attachment_url(294); ?> 705w"
@@ -280,8 +280,7 @@
                                     class="tab fullsize-tab" itemprop="headline" aria-hidden="true">Tầng 6 - 15</div>
                                 <div id="tab-id-4" class="tab_content " aria-hidden="true">
                                     <div class="tab_inner_content invers-color" itemprop="text">
-                                        <p><a href="<?php echo wp_get_attachment_url(298); ?>"
-                                                class="alignnone"
+                                        <p><a href="<?php echo wp_get_attachment_url(298); ?>" class="alignnone"
                                                 style="margin: 0px; padding: 0px; display: inline-block; position: relative; overflow: hidden;"><img
                                                     loading="lazy" class="alignnone wp-image-31296 size-full"
                                                     src="<?php echo wp_get_attachment_url(298); ?>"
@@ -291,7 +290,6 @@
                                                     sizes="(max-width: 2000px) 100vw, 2000px"><span
                                                     class="image-overlay overlay-type-image"><span
                                                         class="image-overlay-inside"></span></span></a></p>
-
                                     </div>
                                 </div>
                             </section>
@@ -631,46 +629,8 @@
                 </div>
             </div><!-- close content main div -->
             <!-- section close by builder template -->
-            <aside class="sidebar sidebar_right  smartphones_sidebar_active alpha units" role="complementary"
-                itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
-                <div class="inner_sidebar extralight-border">
-
-                    <div id="nav_menu-94" class="widget clearfix widget_nav_menu">
-                        <h3 class="widgettitle">Vinhomes Symphony</h3>
-                        <div class="menu-vinhomes-symphony-container">
-                            <ul id="menu-vinhomes-symphony" class="menu">
-                                <li id="menu-item-31293"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-31293">
-                                    <a href="http://localhost/vungnguyen/vinhomes-symphony/" aria-current="page">Tổng quan
-                                        dự án</a>
-                                </li>
-                                <li id="menu-item-31394"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31394"><a
-                                        href="http://localhost/vungnguyen/toa-s1-vinhomes-symphony/">Tòa S1</a></li>
-                                <li id="menu-item-31398"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31398"><a
-                                        href="http://localhost/vungnguyen/toa-s2-vinhomes-symphony/">Tòa S2</a></li>
-                                <li id="menu-item-31410"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31410"><a
-                                        href="http://localhost/vungnguyen/toa-s3-vinhomes-symphony/">Tòa S3</a></li>
-                                <li id="menu-item-31419"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31419"><a
-                                        href="http://localhost/vungnguyen/toa-s5-vinhomes-symphony/">Tòa S5</a></li>
-                                <li id="menu-item-31425"
-                                    class="menu-item menu-item-type-post_type menu-item-object-post menu-item-31425"><a
-                                        href="http://localhost/vungnguyen/toa-s6-vinhomes-symphony/">Tòa S6</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <?php get_template_part('templates-part/sidebar', 'media') ?>
-
-                    <?php get_template_part('templates-part/sidebar', 'laterNews') ?>
-
-                    <?php get_template_part('templates-part/sidebar', 'account') ?>
-
-                </div>
-            </aside>
+            
+           <?php get_template_part('templates-part/sidebar', 'main'); ?>
         </div>
         <!--end builder template-->
     </div><!-- close default .container_wrap element -->
