@@ -358,36 +358,6 @@ function add_thoi_gian_taxonomies() {
   }
   add_action( 'init', 'add_phan_khu_taxonomies', 0 );
 
-
-  function add_loai_toa_taxonomies() {
-	// Add new "Locations" taxonomy to Posts
-	register_taxonomy('loai_toa', array('du_an','toa_nha'), array(
-	  // Hierarchical taxonomy (like categories)
-	  'hierarchical' => true,
-	  // This array of options controls the labels displayed in the WordPress Admin UI
-	  'labels' => array(
-		'name' => _x( 'Các loại toà', 'taxonomy general name' ),
-		'singular_name' => _x( 'loại toà', 'taxonomy singular name' ),
-		'search_items' =>  __( 'Tìm kiếm loại toà' ),
-		'all_items' => __( 'Tất cả cá loại toà' ),
-		'parent_item' => __( 'Phân khu' ),
-		'parent_item_colon' => __( 'phan_khu' ),
-		'edit_item' => __( 'Chỉnh sửa loại toà' ),
-		'update_item' => __( 'Cập nhật loại toà' ),
-		'add_new_item' => __( 'Thêm loại toà mới' ),
-		'new_item_name' => __( 'Tên loại toà mới' ),
-		'menu_name' => __( 'Các loại toà' ),
-	  ),
-	  // Control the slugs used for this taxonomy
-	  'rewrite' => array(
-		'slug' => 'loai_toa', // This controls the base slug that will display before each term
-		'with_front' => false, // Don't display the category base before "/locations/"
-		'hierarchical' => true, // This will allow URL's like "/locations/boston/cambridge/"
-	  ),
-	));
-  }
-  add_action( 'init', 'add_loai_toa_taxonomies', 0 );
-
 /**
  * Use radio inputs instead of checkboxes for term checklists in specified taxonomies.
  *
@@ -395,7 +365,7 @@ function add_thoi_gian_taxonomies() {
  * @return  array
  */
 function wpse_139269_term_radio_checklist( $args ) {
-    if ( ! empty( $args['taxonomy'] ) && $args['taxonomy'] === 'khu_vuc' || ! empty( $args['taxonomy'] ) && $args['taxonomy'] === 'thoi_gian' /* <== Change to your required taxonomy */ ) {
+    if ( ! empty( $args['taxonomy'] ) && ($args['taxonomy'] === 'khu_vuc' || $args['taxonomy'] === 'thoi_gian' || $args['taxonomy'] === 'phan_khu') /* <== Change to your required taxonomy */ ) {
         if ( empty( $args['walker'] ) || is_a( $args['walker'], 'Walker' ) ) { // Don't override 3rd party walkers.
             if ( ! class_exists( 'WPSE_139269_Walker_Category_Radio_Checklist' ) ) {
                 /**

@@ -45,11 +45,7 @@
                                     class="slide-entry flex_column  post-entry post-entry-38245 slide-entry-overview  av_one_third real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
                                         href="<?php the_permalink(); ?>" data-rel="slide-1" class="slide-image"
-                                        title="<?php the_title(); ?>"><img width="495" height="400" src="<?php $id = get_the_ID();
-                                            echo get_field('tin_tuc_thumbnail', $id)['url']; ?>"
-                                            class="wp-image-37749 attachment-portfolio size-portfolio wp-post-image"
-                                            alt="thanh-pho-bien-ho-vinhomes-ocean-park" loading="lazy"
-                                            style="left: 0px;"></a>
+                                        title="<?php the_title(); ?>"><img width="495" height="400" setsrc="<?php the_post_thumbnail(); ?></a>
                                     <div class="slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a

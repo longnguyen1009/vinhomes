@@ -43,11 +43,8 @@ get_header();
                                 itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
                                 <div class="avia-image-container-inner">
                                     <div class="avia-image-overlay-wrap"><img class="wp-image-32775 avia_image"
-                                            src="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city.jpg"
-                                            alt="vinhomes-times-city" title="Vinhomes Times City" height="500"
-                                            width="500" itemprop="thumbnailUrl"
-                                            srcset="http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city.jpg 500w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city-80x80.jpg 80w, http://localhost/vungnguyen/wp-content/uploads/2020/04/vinhomes-times-city-180x180.jpg 180w"
-                                            sizes="(max-width: 500px) 100vw, 500px"></div>
+                                            src="<?php echo wp_get_attachment_url(455); ?>"
+                                            ></div>
                                 </div>
                             </div>
                         </div>

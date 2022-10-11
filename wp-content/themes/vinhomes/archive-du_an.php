@@ -83,10 +83,10 @@ get_header();
                                             href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                                     <p><a href="<?php the_permalink(); ?>"
                                             style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full" src="<?php the_post_thumbnail(); ?>" width="800"
-                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
-                                                class="image-overlay overlay-type-extern"><span
-                                                    class="image-overlay-inside"></span></span></a></p>
+                                                class="wp-image-38781 size-full" setsrc="<?php the_post_thumbnail(); ?>
+                                                <span
+                                                class=" image-overlay overlay-type-extern"><span
+                                                class="image-overlay-inside"></span></span></a></p>
                                     <?php the_excerpt(); ?>
                                 </div>
                             </section>
@@ -146,12 +146,9 @@ get_header();
                                             href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                                     <p><a href="<?php the_permalink(); ?>"
                                             style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full" src="<?php
-                                                $id = get_the_ID();
-                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
-                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
-                                                class="image-overlay overlay-type-extern"><span
-                                                    class="image-overlay-inside"></span></span></a></p>
+                                                class="wp-image-38781 size-full" setsrc="<?php the_post_thumbnail(); ?><span
+                                                class=" image-overlay overlay-type-extern"><span
+                                                class="image-overlay-inside"></span></span></a></p>
                                     <?php the_excerpt(); ?>
                                 </div>
                             </section>
@@ -204,31 +201,28 @@ get_header();
 
                             $query = new WP_Query($args);
                             if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
-                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
-                            style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
-                            <section class="av_textblock_section " itemscope="itemscope"
-                                itemtype="https://schema.org/CreativeWork">
-                                <div class="avia_textblock  " itemprop="text">
-                                    <h3 style="text-align: center;"><a
-                                            href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                                    <p><a href="<?php the_permalink(); ?>"
-                                            style="position: relative; overflow: hidden;"><img loading="lazy"
-                                                class="wp-image-38781 size-full" src="<?php
-                                                $id = get_the_ID();
-                                                echo get_field('du_an_thumbnail', $id)['url']; ?>" width="800"
-                                                height="450" sizes="(max-width: 800px) 100vw, 800px"><span
-                                                class="image-overlay overlay-type-extern"><span
-                                                    class="image-overlay-inside"></span></span></a></p>
-                                    <?php the_excerpt(); ?>
-                                </div>
-                            </section>
-                        </div>
+                    <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
+                        style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
+                        <section class="av_textblock_section " itemscope="itemscope"
+                            itemtype="https://schema.org/CreativeWork">
+                            <div class="avia_textblock  " itemprop="text">
+                                <h3 style="text-align: center;"><a
+                                        href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+                                <p><a href="<?php the_permalink(); ?>"
+                                        style="position: relative; overflow: hidden;"><img loading="lazy"
+                                            class="wp-image-38781 size-full" setsrc="<?php the_post_thumbnail(); ?><span
+                                            class="image-overlay overlay-type-extern"><span
+                                                class="image-overlay-inside"></span></span></a></p>
+                                <?php the_excerpt(); ?>
+                            </div>
+                        </section>
+                    </div>
 
-                        <?php endwhile; ?>
+                    <?php endwhile; ?>
 
-                        <?php else: ?>
-                        <!-- Not posts found -->
-                        <?php endif; 
+                    <?php else: ?>
+                    <!-- Not posts found -->
+                    <?php endif; 
                         wp_reset_query();
                         ?>
 
@@ -260,7 +254,7 @@ get_header();
 <?php get_template_part('templates-part/content', 'listProDuctByYear'); ?>
 <!-- end main -->
 </div>
-  
+
 <?php get_template_part('templates-part/content', 'fixed'); ?>
 
 

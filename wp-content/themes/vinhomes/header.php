@@ -1,13 +1,17 @@
 <?php
-/**
- * The header for our theme
- *
- * This is the template that displays all of the <head> section and everything up until <div id="content">
- *
- * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
- *
- * @package VinHomes
- */
+
+global $wp;
+$current_link = home_url( $wp->request );
+$temp = 0;
+if(str_contains($current_link, 'gioi-thieu')){
+    $temp = 1;
+} elseif(str_contains($current_link, 'du-an')){
+    $temp = 2;
+} elseif(str_contains($current_link, 'tin-tuc')){
+    $temp = 3;
+} elseif(str_contains($current_link, 'lien he')){
+    $temp = 4;
+}
 
 ?>
 <!doctype html>
@@ -40,22 +44,31 @@
                             <div class="avia-menu av-main-nav-wrap">
                                 <ul id="avia-menu" class="menu av-main-nav">
                                     <li id="menu-item-29969"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home menu-item-top-level menu-item-top-level-1 current-menu-item">
-                                        <a href="<?php home_url(); ?>" itemprop="url"><span
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-top-level menu-item-top-level-1 
+                                        <?php if($temp == 0){ ?>
+                                            current_page_item current-menu-item
+                                        <?php } ?>">
+                                        <a href="<?php echo get_home_url(); ?>" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">TRANG
                                                 CHỦ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>
                                     </li>
                                     <li id="menu-item-32807"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2">
-                                        <a href="<?php home_url(); ?>/gioi-thieu/" itemprop="url"><span
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2
+                                        <?php if($temp == 1){ ?>
+                                            current_page_item current-menu-item
+                                        <?php } ?>">
+                                        <a href="<?php echo  get_home_url(); ?>/gioi-thieu/" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">GIỚI
                                                 THIỆU</span><span class="avia-menu-fx"><span
                                                     class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>
                                     </li>
                                     <li id="menu-item-29970"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-3 dropdown_ul_available"
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-mega-parent menu-item-top-level menu-item-top-level-3 dropdown_ul_available
+                                        <?php if($temp == 2){ ?>
+                                            current_page_item current-menu-item
+                                        <?php } ?>"
                                         style="overflow: hidden;"><a
                                             href="<?php echo get_post_type_archive_link('du_an'); ?>"
                                             itemprop="url"><span class="avia-bullet"></span><span
@@ -119,7 +132,10 @@
                                         </div>
                                     </li>
                                     <li id="menu-item-29972"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-4">
+                                        class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-top-level menu-item-top-level-4
+                                        <?php if($temp == 3){ ?>
+                                            current_page_item current-menu-item
+                                        <?php } ?>">
                                         <a href="<?php echo get_post_type_archive_link('tin_tuc'); ?>"
                                             itemprop="url"><span class="avia-bullet"></span><span
                                                 class="avia-menu-text">TIN
@@ -127,8 +143,11 @@
                                                         class="avia-arrow"></span></span></span></a>
                                     </li>
                                     <li id="menu-item-29971"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5">
-                                        <a href="<?php home_url(); ?>/lien-he/" itemprop="url"><span
+                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5
+                                        <?php if($temp == 4){ ?>
+                                            current_page_item current-menu-item
+                                        <?php } ?>">
+                                        <a href="<?php echo get_home_url(); ?>/lien-he/" itemprop="url"><span
                                                 class="avia-bullet"></span><span class="avia-menu-text">LIÊN
                                                 HỆ</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span
                                                         class="avia-arrow"></span></span></span></a>
