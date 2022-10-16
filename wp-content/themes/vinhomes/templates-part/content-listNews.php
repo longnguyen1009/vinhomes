@@ -31,6 +31,7 @@
                                 style="visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);">
                                 <?php
                                     $args = array(
+                                        'post_status' => 'public',
                                         'post_type' => 'tin_tuc',
                                         'posts_per_page' => 2,
                                         'orderby' => 'ID',
@@ -40,7 +41,7 @@
                                     if($query ->have_posts() ){
                                         while($query -> have_posts() ){
                                             $query -> the_post();
-                                        ?>
+                                     ?>
                                 <article
                                     class="slide-entry flex_column  post-entry post-entry-38245 slide-entry-overview  av_one_third real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a

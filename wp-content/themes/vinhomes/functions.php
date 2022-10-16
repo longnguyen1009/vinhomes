@@ -107,8 +107,6 @@ function vinhomes_scripts() {
 	wp_enqueue_script( 'vinhomes-jquery', get_template_directory_uri() . '/js/jquery.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'vinhomes-font-awesome', get_template_directory_uri() . '/js/font-awesome.js', array(), _S_VERSION, true );
 	wp_enqueue_script('vinhomes-menu_hover', get_template_directory_uri() . '/js/avia-snippet-megamenu.js', array(), _S_VERSION, true);
-
-	
 }
 add_action( 'wp_enqueue_scripts', 'vinhomes_scripts' );
 
@@ -365,7 +363,7 @@ function add_thoi_gian_taxonomies() {
  * @return  array
  */
 function wpse_139269_term_radio_checklist( $args ) {
-    if ( ! empty( $args['taxonomy'] ) && ($args['taxonomy'] === 'khu_vuc' || $args['taxonomy'] === 'thoi_gian' || $args['taxonomy'] === 'phan_khu') /* <== Change to your required taxonomy */ ) {
+    if ( ! empty( $args['taxonomy'] ) && ($args['taxonomy'] === 'khu_vuc' || $args['taxonomy'] === 'thoi_gian') /* <== Change to your required taxonomy */ ) {
         if ( empty( $args['walker'] ) || is_a( $args['walker'], 'Walker' ) ) { // Don't override 3rd party walkers.
             if ( ! class_exists( 'WPSE_139269_Walker_Category_Radio_Checklist' ) ) {
                 /**

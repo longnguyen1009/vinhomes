@@ -37,8 +37,10 @@
         <?php
                 }
             }
+            wp_reset_query();
         ?>
 
 
     </ul><span class="seperator extralight-border"></span>
 </section>
+

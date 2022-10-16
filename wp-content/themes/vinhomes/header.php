@@ -80,14 +80,14 @@ if(str_contains($current_link, 'gioi-thieu')){
                                             style="opacity: 0; display: none;">
 
                                             <ul class="sub-menu">
-
-
-                                                <?php 
+                                    <?php 
                                                    $terms = get_terms([
                                                        'taxonomy' => 'khu_vuc'
                                                    ]); 
                                                     foreach($terms as $key => $termObject){
                                                         ?>
+
+                                                
                                                 <li id="menu-item-20971"
                                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children avia_mega_menu_columns_3 three units  avia_mega_menu_columns_first">
                                                     <span
@@ -95,14 +95,14 @@ if(str_contains($current_link, 'gioi-thieu')){
                                                     <ul class="sub-menu">
                                                         <?php
                                                                         $args = array(
-                                                                        'tax_query' => array(
-                                                                            array(
-                                                                                'taxonomy' => 'khu_vuc',
-                                                                                'field' => 'name',
-                                                                                'terms' => $termObject->name
+                                                                            'tax_query' => array(
+                                                                                array(
+                                                                                    'taxonomy' => 'khu_vuc',
+                                                                                    'field' => 'name',
+                                                                                    'terms' => $termObject->name
+                                                                                    )
                                                                                 )
-                                                                            )
-                                                                        );
+                                                                            );
 
                                                                         $query = new WP_Query($args);
 
