@@ -107,6 +107,7 @@ function vinhomes_scripts() {
 	wp_enqueue_script( 'vinhomes-jquery', get_template_directory_uri() . '/js/jquery.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'vinhomes-font-awesome', get_template_directory_uri() . '/js/font-awesome.js', array(), _S_VERSION, true );
 	wp_enqueue_script('vinhomes-menu_hover', get_template_directory_uri() . '/js/avia-snippet-megamenu.js', array(), _S_VERSION, true);
+	wp_enqueue_script('vinhomes-tab-section', get_template_directory_uri() . '/js/tab_section.js', array(), _S_VERSION, true);
 }
 add_action( 'wp_enqueue_scripts', 'vinhomes_scripts' );
 

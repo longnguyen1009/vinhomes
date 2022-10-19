@@ -659,7 +659,7 @@
                                     dưới.</p>
                             </div>
                         </section>
-                        <form action="http://localhost/vungnguyen/vinhomes-smart-city/" method="post"
+                        <form action="<?php echo get_home_url(); ?>/vinhomes-smart-city/" method="post"
                             class="avia_ajax_form av-form-labels-hidden   avia-builder-el-6  el_after_av_textblock  el_before_av_social_share   "
                             data-avia-form-id="1" data-avia-redirect="">
                             <fieldset>

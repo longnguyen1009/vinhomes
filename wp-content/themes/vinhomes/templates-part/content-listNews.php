@@ -31,9 +31,9 @@
                                 style="visibility: visible; opacity: 1; transition: none 0s ease 0s; transform: translateZ(0px);">
                                 <?php
                                     $args = array(
-                                        'post_status' => 'public',
+                                        'post_status' => 'publish',
                                         'post_type' => 'tin_tuc',
-                                        'posts_per_page' => 2,
+                                        'posts_per_page' => 3,
                                         'orderby' => 'ID',
                                         'order' => 'DESC',
                                     );
@@ -43,42 +43,40 @@
                                             $query -> the_post();
                                      ?>
                                 <article
-                                    class="slide-entry flex_column  post-entry post-entry-38245 slide-entry-overview  av_one_third real-thumbnail post-format-standard"
+                                    class="slide-entry flex_column post-entry post-entry-38245 slide-entry-overview  av_one_third real-thumbnail post-format-standard"
                                     itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><a
-                                        href="<?php the_permalink(); ?>" data-rel="slide-1" class="slide-image"
-                                        title="<?php the_title(); ?>"><img width="495" height="400" setsrc="<?php the_post_thumbnail(); ?></a>
-                                    <div class="slide-content">
+                                        href="<?php the_permalink(); ?>" data-rel="slide-1" class="slide-image"><img
+                                            width="495" height="400" setsrc="<?php the_post_thumbnail(); ?></a>
+                                    <div class=" slide-content">
                                         <header class="entry-content-header">
                                             <h3 class="slide-entry-title entry-title " itemprop="headline"><a
-                                                    href="<?php the_permalink(); ?>"
-                                                    title="<?php the_title(); ?>"><?php the_title(); ?></a></h3><span
+                                                    href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3><span
                                                 class="av-vertical-delimiter"></span>
                                         </header>
-                                    </div>
-                                </article>
-                                <?php
-                                    }
-                                    next_posts_link();
-                                    echo get_next_posts_link();
-                                }
-                                ?>
                             </div>
-                            
-
+                            </article>
+                            <?php
+                                    }
+                                }
+                                wp_reset_query();
+                                ?>
                         </div>
-                        <div class="avia-slideshow-arrows avia-slideshow-controls">
 
-                            <a href="" class="prev-slide" aria-hidden="true"
-                                data-av_icon="" data-av_iconfont="entypo-fontello">Previous</a>
-                            <a href="" class="next-slide" aria-hidden="true" data-av_icon=""
-                                data-av_iconfont="entypo-fontello">Next</a>
-                        </div>
+
                     </div>
-                    <p></p>
+                    <div class="avia-slideshow-arrows avia-slideshow-controls">
+
+                        <a href="" class="prev-slide" aria-hidden="true" data-av_icon=""
+                            data-av_iconfont="entypo-fontello">Previous</a>
+                        <a href="" class="next-slide" aria-hidden="true" data-av_icon=""
+                            data-av_iconfont="entypo-fontello">Next</a>
+                    </div>
                 </div>
+                <p></p>
             </div>
-        </div><!-- close content main div -->
-        <!-- section close by builder template -->
-    </div>
-    <!--end builder template-->
+        </div>
+    </div><!-- close content main div -->
+    <!-- section close by builder template -->
+</div>
+<!--end builder template-->
 </div>

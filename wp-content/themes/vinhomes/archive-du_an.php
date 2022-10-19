@@ -55,6 +55,7 @@ get_header();
                         </section>
 
                         <?php 
+                        $i = 1;
                             $args = array(
                                 'post_type' => 'du_an',
                                 'orderby' => 'ID',
@@ -74,7 +75,8 @@ get_header();
 
                             $query = new WP_Query($args);
                             if ( $query -> have_posts() ) : while ( $query -> have_posts() ) : $query -> the_post(); ?>
-                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin"
+                        <div class="flex_column av_one_third  flex_column_div avia-builder-el-41  el_after_av_textblock  el_before_av_one_third  column-top-margin
+                        <?php if($i%3 == 1){ ?> first <?php } ?>"
                             style="border-width:1px; border-color:#eeeeee; border-style:solid; padding:20px; background-color:#f8f8f8; border-radius:0px; ">
                             <section class="av_textblock_section " itemscope="itemscope"
                                 itemtype="https://schema.org/CreativeWork">
@@ -92,7 +94,7 @@ get_header();
                             </section>
                         </div>
 
-                        <?php endwhile; ?>
+                        <?php $i++; endwhile; ?>
 
                         <?php else: ?>
                         <!-- Not posts found -->
@@ -211,8 +213,8 @@ get_header();
                                 <p><a href="<?php the_permalink(); ?>"
                                         style="position: relative; overflow: hidden;"><img loading="lazy"
                                             class="wp-image-38781 size-full" setsrc="<?php the_post_thumbnail(); ?><span
-                                            class="image-overlay overlay-type-extern"><span
-                                                class="image-overlay-inside"></span></span></a></p>
+                                            class=" image-overlay overlay-type-extern"><span
+                                            class="image-overlay-inside"></span></span></a></p>
                                 <?php the_excerpt(); ?>
                             </div>
                         </section>

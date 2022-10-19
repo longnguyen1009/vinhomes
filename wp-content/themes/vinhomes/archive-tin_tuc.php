@@ -35,12 +35,16 @@ get_header();
                             <?php
                                 $args = array(
                                     'post_type' => 'tin_tuc',
-                                    'posts _per_page' => 12,
+                                    'posts_per_page' => 9,
                                     'orderby' => "ID",
                                     'order' => 'DESC',
                                     'post_status' => 'publish',
+                                    'paged' => max( 1, get_query_var('paged') ),
 
                                 );
+
+
+                                
                                 $query = new WP_Query($args);
                                 $i = 1;
                                 if( $query ->have_posts() ){
@@ -52,7 +56,8 @@ get_header();
                                 <?php } ?>
 
                                 <article
-                                    class="slide-entry flex_column  post-entry post-entry-38852 slide-entry-overview slide-loop-2 slide-parity-even  av_one_third  real-thumbnail post-format-standard"
+                                    class="slide-entry flex_column  post-entry post-entry-38852 slide-entry-overview slide-parity-even  av_one_third  real-thumbnail post-format-standard
+                                    slide-loop-<?php echo((($i-1)%3)+1); if($i%3==1){ ?> first <?php } ?>"
                                     itemscope="itemscope" itemtype="https://schema.org/BlogPosting" itemprop="blogPost">
                                     <a href="<?php the_permalink(); ?>" data-rel="slide-1" class="slide-image"
                                         title="Vingroup ra mắt giai đoạn 3 Vinhomes Ocean Park"><img width="495"
@@ -86,14 +91,15 @@ get_header();
 
                             <?php
                                         }
+                                        the_posts_pagination( array( 
+                                            'prev_next' => false,
+                                            'current'      => max( 1, get_query_var('paged') ),
+                                            'total'        => $query->max_num_pages,
+                                         ) );
                                     }
                                  ?>
 
                         </div>
-                        <?php the_posts_pagination( array( 
-                            'prev_next' => false,
-                         ) ); ?>
-
                         
                     </div>
                 </div>

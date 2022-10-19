@@ -68,7 +68,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	 @import url(./css/image.css);
 	 
 	 
-	 @import url(./css/postslider.css);
 	 @import url(./css/contentslider.css);
 	 @import url(./css/slideshow.css);
 	 @import url(./css/slideshow_accordion.css);
@@ -79,7 +78,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	 @import url(./css/tab_section.css);
 	 
 	 @import url(./css/contact.css);
-	 
+
 	 @import url(./css/social_share.css);
 	 
 	 @import url(./css/gallery.css);
@@ -93,6 +92,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	 
 	 
 	 @import url(./css/enfold.css);
+	 @import url(./css/postslider.css);
 	 @import url(./css/layout.css);
 	 @import url(./css/shortcodes.css);
 	 @import url(./css/avia-snippet-widget.css);

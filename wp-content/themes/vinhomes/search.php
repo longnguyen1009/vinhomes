@@ -43,6 +43,7 @@ get_header();
                 <?php if(get_search_query()) { ?>
 
                     <?php 
+                    $i = 1;
                         $args = array(
                             'post_status' => 'publish',
                             'posts_per_page' => 12,
@@ -60,13 +61,13 @@ get_header();
                         <div class="entry-content-wrapper clearfix standard-content">
 
                             <header class="entry-content-header">
-                                <span class="search-result-counter ">1</span>
+                                <span class="search-result-counter "><?php echo $i; ?></span>
                                 <h2 class="post-title entry-title "><a title="<?php the_title(); ?>"
                                         href="<?php the_permalink(); ?>" itemprop="headline"><?php the_title(); ?></a></h2>
                                 <span class="post-meta-infos">
                                     <time class="date-container minor-meta updated" itemprop="datePublished"
-                                        datetime="<?php echo get_post_datetime( $source = 'gmt'); ?>"><?php echo get_the_date(); ?></time>
-                                    <span class="text-sep">/</span><span class="blog-categories minor-meta">in <a
+                                        datetime="<?php echo get_post_datetime( $source = 'gmt'); ?>"><a href="<?php the_permalink(); ?>" rel="tag"><?php echo get_the_date(); ?></a></time>
+                                    <span class="text-sep">/</span><span class="blog-categories minor-meta">in <?php the_title(); ?><a
                                             href="<?php echo get_post_type_archive_link(get_post_type(get_the_ID())); ?>"
                                             rel="tag"></a> </span>
                                 </span>
@@ -76,7 +77,7 @@ get_header();
                                 <p><?php the_excerpt(); ?></p>
                             </div>
                         </div>
-                        <?php endwhile; ?>
+                        <?php $i++; endwhile; ?>
 
                         <?php else: ?>
                         <!-- Not posts found -->
